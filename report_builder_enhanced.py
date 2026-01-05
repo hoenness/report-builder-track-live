@@ -5,6 +5,8 @@ import plotly.graph_objects as go
 from datetime import datetime, timedelta
 import json
 from io import BytesIO
+import os
+
 
 # Configuration de la page
 st.set_page_config(
@@ -105,15 +107,15 @@ st.markdown("""
 # Charger les données
 @st.cache_data
 def load_data():
-    """Charge toutes les données générées"""
     return {
-        'trips': pd.read_csv('C:/Users/jhhjjh/Desktop/report-builder2/data/trips_data.csv'),
-        'daily': pd.read_csv('C:/Users/jhhjjh/Desktop/report-builder2/data/daily_summary.csv'),
-        'performance': pd.read_csv('C:/Users/jhhjjh/Desktop/report-builder2/data/performance_data.csv'),
-        'safety': pd.read_csv('C:/Users/jhhjjh/Desktop/report-builder2/data/safety_data.csv'),
-        'maintenance': pd.read_csv('C:/Users/jhhjjh/Desktop/report-builder2/data/maintenance_data.csv'),
-        'alerts': pd.read_csv('C:/Users/jhhjjh/Desktop/report-builder2/data/alerts_data.csv')
+        'trips': pd.read_csv('data/trips_data.csv'),
+        'daily': pd.read_csv('data/daily_summary.csv'),
+        'performance': pd.read_csv('data/performance_data.csv'),
+        'safety': pd.read_csv('data/safety_data.csv'),
+        'maintenance': pd.read_csv('data/maintenance_data.csv'),
+        'alerts': pd.read_csv('data/alerts_data.csv')
     }
+
 
 data = load_data()
 
