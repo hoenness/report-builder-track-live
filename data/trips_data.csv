@@ -1,0 +1,978 @@
+Date,Véhicule,Immatriculation,Type,Modèle,Conducteur,Départ,Arrivée,Zone Départ,Zone Arrivée,Distance (km),Durée Trajet,Durée Arrêts,Nombre Arrêts,Vitesse Moy (km/h),Vitesse Max (km/h),Carburant (L),Conso Moy (L/100km),Temps Ralenti (min),Excès Vitesse (nb),Freinages Brusques,Accélérations Brusques,Score Conduite
+2025-12-06,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Khadija Kane,10:48,13:31,Keur Massar,Guédiawaye,124.67,2:43:00,0:00:00,0,45.89,63.96,21.65,17.363692308540905,25,0,0,5,67
+2025-12-06,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Ndèye Mbaye,13:39,15:47,Yeumbeul,Port de Dakar,61.01,2:08:00,0:00:00,0,28.6,34.07,10.25,16.797584345047714,9,0,0,4,64
+2025-12-06,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Mariama Wade,17:43,18:49,Guédiawaye,Parcelles Assainies,123.74,1:06:00,1:10:00,5,112.49,156.92,22.11,17.865295701922705,30,0,0,3,64
+2025-12-06,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Fatou Sall,09:35,11:39,Plateau (Dakar),Guédiawaye,21.77,2:04:00,0:24:00,2,10.53,14.71,2.48,11.3730997513869,18,0,0,6,97
+2025-12-06,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Aminata Sy,17:21,18:16,Keur Massar,Yeumbeul,82.18,0:55:00,0:25:00,1,89.65,120.04,6.59,8.015983820972867,20,1,0,3,97
+2025-12-06,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Fatou Sall,17:35,19:51,Mbao,Grand Yoff,102.35,2:16:00,0:14:00,1,45.15,58.04,8.71,8.511328391787664,27,0,0,5,81
+2025-12-06,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Abdou Gueye,10:30,12:18,Parcelles Assainies,Grand Yoff,95.35,1:48:00,0:45:00,3,52.97,65.92,8.32,8.720582772827203,23,0,0,0,67
+2025-12-06,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Moussa Diouf,06:21,07:04,Diamniadio,Grand Yoff,63.19,0:43:00,1:00:00,5,88.17,101.74,6.58,10.408747043097547,10,0,3,0,72
+2025-12-06,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Babacar Sow,15:29,17:54,Mbao,Parcelles Assainies,121.43,2:25:00,0:29:00,1,50.25,59.98,9.76,8.035674794175588,5,0,8,6,86
+2025-12-06,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Cheikh Ndiaye,15:19,16:07,Port de Dakar,Plateau (Dakar),107.36,0:48:00,0:06:00,1,134.2,175.22,11.91,11.089643444157504,30,1,0,0,79
+2025-12-06,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Abdou Gueye,09:08,11:09,Plateau (Dakar),Yeumbeul,100.32,2:01:00,0:15:00,1,49.75,55.92,18.37,18.30973572672991,29,5,0,3,91
+2025-12-06,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Ibrahima Sarr,14:50,16:17,Sébikotane,Mbao,9.07,1:27:00,0:00:00,0,6.26,7.06,1.41,15.545818384426115,29,4,0,0,70
+2025-12-06,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Ousmane Fall,18:50,21:23,Bargny,Grand Yoff,121.1,2:33:00,0:44:00,2,47.49,56.03,20.24,16.710087195241076,22,0,4,1,95
+2025-12-06,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Ndèye Mbaye,11:24,12:34,Grand Yoff,Almadies,27.44,1:10:00,0:00:00,0,23.52,26.3,5.34,19.44375043276483,18,0,5,0,99
+2025-12-06,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ousmane Fall,08:00,09:37,Guédiawaye,Grand Yoff,83.46,1:37:00,0:26:00,1,51.62,61.41,21.26,25.47336508711309,20,0,0,0,91
+2025-12-06,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Babacar Sow,06:53,07:21,Keur Massar,Port de Dakar,98.09,0:28:00,1:32:00,4,210.19,234.02,32.2,32.830799687398454,9,0,0,0,63
+2025-12-06,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Astou Diallo,07:09,07:25,Guédiawaye,Pikine,65.78,0:16:00,1:35:00,5,246.68,310.24,19.85,30.17227892022858,16,0,0,3,74
+2025-12-06,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Moussa Diouf,10:48,12:48,Bargny,Pikine,10.55,2:00:00,1:40:00,4,5.28,5.97,1.0,9.471896947418676,12,0,0,0,96
+2025-12-06,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Ibrahima Sarr,17:52,19:51,Yeumbeul,Parcelles Assainies,105.6,1:59:00,0:00:00,0,53.24,62.02,11.59,10.97086419176502,24,0,8,0,71
+2025-12-06,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Cheikh Ndiaye,11:00,13:41,SOCOCIM Rufisque,Mbao,56.61,2:41:00,1:30:00,5,21.1,29.49,4.72,8.333244556040636,15,3,6,0,93
+2025-12-06,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Mamadou Diop,12:10,14:35,Diamniadio,Grand Yoff,33.99,2:25:00,0:18:00,2,14.06,19.51,3.18,9.34345488273311,22,2,0,0,94
+2025-12-06,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Fatou Sall,10:02,13:00,Guédiawaye,Thiaroye,99.58,2:58:00,0:00:00,0,33.57,41.55,17.99,18.06516439176551,22,0,0,0,93
+2025-12-06,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Mamadou Diop,06:26,07:55,Diamniadio,Bargny,29.69,1:29:00,0:40:00,2,20.02,23.74,5.19,17.49670219308854,10,0,0,0,92
+2025-12-06,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Ousmane Fall,15:15,17:22,Pikine,Grand Yoff,31.15,2:07:00,0:00:00,0,14.72,20.48,4.94,15.872692051011972,25,0,6,0,80
+2025-12-06,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Ousmane Fall,17:12,18:10,Grand Yoff,Keur Massar,125.04,0:58:00,0:21:00,3,129.35,157.84,19.32,15.453129778100818,5,0,0,0,100
+2025-12-06,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Mariama Wade,10:45,13:05,Yeumbeul,Grand Yoff,100.62,2:20:00,0:42:00,2,43.12,59.64,15.79,15.697497859621489,20,0,0,0,64
+2025-12-06,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Aminata Sy,17:05,19:52,Plateau (Dakar),Pikine,40.1,2:47:00,0:14:00,2,14.41,18.11,10.38,25.884408562036782,24,0,0,0,90
+2025-12-06,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Aïssatou Ba,14:18,16:02,Pikine,Sébikotane,28.75,1:44:00,0:00:00,0,16.59,18.76,9.31,32.3836675964603,16,0,0,0,89
+2025-12-06,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Ibrahima Sarr,12:43,13:34,Plateau (Dakar),Sébikotane,126.0,0:51:00,1:12:00,3,148.24,182.65,44.09,34.990469781624185,13,0,3,0,99
+2025-12-06,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Astou Diallo,10:27,11:27,Guédiawaye,Yeumbeul,100.22,1:00:00,0:00:00,0,100.22,117.72,34.9,34.82677969497178,6,0,0,5,85
+2025-12-07,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Alioune Seck,16:12,18:41,Almadies,Port de Dakar,104.74,2:29:00,0:00:00,0,42.18,55.7,11.82,11.289856226374198,28,0,0,0,82
+2025-12-07,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ibrahima Sarr,12:47,13:06,Diamniadio,Pikine,135.63,0:19:00,0:30:00,1,428.31,585.24,11.67,8.603705450003572,29,4,0,0,67
+2025-12-07,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Fatou Sall,12:24,13:52,Thiaroye,Guédiawaye,64.1,1:28:00,1:24:00,3,43.7,48.53,6.06,9.457541583926965,15,0,0,0,68
+2025-12-07,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Fatou Sall,18:01,19:19,Plateau (Dakar),Keur Massar,99.68,1:18:00,0:00:00,0,76.68,97.5,9.46,9.490663134249461,14,0,5,0,68
+2025-12-07,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Astou Diallo,13:19,16:06,Bargny,Almadies,58.69,2:47:00,0:40:00,2,21.09,25.33,14.88,25.358208194402792,19,0,0,2,64
+2025-12-07,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Aminata Sy,12:14,13:54,Yeumbeul,Diamniadio,49.78,1:40:00,0:00:00,0,29.87,41.12,14.22,28.55788479517182,20,1,0,0,69
+2025-12-07,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Astou Diallo,06:09,08:58,Diamniadio,Bargny,69.18,2:49:00,0:15:00,1,24.56,31.7,19.9,28.760254006877226,20,0,0,4,71
+2025-12-07,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Abdou Gueye,18:32,19:20,Almadies,Thiaroye,75.54,0:48:00,0:18:00,2,94.42,123.97,24.28,32.14584648636196,13,1,0,1,100
+2025-12-07,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Alioune Seck,09:55,10:47,Bargny,Parcelles Assainies,30.17,0:52:00,1:55:00,5,34.81,47.11,9.22,30.547091207671677,8,3,6,0,80
+2025-12-07,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Aïssatou Ba,08:45,10:09,Mbao,Parcelles Assainies,54.15,1:24:00,0:14:00,2,38.68,48.76,5.22,9.635041720469959,5,0,8,0,98
+2025-12-07,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Fatou Sall,15:28,16:41,Pikine,Plateau (Dakar),143.24,1:13:00,0:42:00,3,117.73,145.34,11.81,8.245392496313467,30,4,5,0,91
+2025-12-07,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Alioune Seck,06:52,09:50,Port de Dakar,Parcelles Assainies,59.5,2:58:00,0:52:00,4,20.06,25.97,5.64,9.473152772599931,30,0,6,0,88
+2025-12-07,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Abdou Gueye,11:28,12:01,Parcelles Assainies,Bargny,41.57,0:33:00,1:32:00,4,75.58,105.26,4.58,11.017433730554115,27,3,0,0,64
+2025-12-07,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Mamadou Diop,15:34,16:57,Keur Massar,Mbao,91.49,1:23:00,0:25:00,5,66.14,83.03,17.07,18.6593120956849,28,0,0,0,62
+2025-12-07,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Mamadou Diop,17:56,19:38,Almadies,Thiaroye,143.79,1:42:00,1:10:00,5,84.58,102.4,24.39,16.9647167716332,14,0,2,4,99
+2025-12-07,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Fatou Sall,14:05,15:42,Parcelles Assainies,Mbao,63.1,1:37:00,0:32:00,2,39.03,47.8,11.71,18.550575082163597,10,0,0,0,94
+2025-12-07,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Alioune Seck,06:31,07:34,Yeumbeul,Diamniadio,143.25,1:03:00,1:10:00,5,136.43,172.99,23.85,16.65124948560627,8,0,0,0,91
+2025-12-07,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Mamadou Diop,16:46,17:38,Yeumbeul,Keur Massar,112.77,0:52:00,0:00:00,0,130.12,154.99,17.7,15.696405135020596,15,1,0,0,100
+2025-12-07,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Moussa Diouf,08:34,09:37,Plateau (Dakar),Bargny,32.74,1:03:00,0:52:00,4,31.18,35.5,8.91,27.20257613799744,12,0,0,0,97
+2025-12-07,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Abdou Gueye,08:16,10:51,Sébikotane,Pikine,77.72,2:35:00,0:56:00,4,30.09,33.71,26.73,34.39460414397749,15,0,5,0,69
+2025-12-07,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ousmane Fall,06:29,07:28,Diamniadio,Keur Massar,8.48,0:59:00,0:24:00,2,8.62,10.8,2.38,28.03395561016843,18,0,6,0,98
+2025-12-07,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ndèye Mbaye,16:25,18:56,Plateau (Dakar),Thiaroye,23.07,2:31:00,0:24:00,4,9.17,12.77,7.82,33.88166624511867,18,0,0,5,69
+2025-12-07,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ousmane Fall,18:29,20:43,Parcelles Assainies,Plateau (Dakar),67.03,2:14:00,1:00:00,4,30.01,41.1,23.12,34.48696665156213,7,5,0,0,67
+2025-12-07,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Aminata Sy,14:36,17:36,Plateau (Dakar),Sébikotane,127.66,3:00:00,0:28:00,1,42.55,56.75,42.57,33.34751329990847,21,0,1,4,62
+2025-12-07,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Aminata Sy,06:30,08:18,Plateau (Dakar),Thiaroye,40.18,1:48:00,1:18:00,3,22.32,29.76,12.22,30.415153032945547,14,0,0,0,77
+2025-12-07,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Mamadou Diop,09:44,10:54,Bargny,Sébikotane,39.23,1:10:00,0:14:00,2,33.63,39.85,6.41,16.33352753193219,9,0,6,0,60
+2025-12-07,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Ndèye Mbaye,14:18,15:28,Thiaroye,Diamniadio,11.5,1:10:00,1:44:00,4,9.86,13.14,1.83,15.951224733358416,24,3,7,0,72
+2025-12-07,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Mamadou Diop,06:40,07:25,Guédiawaye,Plateau (Dakar),142.02,0:45:00,0:46:00,2,189.36,218.73,21.34,15.024238519417645,12,0,2,0,73
+2025-12-07,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Mamadou Diop,11:33,13:06,Guédiawaye,Grand Yoff,64.52,1:33:00,0:44:00,2,41.63,57.99,12.33,19.10273048171235,26,0,0,1,74
+2025-12-07,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Abdou Gueye,10:38,11:19,Plateau (Dakar),Keur Massar,70.0,0:41:00,0:15:00,3,102.44,123.29,7.56,10.8004116713328,8,0,0,0,96
+2025-12-07,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Cheikh Ndiaye,11:15,13:58,Parcelles Assainies,Keur Massar,144.46,2:43:00,0:25:00,1,53.18,60.14,49.24,34.08314442490014,12,0,0,0,60
+2025-12-07,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Alioune Seck,10:14,10:42,Guédiawaye,Sébikotane,93.97,0:28:00,2:10:00,5,201.36,226.49,28.27,30.08453320894925,13,0,2,4,72
+2025-12-07,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Ousmane Fall,08:46,11:33,Bargny,Pikine,105.23,2:47:00,0:20:00,2,37.81,44.1,16.98,16.132597116881257,30,0,0,0,82
+2025-12-07,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Khadija Kane,12:00,14:36,Mbao,Diamniadio,72.4,2:36:00,0:46:00,2,27.85,35.71,13.04,18.012350121211014,19,4,2,0,75
+2025-12-07,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Ndèye Mbaye,12:11,14:21,Parcelles Assainies,Keur Massar,26.92,2:10:00,0:15:00,1,12.42,17.15,4.35,16.159627226978284,25,0,3,0,75
+2025-12-07,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Ibrahima Sarr,13:19,15:43,Grand Yoff,Pikine,119.53,2:24:00,0:30:00,3,49.8,63.06,23.2,19.41234102767052,12,0,0,0,60
+2025-12-07,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Ousmane Fall,15:27,17:29,Keur Massar,Bargny,7.99,2:02:00,0:39:00,3,3.93,5.19,2.42,30.334142908332964,15,0,0,2,90
+2025-12-07,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Aminata Sy,09:25,12:12,Thiaroye,Diamniadio,92.28,2:47:00,0:32:00,4,33.15,40.59,24.74,26.81270176968416,26,1,0,0,79
+2025-12-07,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Fatou Sall,09:21,09:55,Yeumbeul,Diamniadio,83.87,0:34:00,0:10:00,1,148.01,193.71,28.81,34.34980241887091,22,0,0,0,72
+2025-12-07,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Mamadou Diop,14:51,15:11,Mbao,Parcelles Assainies,95.38,0:20:00,0:52:00,2,286.14,375.11,29.33,30.746664401929525,27,0,0,1,68
+2025-12-07,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Alioune Seck,06:10,07:09,Grand Yoff,Pikine,47.62,0:59:00,0:57:00,3,48.43,66.7,11.92,25.023001106523875,23,0,0,0,80
+2025-12-07,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Babacar Sow,07:51,10:17,Almadies,Parcelles Assainies,70.94,2:26:00,1:03:00,3,29.15,32.98,21.93,30.907700068310824,30,0,0,0,90
+2025-12-07,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Cheikh Ndiaye,12:01,13:23,Plateau (Dakar),Grand Yoff,89.42,1:22:00,1:45:00,5,65.43,76.88,24.65,27.562272629046205,19,0,1,0,71
+2025-12-07,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Ndèye Mbaye,17:29,18:32,Almadies,Pikine,20.4,1:03:00,1:56:00,4,19.43,21.5,5.51,27.002815813708835,8,0,0,0,66
+2025-12-07,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mamadou Diop,13:39,14:32,Parcelles Assainies,Keur Massar,130.13,0:53:00,0:48:00,2,147.32,165.57,44.4,34.121330057934486,29,0,0,0,66
+2025-12-08,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Mariama Wade,10:27,13:12,Mbao,Sébikotane,15.19,2:45:00,0:54:00,3,5.52,6.21,2.8,18.457822443107954,25,2,0,0,63
+2025-12-08,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Cheikh Ndiaye,07:53,08:10,Port de Dakar,Thiaroye,125.28,0:17:00,0:00:00,0,442.16,520.79,22.92,18.29114310120702,17,0,0,0,75
+2025-12-08,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Babacar Sow,09:03,09:48,Pikine,Plateau (Dakar),99.22,0:45:00,0:14:00,2,132.29,165.82,9.6,9.673117646277994,28,3,0,0,71
+2025-12-08,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Khadija Kane,08:02,09:41,Parcelles Assainies,SOCOCIM Rufisque,57.47,1:39:00,1:00:00,2,34.83,41.05,17.23,29.989118574044266,13,3,0,0,100
+2025-12-08,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Ndèye Mbaye,09:47,12:36,Keur Massar,Thiaroye,89.55,2:49:00,0:00:00,0,31.79,35.95,30.49,34.04773621828292,23,5,7,0,87
+2025-12-08,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Fatou Sall,18:03,19:58,Parcelles Assainies,Sébikotane,16.97,1:55:00,0:09:00,1,8.85,10.24,1.98,11.640250199045573,11,0,0,6,91
+2025-12-08,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Ibrahima Sarr,11:56,13:11,Bargny,Sébikotane,8.69,1:15:00,0:00:00,0,6.95,9.1,0.84,9.64005089193381,26,3,4,0,98
+2025-12-08,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Fatou Sall,07:12,09:50,Thiaroye,Almadies,28.63,2:38:00,0:40:00,5,10.87,13.25,3.0,10.465318454752923,6,3,0,0,70
+2025-12-08,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Abdou Gueye,09:31,11:42,Parcelles Assainies,Keur Massar,61.49,2:11:00,1:03:00,3,28.16,33.14,5.39,8.770611992677283,18,0,0,0,81
+2025-12-08,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Mamadou Diop,08:58,11:50,Bargny,Thiaroye,14.76,2:52:00,0:42:00,3,5.15,6.27,1.32,8.92123408797644,26,0,0,0,82
+2025-12-08,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ndèye Mbaye,08:45,10:36,Parcelles Assainies,Almadies,117.42,1:51:00,0:23:00,1,63.47,81.02,35.34,30.09595112560719,17,0,0,0,79
+2025-12-08,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Astou Diallo,06:01,07:01,Pikine,Plateau (Dakar),144.29,1:00:00,1:12:00,3,144.29,191.81,49.86,34.554273805104216,11,0,0,0,98
+2025-12-08,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Mariama Wade,12:56,14:40,Plateau (Dakar),Guédiawaye,38.45,1:44:00,1:30:00,5,22.18,30.72,12.81,33.303749013916274,11,1,0,0,89
+2025-12-08,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Abdou Gueye,12:05,13:11,Pikine,Port de Dakar,12.87,1:06:00,0:26:00,1,11.7,15.85,4.24,32.97526933554762,23,0,3,0,88
+2025-12-08,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Alioune Seck,11:56,14:29,Almadies,SOCOCIM Rufisque,85.69,2:33:00,2:05:00,5,33.6,44.94,7.13,8.326474858066707,17,0,3,6,72
+2025-12-08,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Ndèye Mbaye,07:01,08:42,Grand Yoff,Mbao,136.27,1:41:00,0:25:00,5,80.95,93.8,14.67,10.763669819522617,12,0,0,0,66
+2025-12-08,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Fatou Sall,11:04,12:59,Sébikotane,Bargny,66.62,1:55:00,1:04:00,4,34.76,42.91,6.75,10.128796448802973,29,0,7,6,65
+2025-12-08,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Babacar Sow,14:14,14:51,Mbao,SOCOCIM Rufisque,124.07,0:37:00,1:08:00,4,201.19,240.49,13.16,10.605960761829076,10,0,3,0,74
+2025-12-08,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Mamadou Diop,10:12,12:28,Mbao,Plateau (Dakar),103.22,2:16:00,1:00:00,4,45.54,59.26,9.32,9.031340436880003,13,2,0,0,73
+2025-12-08,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Cheikh Ndiaye,10:04,11:47,Guédiawaye,Port de Dakar,5.82,1:43:00,1:18:00,3,3.39,4.32,1.92,33.043405829593716,9,4,0,0,67
+2025-12-08,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Fatou Sall,06:29,08:05,Guédiawaye,Sébikotane,16.96,1:36:00,0:54:00,2,10.6,13.7,4.97,29.306918101715286,19,0,0,0,67
+2025-12-08,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Fatou Sall,12:40,15:22,Keur Massar,Grand Yoff,133.84,2:42:00,0:05:00,1,49.57,69.03,39.01,29.149737427639664,15,5,8,0,90
+2025-12-08,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Cheikh Ndiaye,07:24,08:43,Keur Massar,Mbao,122.58,1:19:00,0:08:00,1,93.1,121.71,32.48,26.49530661273139,24,0,0,1,86
+2025-12-08,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Moussa Diouf,12:26,14:53,SOCOCIM Rufisque,Plateau (Dakar),90.87,2:27:00,0:34:00,2,37.09,43.21,14.07,15.47887353322509,23,4,2,0,78
+2025-12-08,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Moussa Diouf,08:26,10:19,Guédiawaye,Pikine,117.7,1:53:00,0:24:00,2,62.5,70.91,22.07,18.754854042902682,9,0,0,0,95
+2025-12-08,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Fatou Sall,17:12,18:41,SOCOCIM Rufisque,Parcelles Assainies,128.48,1:29:00,0:54:00,3,86.62,102.1,22.67,17.647563766402307,28,0,0,0,65
+2025-12-08,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Astou Diallo,14:37,14:54,SOCOCIM Rufisque,Bargny,79.65,0:17:00,1:35:00,5,281.12,337.49,15.8,19.83318366170442,9,0,6,0,87
+2025-12-08,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Khadija Kane,16:14,16:32,Plateau (Dakar),Port de Dakar,92.47,0:18:00,0:00:00,0,308.23,397.52,17.15,18.55006411952733,12,0,3,0,94
+2025-12-08,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Aïssatou Ba,11:14,12:13,Grand Yoff,Keur Massar,47.17,0:59:00,0:40:00,2,47.97,52.9,4.51,9.553754136278572,5,3,7,0,85
+2025-12-08,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Fatou Sall,16:50,19:21,Thiaroye,Bargny,42.76,2:31:00,0:16:00,2,16.99,21.85,3.43,8.018360171862987,16,0,0,5,76
+2025-12-08,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Moussa Diouf,18:45,20:17,Plateau (Dakar),Thiaroye,100.81,1:32:00,1:24:00,3,65.75,79.32,8.84,8.764301385108674,10,0,2,4,85
+2025-12-08,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Moussa Diouf,12:29,13:44,Keur Massar,Almadies,80.59,1:15:00,0:00:00,0,64.47,83.85,15.97,19.810845693655367,9,1,2,0,74
+2025-12-08,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Ibrahima Sarr,11:54,14:11,Bargny,Thiaroye,129.53,2:17:00,0:00:00,0,56.73,78.28,39.86,30.77234221864213,13,0,1,5,77
+2025-12-08,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Aïssatou Ba,07:49,09:21,Thiaroye,Grand Yoff,91.25,1:32:00,1:32:00,4,59.51,76.19,28.55,31.28391595524836,30,0,0,4,81
+2025-12-09,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Alioune Seck,09:14,11:44,Keur Massar,Port de Dakar,41.66,2:30:00,0:16:00,1,16.66,18.88,7.58,18.2060111241754,23,0,0,0,95
+2025-12-09,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Astou Diallo,11:44,13:39,Yeumbeul,Plateau (Dakar),98.22,1:55:00,0:40:00,2,51.25,62.1,26.64,27.126359025636376,18,3,0,0,62
+2025-12-09,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Moussa Diouf,08:11,10:57,Plateau (Dakar),Port de Dakar,122.85,2:46:00,0:28:00,4,44.4,61.97,10.26,8.355546473419503,6,0,7,0,65
+2025-12-09,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Cheikh Ndiaye,13:19,13:50,Port de Dakar,Parcelles Assainies,100.98,0:31:00,0:30:00,1,195.45,238.65,10.78,10.67521300266219,30,0,8,0,61
+2025-12-09,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Cheikh Ndiaye,10:42,10:58,Diamniadio,Yeumbeul,140.53,0:16:00,1:16:00,4,526.99,636.35,41.85,29.779613249411828,10,0,2,0,69
+2025-12-09,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Mamadou Diop,06:52,09:11,Plateau (Dakar),Yeumbeul,38.61,2:19:00,1:04:00,4,16.67,22.5,10.16,26.31116302724226,10,0,7,1,76
+2025-12-09,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Aïssatou Ba,11:14,13:52,Yeumbeul,Guédiawaye,112.92,2:38:00,0:16:00,1,42.88,52.93,17.11,15.151676164157369,16,0,1,3,69
+2025-12-09,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Aïssatou Ba,18:25,19:47,Diamniadio,Parcelles Assainies,107.24,1:22:00,0:48:00,2,78.47,104.23,20.34,18.96696749535333,17,0,2,0,68
+2025-12-09,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Abdou Gueye,13:30,16:11,Parcelles Assainies,Thiaroye,118.07,2:41:00,1:18:00,3,44.0,59.55,19.19,16.253146912811086,20,0,0,0,90
+2025-12-09,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Alioune Seck,13:06,15:16,Plateau (Dakar),Yeumbeul,87.28,2:10:00,0:26:00,2,40.28,55.21,13.52,15.4904989954962,24,5,0,0,67
+2025-12-09,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Ousmane Fall,14:54,16:48,SOCOCIM Rufisque,Thiaroye,14.26,1:54:00,1:00:00,2,7.51,9.28,2.3,16.09545370874228,6,0,0,4,86
+2025-12-09,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Fatou Sall,11:46,14:44,Pikine,Bargny,124.51,2:58:00,0:13:00,1,41.97,58.72,14.25,11.447526398751101,18,2,6,0,71
+2025-12-09,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Babacar Sow,17:07,18:27,Guédiawaye,Parcelles Assainies,80.54,1:20:00,1:36:00,4,60.41,80.77,9.54,11.851021318455597,12,0,0,0,90
+2025-12-09,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Cheikh Ndiaye,12:58,15:08,Grand Yoff,Sébikotane,90.28,2:10:00,1:36:00,4,41.67,53.38,8.74,9.677460341580625,10,0,0,0,85
+2025-12-09,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Astou Diallo,06:03,07:06,Thiaroye,SOCOCIM Rufisque,88.9,1:03:00,0:21:00,3,84.67,110.25,8.18,9.197114092942762,13,3,0,0,78
+2025-12-09,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Aminata Sy,13:10,15:41,Grand Yoff,Keur Massar,121.31,2:31:00,1:10:00,5,48.2,64.62,9.9,8.164387322843254,29,0,0,3,86
+2025-12-09,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Mamadou Diop,11:59,14:01,Guédiawaye,Mbao,65.32,2:02:00,0:33:00,3,32.12,43.41,16.76,25.657257726872665,9,2,0,0,91
+2025-12-09,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Fatou Sall,08:46,11:17,Thiaroye,Pikine,133.61,2:31:00,0:30:00,3,53.09,62.31,40.81,30.546368344454642,14,0,6,3,85
+2025-12-09,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Ibrahima Sarr,12:33,14:50,Bargny,Sébikotane,117.76,2:17:00,0:54:00,3,51.57,70.97,31.05,26.365831093178322,23,0,0,5,86
+2025-12-09,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Ndèye Mbaye,13:46,15:01,Plateau (Dakar),Grand Yoff,125.15,1:15:00,0:00:00,0,100.12,130.57,35.14,28.07441054204408,15,0,7,6,63
+2025-12-09,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Babacar Sow,14:34,16:26,Grand Yoff,Keur Massar,92.51,1:52:00,0:09:00,1,49.56,60.85,29.52,31.905699665587136,11,0,4,0,76
+2025-12-09,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Moussa Diouf,17:00,18:24,Port de Dakar,Mbao,108.51,1:24:00,0:35:00,5,77.51,90.42,33.13,30.53426488593947,21,0,0,4,91
+2025-12-10,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Moussa Diouf,08:13,10:06,Sébikotane,Diamniadio,78.4,1:53:00,1:20:00,5,41.63,49.05,14.0,17.856968232009883,7,0,2,0,78
+2025-12-10,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ousmane Fall,10:55,13:44,Bargny,Almadies,104.27,2:49:00,0:30:00,1,37.02,46.99,12.0,11.50383551088843,13,0,0,0,82
+2025-12-10,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Mariama Wade,07:12,10:06,SOCOCIM Rufisque,Pikine,46.27,2:54:00,0:00:00,0,15.96,20.69,4.68,10.110735270047886,10,5,0,2,69
+2025-12-10,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Aminata Sy,12:25,15:04,Mbao,Almadies,138.37,2:39:00,1:52:00,4,52.22,60.56,39.52,28.564495322735826,11,0,0,0,61
+2025-12-10,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Aminata Sy,17:13,18:28,Bargny,Pikine,145.12,1:15:00,0:48:00,2,116.1,152.38,39.43,27.173981813174162,7,0,7,3,86
+2025-12-10,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Moussa Diouf,11:14,12:08,Pikine,Grand Yoff,62.57,0:54:00,0:00:00,0,69.52,85.49,17.77,28.406888124673358,23,0,8,0,74
+2025-12-10,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Abdou Gueye,08:18,09:19,Grand Yoff,Diamniadio,38.26,1:01:00,1:06:00,3,37.63,46.43,12.91,33.748993458634935,10,1,1,5,76
+2025-12-10,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Alioune Seck,16:41,18:17,Pikine,Parcelles Assainies,115.55,1:36:00,1:24:00,4,72.22,84.71,35.73,30.925511108905916,22,0,0,0,96
+2025-12-10,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Khadija Kane,14:37,16:18,Sébikotane,Port de Dakar,121.06,1:41:00,1:03:00,3,71.92,93.63,37.66,31.10484334811792,11,0,0,0,89
+2025-12-10,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Mariama Wade,18:59,19:38,Sébikotane,Keur Massar,57.96,0:39:00,1:32:00,4,89.17,112.52,5.44,9.389735759364434,6,0,2,0,85
+2025-12-10,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Mariama Wade,10:14,10:40,Bargny,Plateau (Dakar),25.72,0:26:00,0:57:00,3,59.35,67.51,7.21,28.049232366262626,25,0,0,0,88
+2025-12-10,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ousmane Fall,18:49,21:17,Plateau (Dakar),Pikine,40.33,2:28:00,0:44:00,4,16.35,21.05,14.0,34.724203580730034,22,0,0,0,83
+2025-12-10,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Fatou Sall,13:10,14:24,Port de Dakar,Diamniadio,136.32,1:14:00,1:00:00,5,110.53,122.56,36.66,26.89225258958193,26,0,0,2,83
+2025-12-10,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Aminata Sy,11:03,13:52,Port de Dakar,Parcelles Assainies,115.6,2:49:00,1:36:00,4,41.04,53.11,35.13,30.390494303055466,20,0,2,6,72
+2025-12-10,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ndèye Mbaye,14:33,16:51,Diamniadio,Pikine,149.82,2:18:00,0:00:00,0,65.14,75.77,43.29,28.895036810935462,14,0,0,0,83
+2025-12-10,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Ndèye Mbaye,16:14,17:31,Port de Dakar,Bargny,43.88,1:17:00,0:00:00,0,34.19,45.24,11.55,26.32904627209266,22,0,0,0,96
+2025-12-10,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Fatou Sall,11:31,13:03,Thiaroye,Mbao,148.74,1:32:00,0:06:00,1,97.0,119.88,48.96,32.91851342208254,18,0,0,5,82
+2025-12-10,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Cheikh Ndiaye,15:08,15:54,Keur Massar,SOCOCIM Rufisque,42.89,0:46:00,0:40:00,2,55.94,62.8,11.26,26.264407615552972,10,5,0,0,73
+2025-12-10,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Cheikh Ndiaye,18:00,20:08,Thiaroye,Plateau (Dakar),83.65,2:08:00,0:00:00,0,39.21,50.43,21.61,25.835370000599468,6,4,0,0,95
+2025-12-10,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mamadou Diop,09:27,12:06,Port de Dakar,Almadies,45.49,2:39:00,0:26:00,1,17.17,23.2,14.87,32.68792688189727,21,0,0,0,97
+2025-12-10,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Cheikh Ndiaye,17:54,18:56,Keur Massar,Diamniadio,137.15,1:02:00,0:51:00,3,132.73,174.53,21.35,15.567235675960267,24,5,0,0,82
+2025-12-10,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Mariama Wade,17:10,19:49,Diamniadio,Bargny,77.04,2:39:00,0:34:00,2,29.07,36.23,13.81,17.92581096794958,23,0,6,0,70
+2025-12-10,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Ndèye Mbaye,18:01,19:31,Bargny,Yeumbeul,140.71,1:30:00,0:55:00,5,93.81,129.19,23.01,16.352094316283143,20,2,0,2,61
+2025-12-10,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Cheikh Ndiaye,13:33,16:01,Parcelles Assainies,Mbao,147.26,2:28:00,0:29:00,1,59.7,82.3,51.13,34.71990415499296,22,0,0,0,95
+2025-12-10,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Mamadou Diop,10:59,12:48,Plateau (Dakar),SOCOCIM Rufisque,129.32,1:49:00,0:27:00,1,71.19,79.42,35.05,27.099675486433185,12,0,0,6,96
+2025-12-10,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Ibrahima Sarr,10:25,13:11,Almadies,Plateau (Dakar),89.18,2:46:00,0:48:00,2,32.23,36.63,22.44,25.160913383178364,8,0,5,0,85
+2025-12-10,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Cheikh Ndiaye,10:28,12:28,Keur Massar,Bargny,112.15,2:00:00,0:00:00,0,56.08,71.44,34.28,30.563803434601752,21,0,7,0,94
+2025-12-11,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Ousmane Fall,07:49,08:53,Guédiawaye,Almadies,110.87,1:04:00,0:24:00,3,103.94,138.47,19.63,17.709688585263713,28,0,0,3,71
+2025-12-11,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Moussa Diouf,17:24,19:29,Pikine,SOCOCIM Rufisque,126.8,2:05:00,0:26:00,2,60.86,72.41,39.06,30.80416632296419,29,0,8,0,85
+2025-12-11,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Mamadou Diop,12:03,13:54,Parcelles Assainies,Pikine,59.25,1:51:00,0:17:00,1,32.03,41.21,18.07,30.493563438003125,30,4,0,0,66
+2025-12-11,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Babacar Sow,18:48,20:47,Bargny,Grand Yoff,53.41,1:59:00,0:32:00,2,26.93,35.75,17.01,31.84138717312139,12,0,4,6,80
+2025-12-11,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Khadija Kane,18:35,19:22,Port de Dakar,Almadies,62.21,0:47:00,0:00:00,0,79.42,110.9,15.65,25.16458594997571,19,0,0,0,98
+2025-12-11,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Moussa Diouf,15:47,18:33,Grand Yoff,Plateau (Dakar),50.79,2:46:00,1:50:00,5,18.36,25.22,17.5,34.45245411788517,15,0,2,0,85
+2025-12-11,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Fatou Sall,09:22,10:25,Yeumbeul,SOCOCIM Rufisque,30.26,1:03:00,2:00:00,4,28.82,35.65,8.71,28.7970547910719,17,0,0,0,88
+2025-12-11,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Astou Diallo,15:33,16:35,Grand Yoff,Port de Dakar,57.47,1:02:00,0:00:00,0,55.62,65.89,5.09,8.86204533678967,16,0,3,2,99
+2025-12-11,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Khadija Kane,18:26,19:48,Pikine,Mbao,137.91,1:22:00,2:10:00,5,100.91,136.75,15.09,10.940791179065604,6,4,2,0,63
+2025-12-11,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Aïssatou Ba,08:19,10:21,Mbao,Thiaroye,126.42,2:02:00,1:55:00,5,62.17,79.38,40.34,31.907759782199477,16,0,0,0,91
+2025-12-11,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Khadija Kane,09:25,12:21,Keur Massar,Parcelles Assainies,56.16,2:56:00,0:06:00,1,19.15,24.83,8.62,15.351141477803857,7,0,0,0,99
+2025-12-11,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Fatou Sall,09:26,11:35,Mbao,Thiaroye,141.28,2:09:00,0:28:00,4,65.71,88.89,21.5,15.219586053656853,8,0,0,0,77
+2025-12-11,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Khadija Kane,13:17,14:40,Bargny,Pikine,140.41,1:23:00,0:17:00,1,101.5,128.66,26.35,18.767988808186878,17,3,0,6,75
+2025-12-11,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Mamadou Diop,11:08,13:29,Keur Massar,Diamniadio,51.31,2:21:00,0:57:00,3,21.83,25.03,9.75,19.007690619613896,6,0,0,3,74
+2025-12-11,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Babacar Sow,11:49,14:11,Mbao,SOCOCIM Rufisque,139.71,2:22:00,0:00:00,0,59.03,66.8,13.88,9.93844042393587,5,4,0,0,83
+2025-12-11,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Ousmane Fall,11:03,12:00,SOCOCIM Rufisque,Diamniadio,102.48,0:57:00,2:20:00,5,107.87,131.39,9.28,9.055317473015986,12,0,0,0,73
+2025-12-11,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Ousmane Fall,17:15,19:48,Mbao,Parcelles Assainies,56.52,2:33:00,0:46:00,2,22.16,25.05,5.14,9.09036890200807,5,0,0,0,66
+2025-12-11,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Fatou Sall,16:22,16:48,Keur Massar,Grand Yoff,34.67,0:26:00,2:00:00,4,80.01,110.56,9.0,25.96756590964801,29,0,0,0,85
+2025-12-11,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Babacar Sow,14:49,16:48,Sébikotane,Mbao,8.44,1:59:00,0:48:00,4,4.26,5.63,1.49,17.675949953062457,28,0,0,1,72
+2025-12-11,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Mamadou Diop,18:52,20:29,Thiaroye,Almadies,63.7,1:37:00,0:28:00,1,39.4,44.28,12.73,19.989934962405886,7,4,0,5,78
+2025-12-11,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Mamadou Diop,10:22,12:52,Keur Massar,Grand Yoff,83.1,2:30:00,0:56:00,2,33.24,41.28,14.64,17.62018484208315,12,2,5,0,72
+2025-12-11,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Fatou Sall,08:13,08:42,Port de Dakar,Plateau (Dakar),137.11,0:29:00,0:55:00,5,283.68,379.38,36.4,26.550483189061303,20,0,5,1,89
+2025-12-11,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Alioune Seck,12:50,13:57,SOCOCIM Rufisque,Guédiawaye,11.18,1:07:00,1:12:00,3,10.01,11.09,3.9,34.89428170823416,16,0,0,0,85
+2025-12-11,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Alioune Seck,09:02,10:07,Guédiawaye,Port de Dakar,109.71,1:05:00,0:28:00,1,101.27,116.95,30.8,28.070489909374075,22,0,0,0,83
+2025-12-12,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Fatou Sall,07:02,08:29,Almadies,Diamniadio,82.15,1:27:00,0:21:00,1,56.66,70.49,8.47,10.307103892203532,12,5,6,0,89
+2025-12-12,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Fatou Sall,18:10,18:41,SOCOCIM Rufisque,Keur Massar,135.36,0:31:00,0:00:00,0,261.99,300.58,13.46,9.945493146418798,10,0,4,0,93
+2025-12-12,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Mamadou Diop,09:24,10:45,Bargny,Yeumbeul,52.03,1:21:00,1:30:00,5,38.54,49.83,14.32,27.52354754838282,26,1,0,0,95
+2025-12-12,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Alioune Seck,12:29,15:09,Mbao,Keur Massar,122.36,2:40:00,0:39:00,3,45.89,53.31,42.7,34.89411445622749,17,3,0,3,99
+2025-12-12,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Alioune Seck,12:51,14:42,Parcelles Assainies,Guédiawaye,86.58,1:51:00,0:28:00,2,46.8,57.03,28.28,32.66231452091639,9,0,0,0,73
+2025-12-12,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Khadija Kane,18:37,21:27,Bargny,Port de Dakar,97.49,2:50:00,0:26:00,1,34.41,40.02,24.67,25.300153378682356,24,0,0,0,78
+2025-12-12,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Aminata Sy,10:31,12:47,Thiaroye,Parcelles Assainies,58.02,2:16:00,1:00:00,3,25.6,33.11,16.84,29.02446459696696,30,0,0,0,69
+2025-12-12,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Khadija Kane,10:50,11:36,Almadies,SOCOCIM Rufisque,9.37,0:46:00,1:21:00,3,12.22,14.81,2.64,28.15919338245775,20,1,0,3,70
+2025-12-12,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Aïssatou Ba,11:01,12:44,Yeumbeul,Thiaroye,97.52,1:43:00,0:08:00,1,56.81,63.49,29.92,30.68113837518438,29,0,0,2,89
+2025-12-12,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Babacar Sow,08:15,09:03,Sébikotane,Thiaroye,68.38,0:48:00,1:25:00,5,85.47,102.88,18.89,27.62153449533712,7,0,1,0,88
+2025-12-12,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Mamadou Diop,17:04,18:31,Parcelles Assainies,Yeumbeul,66.28,1:27:00,0:00:00,0,45.71,52.96,23.11,34.862228717284296,14,0,4,0,93
+2025-12-12,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Khadija Kane,09:09,12:07,Bargny,SOCOCIM Rufisque,38.37,2:58:00,0:00:00,0,12.93,17.67,10.25,26.71832997376722,18,0,0,0,66
+2025-12-12,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mariama Wade,17:43,19:07,Pikine,Grand Yoff,5.57,1:24:00,1:30:00,5,3.98,4.68,1.66,29.83446320258688,9,0,2,0,97
+2025-12-12,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Khadija Kane,09:53,11:22,Parcelles Assainies,Bargny,146.38,1:29:00,0:06:00,1,98.68,127.85,41.64,28.44337622867236,25,0,7,0,66
+2025-12-12,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Khadija Kane,12:00,12:21,Mbao,Almadies,123.42,0:21:00,1:32:00,4,352.63,445.98,34.27,27.76745858280123,18,0,8,0,78
+2025-12-12,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Aïssatou Ba,15:41,15:57,Parcelles Assainies,Diamniadio,13.75,0:16:00,0:00:00,0,51.56,65.37,2.6,18.924112173649053,23,0,4,0,91
+2025-12-12,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Cheikh Ndiaye,06:01,08:15,Plateau (Dakar),Thiaroye,142.38,2:14:00,1:52:00,4,63.75,87.54,48.67,34.183986832344885,28,0,0,2,99
+2025-12-12,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Moussa Diouf,12:08,14:15,Mbao,Guédiawaye,52.47,2:07:00,1:45:00,5,24.79,33.63,13.32,25.38609100266858,27,0,0,4,83
+2025-12-12,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Aïssatou Ba,08:23,09:53,SOCOCIM Rufisque,Plateau (Dakar),6.95,1:30:00,0:00:00,0,4.63,5.27,1.86,26.806523290884204,8,0,0,0,78
+2025-12-12,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Alioune Seck,10:05,12:00,Guédiawaye,Mbao,143.96,1:55:00,1:24:00,4,75.11,98.42,45.68,31.728567401368295,15,0,0,0,76
+2025-12-13,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Fatou Sall,11:59,13:08,Thiaroye,Grand Yoff,19.68,1:09:00,0:00:00,0,17.11,19.35,3.03,15.384026939877481,21,0,0,0,60
+2025-12-13,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Moussa Diouf,06:17,06:35,Guédiawaye,Pikine,21.05,0:18:00,1:52:00,4,70.17,78.43,4.01,19.030436010211428,30,2,0,0,94
+2025-12-13,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Fatou Sall,13:18,14:59,SOCOCIM Rufisque,Parcelles Assainies,128.94,1:41:00,0:27:00,1,76.6,102.46,25.46,19.741820821989933,9,0,5,4,99
+2025-12-13,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Fatou Sall,10:07,12:30,Diamniadio,Parcelles Assainies,134.01,2:23:00,0:38:00,2,56.23,72.32,13.35,9.960893396045186,16,1,3,0,94
+2025-12-13,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Cheikh Ndiaye,16:05,19:00,Grand Yoff,Guédiawaye,67.2,2:55:00,1:32:00,4,23.04,26.96,6.1,9.07642329424769,9,0,0,0,75
+2025-12-13,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Alioune Seck,06:13,08:20,Guédiawaye,Sébikotane,13.75,2:07:00,0:25:00,1,6.5,7.7,1.37,9.971140871734995,16,0,0,0,84
+2025-12-13,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Mariama Wade,08:01,10:45,Parcelles Assainies,Sébikotane,84.07,2:44:00,0:19:00,1,30.76,41.2,9.53,11.341325760191202,10,0,2,0,82
+2025-12-13,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Ousmane Fall,11:36,13:48,Guédiawaye,Mbao,146.43,2:12:00,0:24:00,1,66.56,78.84,49.6,33.87435584963056,24,0,0,0,63
+2025-12-13,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Moussa Diouf,09:42,12:34,Keur Massar,Plateau (Dakar),53.32,2:52:00,0:36:00,2,18.6,22.13,16.23,30.444871609336843,23,0,8,0,67
+2025-12-13,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Alioune Seck,15:03,15:56,Pikine,Almadies,147.19,0:53:00,0:24:00,4,166.63,228.27,48.63,33.03944453730768,19,3,0,0,65
+2025-12-13,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Aïssatou Ba,08:03,08:58,Keur Massar,Guédiawaye,57.09,0:55:00,2:00:00,5,62.28,80.32,18.0,31.527513609532626,8,0,0,0,95
+2025-12-13,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Abdou Gueye,13:17,13:48,Mbao,Sébikotane,86.36,0:31:00,0:48:00,2,167.15,233.96,27.55,31.905163027978016,27,5,0,3,100
+2025-12-13,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Babacar Sow,13:31,13:46,Yeumbeul,Grand Yoff,145.86,0:15:00,0:20:00,1,583.44,779.42,38.5,26.394989447861878,10,0,0,0,67
+2025-12-13,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Abdou Gueye,08:19,09:46,Almadies,Parcelles Assainies,120.91,1:27:00,0:21:00,3,83.39,110.83,33.49,27.69647091302107,28,0,6,0,88
+2025-12-13,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Aïssatou Ba,18:52,21:35,Bargny,SOCOCIM Rufisque,45.5,2:43:00,0:46:00,2,16.75,20.47,4.89,10.753402468887279,20,0,1,0,85
+2025-12-13,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Fatou Sall,15:13,15:31,Grand Yoff,Thiaroye,24.26,0:18:00,0:36:00,3,80.87,104.12,3.79,15.602006985219068,18,1,0,0,62
+2025-12-13,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Khadija Kane,12:23,13:48,Guédiawaye,Grand Yoff,76.54,1:25:00,0:00:00,0,54.03,67.9,14.24,18.602899938439894,26,0,6,0,89
+2025-12-13,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Ibrahima Sarr,13:03,15:48,Pikine,Grand Yoff,117.22,2:45:00,0:00:00,0,42.63,56.93,21.47,18.316628181992904,27,0,0,6,66
+2025-12-13,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Aminata Sy,17:50,19:01,Yeumbeul,Thiaroye,88.11,1:11:00,1:56:00,4,74.46,88.67,16.45,18.667338279940846,9,2,0,0,81
+2025-12-13,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Babacar Sow,13:15,15:39,Bargny,Parcelles Assainies,13.31,2:24:00,0:32:00,4,5.55,7.03,2.48,18.62907474336242,22,5,4,6,85
+2025-12-13,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ndèye Mbaye,13:35,15:20,Parcelles Assainies,Plateau (Dakar),101.66,1:45:00,0:15:00,3,58.09,76.27,29.84,29.354726531969177,10,0,8,5,74
+2025-12-13,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Babacar Sow,15:35,18:12,Pikine,Diamniadio,22.9,2:37:00,0:24:00,2,8.75,9.89,5.8,25.334784612012207,30,4,0,0,79
+2025-12-13,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Abdou Gueye,11:17,13:44,SOCOCIM Rufisque,Plateau (Dakar),58.25,2:27:00,1:24:00,3,23.78,31.5,17.28,29.65966468158677,26,0,0,0,78
+2025-12-13,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Mariama Wade,16:30,18:07,Guédiawaye,Parcelles Assainies,67.92,1:37:00,0:32:00,4,42.01,54.45,20.29,29.875427252107883,7,0,0,0,83
+2025-12-13,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Mariama Wade,12:32,13:06,Thiaroye,Grand Yoff,124.84,0:34:00,0:40:00,2,220.31,297.58,12.1,9.6914439512319,26,0,8,4,81
+2025-12-13,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Abdou Gueye,08:28,09:25,Port de Dakar,Parcelles Assainies,119.12,0:57:00,2:25:00,5,125.39,161.98,11.88,9.972946083175628,12,0,0,6,89
+2025-12-13,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mariama Wade,09:51,10:08,Almadies,Grand Yoff,84.2,0:17:00,2:20:00,5,297.18,337.57,28.72,34.1133400637124,21,3,0,0,100
+2025-12-13,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Ousmane Fall,18:54,20:43,Diamniadio,Guédiawaye,27.83,1:49:00,0:00:00,0,15.32,21.44,8.53,30.654040083356474,10,0,0,4,65
+2025-12-13,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Abdou Gueye,13:27,15:01,Grand Yoff,Guédiawaye,12.79,1:34:00,2:05:00,5,8.16,10.41,4.26,33.3390569794625,22,0,0,0,95
+2025-12-13,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Ibrahima Sarr,06:52,08:36,Plateau (Dakar),Port de Dakar,80.06,1:44:00,0:54:00,2,46.19,60.41,12.18,15.20850092075422,19,0,7,4,95
+2025-12-13,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Khadija Kane,12:23,13:05,Thiaroye,Pikine,115.87,0:42:00,0:00:00,0,165.53,194.8,31.77,27.422950420791718,25,0,0,0,79
+2025-12-13,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Moussa Diouf,09:26,09:49,Diamniadio,SOCOCIM Rufisque,18.49,0:23:00,0:25:00,5,48.23,57.74,3.48,18.824054161717246,22,0,7,0,81
+2025-12-13,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Khadija Kane,09:22,10:00,Guédiawaye,SOCOCIM Rufisque,142.81,0:38:00,0:19:00,1,225.49,292.56,25.03,17.528220136469063,19,3,6,0,95
+2025-12-13,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Ousmane Fall,08:14,11:06,Plateau (Dakar),Diamniadio,97.69,2:52:00,0:40:00,2,34.08,43.1,17.39,17.806046295550033,21,0,5,0,70
+2025-12-13,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Mariama Wade,09:58,10:18,Guédiawaye,Plateau (Dakar),55.96,0:20:00,2:20:00,5,167.88,191.12,15.0,26.79643354955121,28,0,0,0,76
+2025-12-13,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Ndèye Mbaye,11:47,13:10,Bargny,Yeumbeul,70.03,1:23:00,0:00:00,0,50.62,68.8,20.61,29.431382187334243,17,0,0,0,67
+2025-12-13,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mariama Wade,16:11,18:18,Grand Yoff,Pikine,51.35,2:07:00,0:24:00,2,24.26,31.64,13.39,26.071486778011113,23,0,6,1,64
+2025-12-13,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Aminata Sy,09:09,11:53,Sébikotane,Keur Massar,148.14,2:44:00,1:44:00,4,54.2,68.5,51.03,34.44577149408862,6,1,0,5,90
+2025-12-14,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Babacar Sow,13:13,14:33,Almadies,Port de Dakar,141.85,1:20:00,0:10:00,1,106.39,121.14,21.41,15.096326019568743,5,0,0,0,69
+2025-12-14,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Khadija Kane,15:33,17:42,SOCOCIM Rufisque,Pikine,73.96,2:09:00,0:12:00,1,34.4,41.94,14.04,18.982877823054118,17,0,7,0,76
+2025-12-14,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Alioune Seck,17:45,18:26,Keur Massar,Almadies,106.42,0:41:00,0:48:00,2,155.74,213.5,9.62,9.04340889529569,7,0,1,6,91
+2025-12-14,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Mamadou Diop,09:03,10:34,Yeumbeul,Parcelles Assainies,105.26,1:31:00,0:00:00,0,69.4,79.52,11.18,10.617349644634452,20,0,0,0,95
+2025-12-14,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Mamadou Diop,14:10,15:38,Yeumbeul,SOCOCIM Rufisque,27.25,1:28:00,0:06:00,1,18.58,22.56,2.75,10.092265442602267,23,0,7,0,79
+2025-12-14,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ibrahima Sarr,10:56,11:39,Plateau (Dakar),Almadies,66.82,0:43:00,0:36:00,4,93.24,120.66,6.45,9.655928882283577,30,0,6,2,72
+2025-12-14,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Babacar Sow,08:20,08:49,Almadies,Keur Massar,26.28,0:29:00,0:22:00,1,54.37,63.24,7.14,27.173119006100254,14,0,7,0,61
+2025-12-14,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Alioune Seck,06:47,07:06,Plateau (Dakar),SOCOCIM Rufisque,9.7,0:19:00,0:40:00,5,30.63,37.32,3.03,31.242006945173397,28,2,1,0,89
+2025-12-14,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Mariama Wade,14:23,17:23,Keur Massar,Thiaroye,22.14,3:00:00,0:00:00,0,7.38,9.7,6.63,29.944232713679483,6,0,0,0,99
+2025-12-14,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Alioune Seck,18:31,20:09,Pikine,Yeumbeul,90.58,1:38:00,0:29:00,1,55.46,70.72,25.78,28.456564094495587,28,0,8,1,60
+2025-12-14,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Aïssatou Ba,12:50,15:12,Keur Massar,Pikine,64.66,2:22:00,1:15:00,5,27.32,36.81,21.68,33.53270542610288,28,0,0,0,65
+2025-12-14,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Ndèye Mbaye,11:29,14:22,Diamniadio,Grand Yoff,123.36,2:53:00,0:56:00,2,42.78,51.21,39.84,32.29973169077225,9,2,0,0,93
+2025-12-14,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Alioune Seck,07:09,07:48,Plateau (Dakar),Yeumbeul,10.94,0:39:00,0:00:00,0,16.83,19.39,3.07,28.023794915672582,26,0,0,6,100
+2025-12-14,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Aïssatou Ba,11:13,12:46,Guédiawaye,Diamniadio,44.95,1:33:00,0:42:00,3,29.0,38.17,5.32,11.825125696520878,15,0,0,0,93
+2025-12-14,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Astou Diallo,16:38,17:32,Bargny,Plateau (Dakar),49.31,0:54:00,0:44:00,2,54.79,73.95,4.17,8.462649243259898,5,1,7,0,98
+2025-12-14,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Astou Diallo,10:45,13:24,Keur Massar,Almadies,27.05,2:39:00,1:05:00,5,10.21,11.38,2.35,8.698105028262123,11,0,0,0,79
+2025-12-14,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Ibrahima Sarr,08:13,10:45,Mbao,Almadies,46.16,2:32:00,0:32:00,4,18.22,21.18,5.15,11.165980716853483,8,1,0,0,74
+2025-12-14,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Fatou Sall,15:26,17:29,Yeumbeul,Plateau (Dakar),47.43,2:03:00,0:28:00,1,23.14,28.98,5.41,11.413602373496145,20,0,5,0,79
+2025-12-14,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Cheikh Ndiaye,06:48,09:08,Pikine,Parcelles Assainies,96.25,2:20:00,0:27:00,3,41.25,51.23,7.85,8.1519663346799,13,0,0,0,73
+2025-12-14,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Fatou Sall,13:30,15:33,Diamniadio,Mbao,73.77,2:03:00,0:00:00,0,35.99,43.03,6.87,9.305984636579304,13,0,0,0,68
+2025-12-14,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Astou Diallo,15:23,17:34,Pikine,Bargny,82.44,2:11:00,0:42:00,2,37.76,44.83,7.69,9.330511585327175,18,1,0,0,97
+2025-12-14,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Cheikh Ndiaye,18:44,21:19,Thiaroye,Mbao,60.45,2:35:00,1:40:00,4,23.4,31.08,5.88,9.723628396118714,14,0,0,6,76
+2025-12-14,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Fatou Sall,15:21,16:54,Almadies,Mbao,46.83,1:33:00,0:28:00,2,30.21,40.39,4.52,9.65355014406289,18,5,1,0,78
+2025-12-14,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Ibrahima Sarr,08:32,10:48,Port de Dakar,Diamniadio,67.55,2:16:00,2:25:00,5,29.8,38.26,21.62,32.01188523816573,27,0,2,0,70
+2025-12-14,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mariama Wade,15:28,16:35,Guédiawaye,SOCOCIM Rufisque,85.78,1:07:00,0:57:00,3,76.82,96.56,22.31,26.008539320639887,18,1,0,0,97
+2025-12-14,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Aïssatou Ba,09:56,12:16,Bargny,Mbao,94.38,2:20:00,0:00:00,0,40.45,49.91,25.46,26.980070484002383,24,0,0,4,87
+2025-12-14,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Alioune Seck,07:05,07:34,Mbao,Almadies,38.89,0:29:00,1:24:00,3,80.46,99.36,10.09,25.939399701984616,28,4,7,4,93
+2025-12-14,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Alioune Seck,13:30,14:13,Mbao,Parcelles Assainies,89.3,0:43:00,0:26:00,1,124.6,160.79,14.08,15.76514350520856,6,3,0,0,63
+2025-12-14,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Astou Diallo,07:21,09:39,Almadies,Guédiawaye,38.62,2:18:00,0:27:00,1,16.79,21.84,7.19,18.626910916676817,10,2,0,0,84
+2025-12-14,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Abdou Gueye,15:41,16:14,Port de Dakar,Guédiawaye,96.16,0:33:00,0:18:00,2,174.84,237.29,17.98,18.697048411817335,14,1,0,0,89
+2025-12-14,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Abdou Gueye,14:45,17:45,Mbao,Yeumbeul,93.02,3:00:00,2:15:00,5,31.01,37.2,15.62,16.7956865577055,14,0,0,0,82
+2025-12-14,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Mariama Wade,16:05,16:32,Pikine,Guédiawaye,124.26,0:27:00,0:13:00,1,276.13,315.02,36.64,29.484097178489485,27,2,8,0,89
+2025-12-14,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Mamadou Diop,11:14,12:41,Almadies,Pikine,144.28,1:27:00,0:36:00,4,99.5,134.88,46.49,32.224941706299546,11,4,0,0,83
+2025-12-14,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Fatou Sall,16:59,19:56,Grand Yoff,Mbao,74.84,2:57:00,0:38:00,2,25.37,31.71,23.8,31.79736172848051,21,0,0,0,64
+2025-12-14,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Babacar Sow,07:04,08:33,Bargny,Almadies,32.04,1:29:00,0:22:00,1,21.6,28.64,6.19,19.308073132544056,24,0,0,0,94
+2025-12-14,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Astou Diallo,16:26,16:59,Parcelles Assainies,Mbao,57.69,0:33:00,0:39:00,3,104.89,133.56,10.92,18.93655865265836,16,0,6,2,64
+2025-12-14,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Cheikh Ndiaye,12:20,13:05,Yeumbeul,Parcelles Assainies,69.36,0:45:00,1:16:00,4,92.48,115.15,12.24,17.64210333936367,14,4,7,0,72
+2025-12-14,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Mamadou Diop,13:02,15:34,Guédiawaye,Diamniadio,114.02,2:32:00,0:48:00,3,45.01,62.46,20.3,17.80173798828656,21,0,0,0,67
+2025-12-14,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Abdou Gueye,09:24,10:56,Bargny,Parcelles Assainies,42.78,1:32:00,1:09:00,3,27.9,38.45,7.77,18.156859780999103,19,0,0,4,85
+2025-12-14,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Ousmane Fall,12:17,13:17,Guédiawaye,Thiaroye,65.74,1:00:00,1:30:00,5,65.74,77.77,19.4,29.511905796310103,16,0,0,2,78
+2025-12-14,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Alioune Seck,16:25,17:27,Mbao,Keur Massar,60.05,1:02:00,0:28:00,1,58.11,73.56,17.93,29.85203144629135,30,0,3,0,65
+2025-12-15,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Astou Diallo,11:35,13:42,Sébikotane,Bargny,130.05,2:07:00,1:00:00,2,61.44,74.59,23.43,18.01920739674125,30,0,0,0,92
+2025-12-15,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Ousmane Fall,12:09,14:19,Pikine,Grand Yoff,137.85,2:10:00,0:42:00,3,63.62,72.49,22.71,16.471165330453697,13,0,0,2,68
+2025-12-15,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Mariama Wade,18:46,21:11,Parcelles Assainies,Port de Dakar,96.92,2:25:00,1:20:00,5,40.1,46.58,18.62,19.213795591592966,13,0,5,0,91
+2025-12-15,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Mamadou Diop,10:13,11:11,Keur Massar,Mbao,26.39,0:58:00,0:38:00,2,27.3,32.72,4.37,16.55516094358671,19,0,0,0,60
+2025-12-15,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Abdou Gueye,09:55,10:55,Pikine,Mbao,26.31,1:00:00,0:30:00,5,26.31,34.41,5.0,19.0073895724365,27,2,0,0,100
+2025-12-15,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ousmane Fall,12:04,12:30,Pikine,Thiaroye,90.89,0:26:00,0:20:00,4,209.75,287.67,8.9,9.794150642879458,18,2,3,0,72
+2025-12-15,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Fatou Sall,18:21,18:51,Thiaroye,Sébikotane,82.57,0:30:00,0:29:00,1,165.14,197.14,8.25,9.988496603946142,21,0,0,0,61
+2025-12-15,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Cheikh Ndiaye,10:56,13:38,Almadies,Parcelles Assainies,107.29,2:42:00,0:10:00,2,39.74,53.32,10.76,10.030060751520484,27,0,3,0,96
+2025-12-15,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ousmane Fall,14:15,14:50,Diamniadio,Bargny,11.37,0:35:00,0:13:00,1,19.49,23.28,0.94,8.275065846143626,24,0,4,0,66
+2025-12-15,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Mariama Wade,15:07,17:47,Guédiawaye,Bargny,17.74,2:40:00,1:48:00,4,6.65,9.17,1.49,8.423037815236054,23,0,8,0,78
+2025-12-15,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Alioune Seck,13:28,15:55,SOCOCIM Rufisque,Keur Massar,85.74,2:27:00,1:10:00,5,35.0,48.84,27.73,32.34349167592891,30,0,0,1,87
+2025-12-15,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Mariama Wade,10:20,10:39,Parcelles Assainies,Guédiawaye,94.58,0:19:00,0:26:00,1,298.67,399.1,25.27,26.722419953002763,9,3,5,0,92
+2025-12-15,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Babacar Sow,12:03,13:13,Guédiawaye,Almadies,91.79,1:10:00,0:28:00,4,78.68,99.38,24.24,26.403880133208705,28,0,0,1,68
+2025-12-15,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Cheikh Ndiaye,18:39,19:56,Diamniadio,Pikine,103.79,1:17:00,0:40:00,5,80.88,105.49,11.1,10.694523894235914,17,0,0,0,90
+2025-12-15,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Babacar Sow,15:58,16:21,Mbao,SOCOCIM Rufisque,126.6,0:23:00,0:36:00,2,330.26,388.4,15.15,11.963731921057775,8,0,0,0,68
+2025-12-15,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Khadija Kane,11:28,11:58,Yeumbeul,Thiaroye,11.6,0:30:00,1:30:00,3,23.2,30.41,1.83,15.802303136660548,15,0,8,0,65
+2025-12-15,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Aminata Sy,18:42,20:14,Yeumbeul,Mbao,30.73,1:32:00,0:00:00,0,20.04,23.69,9.88,32.161760074781355,28,0,0,5,60
+2025-12-15,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Aïssatou Ba,12:08,13:31,Sébikotane,Almadies,80.25,1:23:00,1:00:00,4,58.01,73.87,27.52,34.28833012435168,22,0,0,2,71
+2025-12-15,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Fatou Sall,07:56,10:30,Diamniadio,Keur Massar,97.47,2:34:00,0:14:00,1,37.98,43.74,27.55,28.267973201125027,13,0,0,0,88
+2025-12-15,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Aminata Sy,09:19,09:44,Pikine,Thiaroye,72.07,0:25:00,1:40:00,4,172.97,220.61,24.43,33.89489213885906,15,0,0,0,64
+2025-12-15,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Babacar Sow,10:36,13:12,Port de Dakar,Parcelles Assainies,28.18,2:36:00,0:10:00,2,10.84,14.89,8.47,30.052325738091106,12,5,0,0,87
+2025-12-15,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Khadija Kane,11:16,13:21,Sébikotane,Pikine,145.18,2:05:00,2:10:00,5,69.69,90.19,36.5,25.138558874661808,14,0,0,0,63
+2025-12-15,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Astou Diallo,07:24,08:17,Port de Dakar,Almadies,5.27,0:53:00,0:27:00,1,5.97,6.67,0.5,9.467877076504918,5,0,0,0,61
+2025-12-15,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Ibrahima Sarr,10:36,12:01,Port de Dakar,Grand Yoff,148.87,1:25:00,1:55:00,5,105.08,136.7,16.16,10.855979008545429,16,0,6,0,82
+2025-12-15,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Ndèye Mbaye,14:35,17:07,Sébikotane,Almadies,97.73,2:32:00,1:28:00,4,38.58,45.96,10.43,10.67133819472412,12,0,2,6,94
+2025-12-15,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Ousmane Fall,08:14,08:38,Guédiawaye,Bargny,92.39,0:24:00,1:00:00,5,230.97,323.16,10.22,11.05915723686957,21,0,0,1,62
+2025-12-15,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Babacar Sow,15:00,18:00,Guédiawaye,Keur Massar,112.55,3:00:00,0:14:00,1,37.52,43.33,19.59,17.40461400763537,27,0,0,0,68
+2025-12-15,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Ousmane Fall,18:40,19:52,SOCOCIM Rufisque,Sébikotane,93.2,1:12:00,0:00:00,0,77.67,108.72,16.64,17.855499560814113,18,4,0,0,100
+2025-12-15,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Khadija Kane,07:58,09:01,Port de Dakar,Yeumbeul,148.4,1:03:00,1:12:00,4,141.33,170.87,26.54,17.885184622700663,11,0,0,5,85
+2025-12-15,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Mariama Wade,17:52,18:47,Sébikotane,Yeumbeul,31.71,0:55:00,0:10:00,2,34.59,41.52,5.05,15.920993699454728,16,0,0,0,73
+2025-12-15,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Mamadou Diop,16:20,16:46,Mbao,Grand Yoff,15.77,0:26:00,2:10:00,5,36.39,46.92,3.05,19.318858517166518,19,4,0,4,98
+2025-12-15,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Babacar Sow,09:34,12:03,Keur Massar,Plateau (Dakar),89.34,2:29:00,0:55:00,5,35.98,43.47,29.67,33.208530008044626,21,3,1,0,81
+2025-12-15,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Alioune Seck,12:03,14:00,Thiaroye,Grand Yoff,39.64,1:57:00,0:00:00,0,20.33,26.19,13.45,33.93999900838507,28,0,5,0,91
+2025-12-16,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Cheikh Ndiaye,14:01,14:49,Thiaroye,Pikine,115.08,0:48:00,1:08:00,4,143.85,172.31,19.97,17.351016373574982,9,0,7,0,77
+2025-12-16,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Babacar Sow,10:52,12:23,Diamniadio,Almadies,103.19,1:31:00,1:28:00,4,68.04,89.59,17.34,16.808601652621327,29,0,0,3,67
+2025-12-16,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Mamadou Diop,14:59,17:01,Keur Massar,Bargny,110.05,2:02:00,0:54:00,2,54.12,70.76,18.95,17.216011023266617,8,0,0,3,89
+2025-12-16,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Ibrahima Sarr,17:41,20:18,Almadies,Yeumbeul,70.36,2:37:00,0:22:00,1,26.89,32.46,12.01,17.071530731606586,20,2,0,4,95
+2025-12-16,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Aminata Sy,11:15,14:07,Port de Dakar,Guédiawaye,85.16,2:52:00,0:21:00,1,29.71,33.3,10.06,11.816311148977501,24,0,8,1,60
+2025-12-16,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ibrahima Sarr,10:58,12:04,SOCOCIM Rufisque,Sébikotane,132.55,1:06:00,2:10:00,5,120.5,161.27,14.22,10.731352816732844,23,0,0,3,88
+2025-12-16,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Mariama Wade,08:27,09:12,Diamniadio,Yeumbeul,133.47,0:45:00,0:14:00,2,177.96,220.23,15.41,11.545920407865854,9,0,6,2,64
+2025-12-16,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Mariama Wade,16:24,18:06,Port de Dakar,Plateau (Dakar),47.53,1:42:00,1:44:00,4,27.96,38.88,14.8,31.128054396872706,15,0,0,0,87
+2025-12-16,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Cheikh Ndiaye,17:20,18:36,Plateau (Dakar),Guédiawaye,61.9,1:16:00,1:27:00,3,48.87,62.94,15.91,25.69736861501581,27,5,0,3,79
+2025-12-16,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Ibrahima Sarr,07:52,09:01,Mbao,Bargny,124.44,1:09:00,0:56:00,4,108.21,141.55,38.07,30.591702998553572,13,0,0,0,87
+2025-12-16,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Fatou Sall,13:29,14:10,Parcelles Assainies,Plateau (Dakar),17.05,0:41:00,0:46:00,2,24.95,33.75,5.26,30.82165457776572,25,0,3,0,61
+2025-12-16,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Ibrahima Sarr,14:19,15:22,Port de Dakar,Grand Yoff,142.41,1:03:00,0:00:00,0,135.63,182.56,46.46,32.6243719610575,14,0,0,0,81
+2025-12-16,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Babacar Sow,11:24,14:02,Yeumbeul,Thiaroye,37.23,2:38:00,1:55:00,5,14.14,15.7,4.01,10.76292303800945,13,0,0,3,87
+2025-12-16,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Aïssatou Ba,15:13,17:23,SOCOCIM Rufisque,Parcelles Assainies,50.87,2:10:00,0:54:00,2,23.48,30.34,4.4,8.650268834146267,27,0,5,0,67
+2025-12-16,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Ousmane Fall,09:00,10:05,Almadies,Sébikotane,137.08,1:05:00,0:15:00,1,126.54,146.46,12.66,9.235699906827838,27,0,6,0,77
+2025-12-16,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Ibrahima Sarr,07:21,07:41,Bargny,Yeumbeul,57.98,0:20:00,0:14:00,1,173.94,237.69,11.17,19.258393541002164,22,1,2,0,95
+2025-12-16,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mariama Wade,09:22,11:37,Grand Yoff,Sébikotane,50.79,2:15:00,1:25:00,5,22.57,27.79,13.2,25.984745062806795,27,0,0,1,70
+2025-12-16,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Ndèye Mbaye,17:31,19:30,Mbao,Thiaroye,120.79,1:59:00,0:13:00,1,60.9,80.24,12.42,10.280541203235465,21,1,6,5,61
+2025-12-16,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Ousmane Fall,08:42,10:02,Pikine,Almadies,44.27,1:20:00,0:13:00,1,33.2,40.32,4.83,10.914514220792174,8,0,0,0,97
+2025-12-16,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Aïssatou Ba,16:26,16:51,Sébikotane,Yeumbeul,116.33,0:25:00,1:16:00,4,279.19,390.57,12.76,10.969956976085758,6,0,4,5,77
+2025-12-16,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Khadija Kane,11:20,13:10,Parcelles Assainies,Port de Dakar,62.87,1:50:00,0:12:00,1,34.29,38.94,21.35,33.95817889481759,26,0,8,1,63
+2025-12-16,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Astou Diallo,10:56,12:10,Diamniadio,Keur Massar,37.18,1:14:00,0:24:00,3,30.15,33.34,11.07,29.771750286513363,14,0,0,4,100
+2025-12-16,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Mariama Wade,07:41,09:42,Port de Dakar,Sébikotane,124.44,2:01:00,0:00:00,0,61.71,77.97,32.06,25.76116946357946,26,5,8,0,63
+2025-12-16,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Aïssatou Ba,06:41,07:45,Grand Yoff,Thiaroye,6.24,1:04:00,0:20:00,1,5.85,8.17,1.89,30.224157813780298,6,5,0,6,76
+2025-12-16,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Ndèye Mbaye,12:53,13:29,Bargny,Guédiawaye,132.37,0:36:00,0:24:00,4,220.62,276.93,38.89,29.380700750444014,22,0,0,2,70
+2025-12-16,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Fatou Sall,18:47,20:45,Mbao,Almadies,63.78,1:58:00,0:00:00,0,32.43,40.28,10.36,16.247329753755455,29,0,0,0,81
+2025-12-16,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Ndèye Mbaye,18:03,20:48,Almadies,Parcelles Assainies,44.88,2:45:00,1:00:00,4,16.32,18.48,7.56,16.839714919439142,9,0,0,0,94
+2025-12-16,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Aïssatou Ba,07:24,08:45,Thiaroye,Guédiawaye,15.93,1:21:00,0:55:00,5,11.8,13.2,2.73,17.13885192000272,29,0,8,2,66
+2025-12-16,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Aïssatou Ba,13:52,15:22,Almadies,Guédiawaye,85.95,1:30:00,0:00:00,0,57.3,75.29,14.78,17.19679249094233,16,0,7,0,84
+2025-12-16,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Khadija Kane,18:33,18:54,Grand Yoff,Yeumbeul,149.36,0:21:00,0:12:00,2,426.74,585.98,44.89,30.0538250835896,30,0,7,5,92
+2025-12-16,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Mariama Wade,17:54,20:10,Guédiawaye,Parcelles Assainies,9.37,2:16:00,2:25:00,5,4.13,5.57,3.01,32.105875373935255,28,0,6,4,69
+2025-12-16,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Babacar Sow,06:48,09:47,SOCOCIM Rufisque,Almadies,103.64,2:59:00,0:00:00,0,34.74,38.72,32.38,31.23875583635799,9,0,2,4,88
+2025-12-16,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Mamadou Diop,10:27,11:19,Plateau (Dakar),Thiaroye,85.1,0:52:00,1:20:00,4,98.19,126.67,23.58,27.712133352814618,18,0,0,0,70
+2025-12-16,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Ndèye Mbaye,18:50,19:28,Keur Massar,Almadies,66.89,0:38:00,0:36:00,4,105.62,135.51,19.19,28.68361883314912,25,0,0,0,96
+2025-12-16,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Alioune Seck,17:48,19:33,Diamniadio,SOCOCIM Rufisque,93.74,1:45:00,2:10:00,5,53.57,72.62,30.38,32.404870410811924,24,0,2,0,75
+2025-12-17,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Ibrahima Sarr,16:53,19:25,Yeumbeul,Port de Dakar,34.47,2:32:00,0:50:00,5,13.61,17.96,10.46,30.351204438357914,30,0,0,0,66
+2025-12-17,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Ousmane Fall,14:46,17:00,Pikine,Bargny,54.6,2:14:00,1:40:00,4,24.45,27.85,14.65,26.82690208188731,7,2,0,0,91
+2025-12-17,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Mariama Wade,13:35,14:24,Guédiawaye,Almadies,123.26,0:49:00,0:00:00,0,150.93,195.76,14.56,11.812822051118728,27,0,0,0,77
+2025-12-17,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Abdou Gueye,07:55,09:54,Mbao,SOCOCIM Rufisque,76.09,1:59:00,0:21:00,1,38.36,53.07,7.99,10.501344998553266,29,0,0,2,94
+2025-12-17,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Ndèye Mbaye,15:21,17:39,Bargny,Plateau (Dakar),130.54,2:18:00,0:25:00,5,56.76,69.67,10.79,8.268252000514574,27,0,0,0,72
+2025-12-17,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Khadija Kane,10:30,11:17,Yeumbeul,Almadies,119.78,0:47:00,0:56:00,2,152.91,204.55,13.45,11.228838119682093,16,0,2,0,89
+2025-12-17,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Fatou Sall,09:09,10:24,Almadies,Bargny,34.16,1:15:00,0:20:00,1,27.33,37.8,9.62,28.164073583556288,24,0,0,5,78
+2025-12-17,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Babacar Sow,13:43,14:17,SOCOCIM Rufisque,Parcelles Assainies,14.38,0:34:00,0:00:00,0,25.38,28.16,4.38,30.448078230516646,30,4,0,5,92
+2025-12-17,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ousmane Fall,14:56,16:50,Grand Yoff,Bargny,89.84,1:54:00,0:00:00,0,47.28,64.94,28.87,32.13201021947992,18,0,0,0,87
+2025-12-17,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Cheikh Ndiaye,17:59,20:22,Almadies,Plateau (Dakar),139.36,2:23:00,0:15:00,3,58.47,67.35,37.9,27.197749526585277,9,0,0,0,81
+2025-12-17,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Alioune Seck,16:35,18:52,SOCOCIM Rufisque,Port de Dakar,91.24,2:17:00,0:00:00,0,39.96,50.87,9.53,10.44514017696918,5,0,0,0,92
+2025-12-17,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Ousmane Fall,08:42,09:28,Pikine,Parcelles Assainies,124.84,0:46:00,1:15:00,3,162.83,201.67,13.69,10.968587731656596,18,0,0,0,98
+2025-12-17,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Alioune Seck,09:45,10:27,Pikine,Mbao,111.66,0:42:00,0:26:00,1,159.51,188.43,9.46,8.470083245854866,28,3,4,0,86
+2025-12-17,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Ibrahima Sarr,07:58,09:48,Keur Massar,Bargny,54.36,1:50:00,1:16:00,4,29.65,36.69,5.52,10.15197540124441,19,0,0,1,69
+2025-12-17,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Mamadou Diop,10:39,11:24,Pikine,Thiaroye,44.31,0:45:00,0:00:00,0,59.08,74.23,4.15,9.367706798001382,8,0,0,3,94
+2025-12-17,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mariama Wade,13:36,16:14,Grand Yoff,Parcelles Assainies,52.08,2:38:00,0:30:00,5,19.78,25.9,13.16,25.2670079007135,29,0,8,0,77
+2025-12-17,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Fatou Sall,07:22,09:22,Keur Massar,SOCOCIM Rufisque,143.86,2:00:00,0:12:00,1,71.93,100.67,25.94,18.031432249400662,18,0,0,0,87
+2025-12-17,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Moussa Diouf,10:13,12:00,Almadies,Diamniadio,92.53,1:47:00,1:55:00,5,51.89,70.97,15.79,17.05997550268702,8,3,8,0,82
+2025-12-17,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Astou Diallo,09:48,11:50,Parcelles Assainies,Thiaroye,102.89,2:02:00,0:42:00,2,50.6,57.18,15.44,15.00707069852209,15,1,0,0,98
+2025-12-17,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Aïssatou Ba,14:19,15:50,Diamniadio,Port de Dakar,39.21,1:31:00,0:00:00,0,25.85,31.65,7.11,18.140265494125096,11,0,0,0,92
+2025-12-17,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Aïssatou Ba,17:51,20:33,Thiaroye,Grand Yoff,8.6,2:42:00,0:00:00,0,3.19,4.05,1.62,18.861449774796874,29,2,1,4,60
+2025-12-17,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Mariama Wade,13:00,13:23,Sébikotane,Port de Dakar,65.4,0:23:00,0:24:00,4,170.61,207.92,20.49,31.331872447701826,6,0,0,0,74
+2025-12-17,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Ibrahima Sarr,07:54,09:24,Port de Dakar,Parcelles Assainies,85.87,1:30:00,0:48:00,2,57.25,77.05,25.18,29.32275737456358,12,0,0,0,91
+2025-12-17,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Mamadou Diop,12:01,13:58,Diamniadio,Mbao,77.92,1:57:00,0:44:00,4,39.96,55.11,12.05,15.464954880372495,14,0,0,0,79
+2025-12-17,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Aïssatou Ba,11:23,11:45,Almadies,Diamniadio,55.69,0:22:00,0:16:00,1,151.88,207.02,8.46,15.188699891107236,26,0,1,0,98
+2025-12-17,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Alioune Seck,06:11,08:29,Diamniadio,Pikine,66.43,2:18:00,1:28:00,4,28.88,35.47,20.89,31.449222799892578,28,0,0,0,64
+2025-12-17,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Alioune Seck,08:21,10:54,Sébikotane,Pikine,122.46,2:33:00,0:48:00,3,48.02,61.77,37.22,30.392568031743853,13,0,0,6,99
+2025-12-17,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Aïssatou Ba,08:21,09:21,Bargny,Plateau (Dakar),64.52,1:00:00,0:50:00,5,64.52,78.64,21.46,33.26186692930281,9,0,0,0,68
+2025-12-17,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mamadou Diop,14:33,16:58,SOCOCIM Rufisque,Pikine,71.4,2:25:00,0:00:00,0,29.54,34.55,22.67,31.748624625329676,11,0,0,0,71
+2025-12-17,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Ousmane Fall,17:00,18:37,Plateau (Dakar),Sébikotane,65.59,1:37:00,0:24:00,4,40.57,51.05,19.43,29.621771091790393,8,0,6,0,61
+2025-12-18,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Aminata Sy,18:58,20:03,Keur Massar,Plateau (Dakar),60.14,1:05:00,0:07:00,1,55.51,65.42,5.78,9.603761677849358,29,3,4,2,68
+2025-12-18,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Alioune Seck,09:59,10:36,Pikine,Grand Yoff,125.73,0:37:00,0:08:00,1,203.89,280.46,11.86,9.429599520894593,7,0,0,0,93
+2025-12-18,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Moussa Diouf,18:20,20:08,Guédiawaye,Parcelles Assainies,114.82,1:48:00,1:35:00,5,63.79,86.83,13.17,11.472681208452375,29,0,0,3,76
+2025-12-18,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Astou Diallo,15:06,17:07,Sébikotane,Diamniadio,85.03,2:01:00,0:44:00,4,42.16,54.64,9.72,11.425851302611028,30,1,0,0,72
+2025-12-18,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Moussa Diouf,06:13,07:13,Mbao,Keur Massar,42.04,1:00:00,0:55:00,5,42.04,48.41,3.56,8.476850636641796,16,0,0,0,97
+2025-12-18,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Ndèye Mbaye,12:00,13:18,Diamniadio,Almadies,17.27,1:18:00,2:20:00,5,13.28,14.99,5.95,34.46626145237623,29,0,0,0,79
+2025-12-18,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Mariama Wade,10:21,11:30,Pikine,Plateau (Dakar),48.79,1:09:00,0:17:00,1,42.43,56.07,14.54,29.805580095124906,19,3,1,0,67
+2025-12-18,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Khadija Kane,06:59,08:42,SOCOCIM Rufisque,Almadies,69.69,1:43:00,2:30:00,5,40.6,48.45,18.09,25.95373711770213,13,0,0,3,95
+2025-12-18,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Moussa Diouf,14:22,16:30,Parcelles Assainies,Yeumbeul,133.06,2:08:00,0:44:00,2,62.37,83.56,34.01,25.560619378822643,5,1,6,0,82
+2025-12-18,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Aïssatou Ba,06:16,08:58,Plateau (Dakar),Bargny,131.16,2:42:00,1:21:00,3,48.58,61.22,41.79,31.859923585411277,7,0,7,0,84
+2025-12-18,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Mamadou Diop,07:26,10:13,Bargny,SOCOCIM Rufisque,15.87,2:47:00,0:28:00,4,5.7,7.7,4.75,29.937698472347385,29,0,0,5,70
+2025-12-18,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Fatou Sall,15:34,17:34,Diamniadio,Guédiawaye,15.99,2:00:00,0:42:00,3,8.0,9.02,4.93,30.803114863590103,16,3,0,1,83
+2025-12-18,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Ousmane Fall,07:28,09:35,Port de Dakar,Mbao,143.43,2:07:00,1:00:00,4,67.76,82.93,13.95,9.72899625048628,10,0,0,0,71
+2025-12-18,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Ibrahima Sarr,16:26,17:53,Port de Dakar,Thiaroye,47.86,1:27:00,0:56:00,2,33.01,41.01,4.46,9.312108767935502,6,0,6,0,81
+2025-12-18,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Fatou Sall,15:24,18:16,SOCOCIM Rufisque,Parcelles Assainies,29.63,2:52:00,0:25:00,5,10.34,11.78,2.78,9.395259889037192,23,0,0,0,72
+2025-12-18,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Astou Diallo,08:20,10:54,SOCOCIM Rufisque,Sébikotane,149.08,2:34:00,0:26:00,2,58.08,67.43,17.65,11.84082236142212,19,0,0,4,66
+2025-12-18,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Abdou Gueye,15:38,16:34,Grand Yoff,Bargny,126.65,0:56:00,1:03:00,3,135.7,166.61,12.09,9.548535924252413,28,0,2,0,70
+2025-12-18,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Aminata Sy,16:09,17:20,Port de Dakar,Almadies,145.42,1:11:00,0:28:00,1,122.89,150.22,16.35,11.244518309312813,10,3,0,0,71
+2025-12-18,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Abdou Gueye,17:22,17:53,Sébikotane,Grand Yoff,15.93,0:31:00,0:26:00,1,30.83,39.8,4.45,27.9124688459485,22,0,0,4,96
+2025-12-18,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Astou Diallo,13:58,15:30,Plateau (Dakar),Port de Dakar,62.35,1:32:00,0:46:00,2,40.66,52.99,17.4,27.90568134981192,14,0,3,5,80
+2025-12-18,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Moussa Diouf,09:34,10:38,Parcelles Assainies,Port de Dakar,34.48,1:04:00,1:36:00,4,32.32,45.2,9.91,28.72773331984542,17,0,0,2,77
+2025-12-18,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Ndèye Mbaye,08:44,09:06,Diamniadio,Pikine,120.5,0:22:00,0:36:00,4,328.64,367.84,40.17,33.33864470003993,7,0,0,4,62
+2025-12-18,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Mamadou Diop,17:08,18:33,Grand Yoff,Diamniadio,87.27,1:25:00,1:50:00,5,61.6,75.3,23.61,27.05656310110068,19,0,0,0,85
+2025-12-18,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Aminata Sy,09:56,10:37,Pikine,Parcelles Assainies,123.72,0:41:00,0:46:00,2,181.05,249.07,19.45,15.71726797096578,28,0,0,0,74
+2025-12-18,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Ndèye Mbaye,14:57,16:21,Mbao,SOCOCIM Rufisque,87.11,1:24:00,2:05:00,5,62.22,68.94,13.51,15.510540048444968,27,5,0,0,86
+2025-12-18,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Khadija Kane,08:52,09:47,Yeumbeul,Almadies,12.89,0:55:00,0:00:00,0,14.06,15.94,4.26,33.06527000438306,9,0,2,1,76
+2025-12-18,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Ibrahima Sarr,09:29,11:21,Grand Yoff,Pikine,132.3,1:52:00,0:15:00,3,70.88,80.83,39.91,30.167961969217547,17,4,5,0,99
+2025-12-18,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mariama Wade,06:28,09:19,Parcelles Assainies,Pikine,54.13,2:51:00,0:00:00,0,18.99,24.81,16.18,29.88381939781651,21,4,0,0,71
+2025-12-18,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Babacar Sow,16:40,18:33,Yeumbeul,Port de Dakar,125.04,1:53:00,0:18:00,1,66.39,89.44,34.43,27.531909654573397,8,0,0,4,62
+2025-12-18,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Ousmane Fall,11:50,14:22,Port de Dakar,Bargny,118.99,2:32:00,0:12:00,1,46.97,57.23,39.59,33.27371393279712,25,0,0,0,80
+2025-12-18,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Khadija Kane,09:49,12:23,Parcelles Assainies,Port de Dakar,107.67,2:34:00,1:08:00,4,41.95,46.45,32.89,30.551111784354894,9,0,5,0,80
+2025-12-19,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Aminata Sy,12:38,15:06,Parcelles Assainies,SOCOCIM Rufisque,7.89,2:28:00,0:25:00,1,3.2,4.01,1.56,19.739288194995257,30,0,0,0,63
+2025-12-19,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Aïssatou Ba,15:20,17:24,Keur Massar,Pikine,39.23,2:04:00,0:40:00,2,18.98,24.83,7.2,18.350337409626768,22,2,0,0,92
+2025-12-19,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Mamadou Diop,10:48,11:07,Plateau (Dakar),Mbao,104.46,0:19:00,0:00:00,0,329.87,377.44,20.6,19.724303507186825,12,0,0,0,91
+2025-12-19,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Aminata Sy,09:23,11:43,Sébikotane,SOCOCIM Rufisque,76.32,2:20:00,2:20:00,5,32.71,41.94,7.44,9.743346640001235,28,0,0,0,76
+2025-12-19,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Abdou Gueye,17:00,18:30,Plateau (Dakar),Bargny,123.23,1:30:00,0:54:00,3,82.15,112.43,32.69,26.531533422819336,26,4,0,5,63
+2025-12-19,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Alioune Seck,12:37,13:26,Pikine,Grand Yoff,56.98,0:49:00,0:07:00,1,69.77,80.37,17.29,30.348451272368628,11,0,0,4,90
+2025-12-19,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Aminata Sy,10:49,12:28,Diamniadio,Keur Massar,24.85,1:39:00,1:55:00,5,15.06,19.17,8.2,33.01742617228769,15,0,7,0,60
+2025-12-19,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Cheikh Ndiaye,07:30,10:28,Pikine,Parcelles Assainies,30.37,2:58:00,0:00:00,0,10.24,12.63,8.01,26.390032152839524,16,0,5,5,96
+2025-12-19,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Alioune Seck,16:18,16:43,Parcelles Assainies,Diamniadio,102.82,0:25:00,0:00:00,0,246.77,300.67,28.18,27.409740045090647,11,0,0,0,91
+2025-12-19,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Mariama Wade,14:30,16:10,Guédiawaye,Port de Dakar,110.21,1:40:00,0:00:00,0,66.13,75.2,38.03,34.508726449463495,13,5,0,0,80
+2025-12-19,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Babacar Sow,06:14,09:07,Diamniadio,Grand Yoff,88.16,2:53:00,1:16:00,4,30.58,39.23,29.16,33.071662934856604,11,0,2,2,90
+2025-12-19,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Alioune Seck,16:55,18:00,Pikine,Parcelles Assainies,61.91,1:05:00,0:32:00,4,57.15,73.63,21.04,33.990270576440764,14,4,0,4,61
+2025-12-19,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Aïssatou Ba,08:13,10:58,Plateau (Dakar),Grand Yoff,13.51,2:45:00,2:10:00,5,4.91,6.47,4.68,34.655962182136655,20,0,7,0,88
+2025-12-19,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Ibrahima Sarr,07:33,08:04,Sébikotane,Plateau (Dakar),136.62,0:31:00,0:11:00,1,264.43,369.57,13.23,9.68146860742141,21,0,0,0,62
+2025-12-19,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ibrahima Sarr,15:25,16:39,Mbao,Sébikotane,63.7,1:14:00,0:29:00,1,51.65,59.29,21.65,33.986337935457684,6,1,6,1,67
+2025-12-19,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Babacar Sow,16:03,18:55,Guédiawaye,Keur Massar,58.39,2:52:00,0:05:00,1,20.37,23.13,19.9,34.08220996183762,7,0,8,0,69
+2025-12-19,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Ibrahima Sarr,08:18,10:22,Almadies,Pikine,5.37,2:04:00,1:15:00,3,2.6,3.07,1.47,27.408334193290365,9,0,0,5,96
+2025-12-19,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Ibrahima Sarr,16:23,18:24,Mbao,Plateau (Dakar),81.04,2:01:00,1:20:00,5,40.19,55.73,24.01,29.631220148963337,8,1,0,0,70
+2025-12-19,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Moussa Diouf,06:23,08:37,Mbao,Thiaroye,23.84,2:14:00,0:28:00,2,10.67,14.11,7.16,30.04699657391045,28,4,8,2,63
+2025-12-19,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Fatou Sall,12:03,13:11,Plateau (Dakar),Yeumbeul,72.69,1:08:00,2:10:00,5,64.14,83.42,21.14,29.088955801840385,15,0,7,0,94
+2025-12-19,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mariama Wade,14:41,16:52,Pikine,Yeumbeul,52.8,2:11:00,0:40:00,4,24.18,32.73,14.99,28.389128149833553,6,0,0,5,97
+2025-12-19,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Ibrahima Sarr,08:57,09:23,Sébikotane,Diamniadio,41.56,0:26:00,1:00:00,4,95.91,124.14,8.23,19.791982408167982,9,0,0,1,72
+2025-12-19,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Abdou Gueye,09:54,10:16,Mbao,Diamniadio,25.36,0:22:00,0:50:00,5,69.16,81.75,4.15,16.36051834265806,22,0,0,0,82
+2025-12-19,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Babacar Sow,16:00,17:08,Thiaroye,Mbao,40.35,1:08:00,0:00:00,0,35.6,42.72,7.99,19.80936575691383,29,0,0,0,79
+2025-12-19,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Mariama Wade,13:20,13:48,Pikine,Guédiawaye,101.46,0:28:00,0:00:00,0,217.41,267.59,10.66,10.507888134737456,14,0,5,0,79
+2025-12-19,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Moussa Diouf,12:29,13:44,Mbao,Pikine,119.58,1:15:00,0:57:00,3,95.66,107.48,10.81,9.0409286527322,15,5,0,3,100
+2025-12-19,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Astou Diallo,16:19,17:36,Keur Massar,Almadies,97.97,1:17:00,0:08:00,1,76.34,91.31,32.35,33.0243189226081,15,0,5,4,93
+2025-12-19,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Astou Diallo,09:20,10:32,Mbao,Thiaroye,93.81,1:12:00,0:00:00,0,78.18,90.25,25.7,27.400752579715565,23,0,0,0,85
+2025-12-19,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Cheikh Ndiaye,07:06,07:27,Parcelles Assainies,Thiaroye,84.4,0:21:00,0:14:00,1,241.14,328.02,21.4,25.357961279549023,12,5,0,0,73
+2025-12-19,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Aminata Sy,08:44,09:17,Parcelles Assainies,Pikine,119.75,0:33:00,0:00:00,0,217.73,240.96,38.51,32.15477640424146,20,0,0,5,74
+2025-12-19,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Alioune Seck,16:36,17:30,Port de Dakar,Bargny,20.25,0:54:00,0:00:00,0,22.5,28.43,6.86,33.86437578677693,12,2,0,2,61
+2025-12-19,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Mariama Wade,16:58,17:38,Yeumbeul,Almadies,78.21,0:40:00,0:09:00,1,117.31,162.98,21.56,27.56470136562119,29,0,0,0,73
+2025-12-19,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mamadou Diop,09:13,10:03,Bargny,Thiaroye,7.03,0:50:00,0:42:00,2,8.44,11.51,1.85,26.287314018414115,8,5,0,0,81
+2025-12-19,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mamadou Diop,13:55,15:02,Almadies,Bargny,78.66,1:07:00,0:54:00,3,70.44,84.22,21.03,26.73613403755182,11,0,0,0,83
+2025-12-19,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Aïssatou Ba,15:21,16:27,SOCOCIM Rufisque,Keur Massar,50.14,1:06:00,1:56:00,4,45.58,61.98,17.49,34.88268896295132,16,2,0,0,69
+2025-12-20,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Astou Diallo,07:37,08:16,Grand Yoff,Mbao,106.87,0:39:00,0:56:00,4,164.42,203.74,19.74,18.46741927993838,15,0,0,0,73
+2025-12-20,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Babacar Sow,12:52,15:52,SOCOCIM Rufisque,Bargny,52.45,3:00:00,0:00:00,0,17.48,20.55,8.67,16.524233164192086,18,0,6,0,62
+2025-12-20,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Ndèye Mbaye,09:51,12:04,Bargny,Yeumbeul,15.58,2:13:00,1:28:00,4,7.03,7.97,2.6,16.694179968170513,5,0,0,0,65
+2025-12-20,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Moussa Diouf,13:16,15:50,Parcelles Assainies,Keur Massar,149.25,2:34:00,0:42:00,2,58.15,68.83,24.37,16.32525824220169,25,0,0,0,80
+2025-12-20,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Aminata Sy,16:41,18:04,Sébikotane,Diamniadio,129.32,1:23:00,0:00:00,0,93.48,115.39,12.08,9.339197964989353,6,0,0,6,93
+2025-12-20,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ibrahima Sarr,12:45,14:04,Port de Dakar,Yeumbeul,100.39,1:19:00,1:00:00,2,76.25,99.36,9.05,9.01915138912086,7,0,0,4,67
+2025-12-20,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Alioune Seck,16:49,17:52,Grand Yoff,Mbao,34.21,1:03:00,0:00:00,0,32.58,44.58,3.69,10.776773827409889,14,0,8,0,72
+2025-12-20,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Fatou Sall,07:28,09:37,Almadies,Thiaroye,125.48,2:09:00,0:28:00,4,58.36,74.83,43.23,34.449415190102116,14,0,8,0,64
+2025-12-20,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Mariama Wade,11:54,14:41,Bargny,Port de Dakar,128.06,2:47:00,1:36:00,4,46.01,54.23,36.8,28.73286521567262,7,2,1,0,96
+2025-12-20,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Aïssatou Ba,16:02,18:27,Plateau (Dakar),Pikine,63.47,2:25:00,0:16:00,1,26.26,33.71,16.71,26.322928510578958,23,2,5,1,82
+2025-12-20,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Moussa Diouf,13:05,14:31,SOCOCIM Rufisque,Plateau (Dakar),7.05,1:26:00,0:00:00,0,4.92,6.88,1.8,25.483324067105887,9,5,0,0,81
+2025-12-20,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Alioune Seck,12:24,14:41,Grand Yoff,Mbao,99.54,2:17:00,0:33:00,3,43.59,56.76,33.83,33.99022481762154,7,0,0,5,70
+2025-12-20,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Cheikh Ndiaye,18:03,20:24,Bargny,Pikine,139.53,2:21:00,0:22:00,1,59.37,81.45,44.38,31.809108203891867,20,4,0,0,64
+2025-12-20,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Ousmane Fall,18:57,19:17,Mbao,Guédiawaye,116.12,0:20:00,0:57:00,3,348.36,441.72,38.38,33.04884631413622,24,0,0,0,89
+2025-12-20,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Astou Diallo,17:33,19:12,Yeumbeul,Keur Massar,63.12,1:39:00,0:50:00,2,38.25,44.69,15.93,25.24073185665827,6,2,0,0,90
+2025-12-20,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Khadija Kane,17:13,17:36,Grand Yoff,Sébikotane,144.75,0:23:00,0:48:00,3,377.61,426.55,15.49,10.69778193041954,7,0,5,0,95
+2025-12-20,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mamadou Diop,06:42,07:50,SOCOCIM Rufisque,Sébikotane,9.45,1:08:00,0:00:00,0,8.34,10.92,2.58,27.332760640065136,16,2,0,0,80
+2025-12-20,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Aïssatou Ba,14:26,17:13,Yeumbeul,Pikine,92.79,2:47:00,0:28:00,4,33.34,43.31,24.83,26.757105282391766,24,0,0,0,93
+2025-12-20,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Aïssatou Ba,16:25,19:06,Port de Dakar,Sébikotane,9.97,2:41:00,2:00:00,4,3.72,4.29,3.36,33.74723821062189,23,5,0,0,89
+2025-12-20,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Abdou Gueye,12:37,13:50,Parcelles Assainies,Plateau (Dakar),111.29,1:13:00,1:05:00,5,91.47,124.47,33.15,29.788638887038623,21,0,2,0,71
+2025-12-20,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Aïssatou Ba,09:11,09:47,Bargny,Yeumbeul,17.12,0:36:00,0:55:00,5,28.53,38.68,5.83,34.05952716740819,11,0,0,0,83
+2025-12-20,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Aïssatou Ba,09:00,11:10,Mbao,Yeumbeul,119.85,2:10:00,0:57:00,3,55.32,71.2,22.87,19.084762505088904,28,4,0,3,78
+2025-12-20,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Moussa Diouf,07:58,08:30,Parcelles Assainies,SOCOCIM Rufisque,127.88,0:32:00,0:14:00,1,239.78,293.86,11.1,8.678469426318035,27,0,0,0,77
+2025-12-20,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Mariama Wade,12:15,12:55,Pikine,Yeumbeul,110.83,0:40:00,0:13:00,1,166.25,216.72,12.89,11.62749970116749,6,0,0,5,67
+2025-12-20,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Fatou Sall,11:15,12:41,Mbao,Grand Yoff,73.35,1:26:00,0:36:00,3,51.17,70.48,22.36,30.478587121821732,7,0,0,5,66
+2025-12-20,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Aïssatou Ba,10:04,11:27,Yeumbeul,Pikine,144.11,1:23:00,0:45:00,3,104.18,128.93,37.64,26.12136236358498,10,0,0,2,62
+2025-12-20,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Babacar Sow,09:08,11:30,Diamniadio,Port de Dakar,105.47,2:22:00,0:00:00,0,44.56,62.37,29.55,28.016555321750452,19,0,0,5,91
+2025-12-20,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Cheikh Ndiaye,12:37,13:39,Sébikotane,Bargny,19.87,1:02:00,0:19:00,1,19.23,22.17,3.39,17.053592632902483,18,0,5,0,98
+2025-12-20,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Babacar Sow,17:15,17:39,Parcelles Assainies,Thiaroye,63.72,0:24:00,1:56:00,4,159.3,210.27,11.65,18.280338136855104,22,1,8,1,75
+2025-12-20,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Khadija Kane,14:37,16:47,Guédiawaye,Plateau (Dakar),144.06,2:10:00,0:29:00,1,66.49,79.47,38.89,26.995368152367554,11,5,0,0,91
+2025-12-20,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Ndèye Mbaye,06:24,09:09,Bargny,Pikine,107.09,2:45:00,0:16:00,2,38.94,44.41,33.23,31.029320413797926,28,0,0,1,66
+2025-12-20,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Mariama Wade,12:52,13:27,SOCOCIM Rufisque,Mbao,142.45,0:35:00,2:00:00,4,244.2,324.74,44.03,30.908388430861027,28,0,8,0,95
+2025-12-20,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Aminata Sy,15:10,17:24,Plateau (Dakar),Parcelles Assainies,54.4,2:14:00,0:42:00,3,24.36,32.18,13.72,25.22518057031511,10,0,6,0,62
+2025-12-20,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Moussa Diouf,18:22,19:52,SOCOCIM Rufisque,Plateau (Dakar),63.27,1:30:00,0:07:00,1,42.18,55.5,15.96,25.222258487408595,26,0,4,3,79
+2025-12-20,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Ndèye Mbaye,17:10,19:08,Plateau (Dakar),SOCOCIM Rufisque,99.02,1:58:00,1:35:00,5,50.35,67.04,33.7,34.036030242799235,17,0,6,6,83
+2025-12-20,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Ndèye Mbaye,10:38,11:57,Diamniadio,Sébikotane,74.63,1:19:00,1:20:00,5,56.68,79.07,22.85,30.611540443246327,10,0,0,6,71
+2025-12-20,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mamadou Diop,15:13,15:46,Plateau (Dakar),Diamniadio,27.88,0:33:00,0:27:00,1,50.69,63.51,9.05,32.45510888782337,16,0,0,2,89
+2025-12-20,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Moussa Diouf,07:49,08:20,Thiaroye,Diamniadio,69.18,0:31:00,0:33:00,3,133.9,186.97,18.42,26.620946603051685,5,0,0,5,61
+2025-12-21,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Astou Diallo,18:00,19:31,Keur Massar,Yeumbeul,148.55,1:31:00,0:48:00,4,97.95,132.28,27.26,18.348535162097466,21,0,0,0,80
+2025-12-21,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Abdou Gueye,16:50,19:13,Pikine,Diamniadio,127.37,2:23:00,0:16:00,2,53.44,73.61,13.62,10.695266969054167,17,3,0,0,87
+2025-12-21,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Mamadou Diop,09:47,12:06,Port de Dakar,Mbao,101.92,2:19:00,1:28:00,4,43.99,55.99,27.89,27.364142419018837,24,0,0,0,92
+2025-12-21,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Alioune Seck,14:20,14:51,Keur Massar,Yeumbeul,56.81,0:31:00,0:00:00,0,109.95,122.21,16.08,28.29980179056804,24,0,0,0,89
+2025-12-21,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Ousmane Fall,18:48,19:52,Pikine,Port de Dakar,69.04,1:04:00,1:50:00,5,64.73,81.45,20.62,29.860847261674298,21,0,0,0,82
+2025-12-21,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Ndèye Mbaye,11:44,14:01,Keur Massar,Sébikotane,124.31,2:17:00,1:24:00,4,54.44,63.97,35.72,28.7361103924363,18,0,8,0,62
+2025-12-21,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Ibrahima Sarr,11:35,12:03,Diamniadio,Yeumbeul,11.08,0:28:00,0:46:00,2,23.74,27.78,2.93,26.42844072919797,27,0,4,0,83
+2025-12-21,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Babacar Sow,06:57,08:56,Yeumbeul,Port de Dakar,126.14,1:59:00,0:07:00,1,63.6,87.63,10.56,8.37454631630306,6,0,8,0,89
+2025-12-21,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Aïssatou Ba,07:34,08:10,Sébikotane,Port de Dakar,128.89,0:36:00,0:35:00,5,214.82,288.67,33.62,26.08270640051087,20,0,1,0,93
+2025-12-21,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ousmane Fall,06:06,06:53,Guédiawaye,Pikine,42.19,0:47:00,0:56:00,2,53.86,66.62,10.6,25.12403027763562,17,0,0,0,98
+2025-12-21,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ndèye Mbaye,18:41,20:22,Grand Yoff,Mbao,81.32,1:41:00,0:42:00,2,48.31,56.38,27.64,33.98546302301967,5,0,0,1,77
+2025-12-21,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mariama Wade,15:50,16:21,Diamniadio,Parcelles Assainies,53.09,0:31:00,0:27:00,3,102.75,113.05,13.76,25.916781895723066,18,0,0,6,95
+2025-12-21,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Fatou Sall,10:47,11:50,Guédiawaye,Plateau (Dakar),15.27,1:03:00,0:18:00,3,14.54,18.72,3.05,19.948457837910617,30,0,1,0,69
+2025-12-21,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Babacar Sow,15:18,17:14,Plateau (Dakar),Sébikotane,51.05,1:56:00,0:12:00,2,26.41,30.96,7.82,15.322327591276952,15,0,0,5,80
+2025-12-21,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Fatou Sall,07:35,09:45,Port de Dakar,Diamniadio,87.33,2:10:00,1:50:00,5,40.31,51.8,16.13,18.47363655329316,17,0,2,0,91
+2025-12-21,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Khadija Kane,17:06,17:53,Mbao,Plateau (Dakar),124.34,0:47:00,1:12:00,3,158.73,212.56,22.38,17.998182014043998,23,0,0,0,69
+2025-12-21,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Fatou Sall,07:21,09:17,Thiaroye,Sébikotane,134.2,1:56:00,1:40:00,5,69.41,76.71,15.49,11.545746478660359,21,0,0,5,65
+2025-12-21,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Fatou Sall,14:45,16:23,Pikine,Diamniadio,20.65,1:38:00,0:56:00,2,12.64,15.75,2.32,11.244390740485334,14,0,2,0,93
+2025-12-21,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Aïssatou Ba,16:54,17:19,Parcelles Assainies,Thiaroye,88.07,0:25:00,0:26:00,2,211.37,266.84,26.22,29.767743794035745,28,0,0,0,81
+2025-12-21,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Ousmane Fall,13:57,14:45,Grand Yoff,Pikine,26.74,0:48:00,0:20:00,4,33.42,40.68,8.94,33.41753696551637,23,0,0,3,85
+2025-12-21,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Aminata Sy,10:26,11:42,Almadies,Plateau (Dakar),15.71,1:16:00,0:40:00,5,12.4,16.56,5.18,32.99341726118308,29,0,1,1,68
+2025-12-21,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Alioune Seck,15:07,17:22,Thiaroye,Parcelles Assainies,62.32,2:15:00,0:00:00,0,27.7,31.19,10.18,16.328757627515618,7,0,0,3,73
+2025-12-21,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Mamadou Diop,11:12,12:38,Bargny,Diamniadio,143.5,1:26:00,0:15:00,1,100.12,136.46,28.22,19.66855234724764,14,0,6,0,99
+2025-12-21,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Astou Diallo,11:06,12:11,Pikine,Mbao,25.95,1:05:00,1:18:00,3,23.95,31.9,4.92,18.970089923965563,17,0,0,0,71
+2025-12-21,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Fatou Sall,10:01,12:22,Sébikotane,Mbao,116.0,2:21:00,0:11:00,1,49.36,60.65,18.94,16.329893923291912,11,0,0,0,65
+2025-12-21,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Cheikh Ndiaye,18:28,20:10,Plateau (Dakar),Guédiawaye,114.26,1:42:00,1:44:00,4,67.21,93.26,21.31,18.64950422236236,6,0,0,5,87
+2025-12-21,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Fatou Sall,09:32,10:52,Keur Massar,Thiaroye,126.11,1:20:00,0:00:00,0,94.58,132.12,33.47,26.541479965189502,8,0,0,5,60
+2025-12-21,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Alioune Seck,11:10,12:20,Almadies,Guédiawaye,73.78,1:10:00,0:24:00,1,63.24,70.3,25.6,34.69794091084444,5,0,0,0,70
+2025-12-21,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Alioune Seck,08:25,09:07,Mbao,Yeumbeul,22.44,0:42:00,0:25:00,5,32.06,41.44,6.22,27.734114867388165,14,0,0,0,94
+2025-12-21,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Alioune Seck,06:33,09:08,Mbao,Plateau (Dakar),71.72,2:35:00,1:12:00,4,27.76,35.05,24.08,33.571341708807886,26,1,0,5,97
+2025-12-21,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Babacar Sow,06:06,08:23,Keur Massar,Port de Dakar,148.5,2:17:00,1:12:00,4,65.04,84.57,43.97,29.60796742619042,10,0,7,0,73
+2025-12-21,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Ibrahima Sarr,16:02,18:02,Sébikotane,Yeumbeul,90.26,2:00:00,0:08:00,1,45.13,50.17,31.45,34.84228561050206,29,0,3,6,86
+2025-12-21,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Aminata Sy,13:41,14:23,Diamniadio,Bargny,55.55,0:42:00,0:48:00,2,79.36,94.99,18.2,32.77100415510375,20,0,2,0,96
+2025-12-22,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Aïssatou Ba,15:46,16:10,Parcelles Assainies,Thiaroye,62.78,0:24:00,0:38:00,2,156.95,209.22,6.12,9.750283944529638,14,0,3,2,100
+2025-12-22,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Fatou Sall,16:15,16:59,Bargny,Keur Massar,66.17,0:44:00,0:16:00,1,90.23,125.27,6.53,9.867329709638934,23,0,2,3,78
+2025-12-22,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ibrahima Sarr,07:38,09:43,Yeumbeul,Sébikotane,136.93,2:05:00,0:40:00,5,65.73,82.32,11.5,8.399817714285065,16,0,6,0,96
+2025-12-22,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Aminata Sy,08:47,09:45,Sébikotane,SOCOCIM Rufisque,16.88,0:58:00,0:00:00,0,17.46,20.24,1.4,8.301517038601805,20,0,8,0,93
+2025-12-22,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Ousmane Fall,07:53,09:41,Parcelles Assainies,Bargny,22.19,1:48:00,0:32:00,4,12.33,15.82,6.79,30.606629788019262,30,0,0,0,66
+2025-12-22,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Mamadou Diop,07:25,08:00,Almadies,Grand Yoff,103.9,0:35:00,0:00:00,0,178.11,241.21,31.92,30.72214132226621,27,2,4,5,84
+2025-12-22,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Abdou Gueye,15:36,18:02,Guédiawaye,Parcelles Assainies,26.27,2:26:00,0:54:00,3,10.8,12.04,7.02,26.710222980241024,21,0,6,0,94
+2025-12-22,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Astou Diallo,06:02,06:17,Guédiawaye,Bargny,52.75,0:15:00,0:00:00,0,211.0,277.07,14.02,26.581833864847642,11,0,0,0,70
+2025-12-22,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Babacar Sow,11:03,12:03,Bargny,Keur Massar,11.9,1:00:00,0:30:00,2,11.9,15.33,3.3,27.702388791489096,28,0,0,2,82
+2025-12-22,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Babacar Sow,11:33,13:15,Grand Yoff,Sébikotane,67.12,1:42:00,0:00:00,0,39.48,46.84,21.2,31.57863763980769,24,0,0,6,86
+2025-12-22,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Cheikh Ndiaye,07:25,10:25,Mbao,Sébikotane,109.74,3:00:00,2:25:00,5,36.58,46.97,12.55,11.432682355008426,16,0,0,0,82
+2025-12-22,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Mamadou Diop,07:10,09:03,Thiaroye,Mbao,67.41,1:53:00,0:00:00,0,35.79,44.32,10.34,15.341510590265079,5,0,0,2,81
+2025-12-22,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Cheikh Ndiaye,15:15,17:37,SOCOCIM Rufisque,Port de Dakar,111.97,2:22:00,1:12:00,4,47.31,63.13,17.6,15.716148853314666,22,0,0,0,76
+2025-12-22,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Cheikh Ndiaye,14:56,15:42,Thiaroye,Port de Dakar,58.08,0:46:00,1:03:00,3,75.76,92.1,10.23,17.608234406966822,18,0,3,6,80
+2025-12-22,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Alioune Seck,08:42,09:38,Bargny,Yeumbeul,104.5,0:56:00,1:00:00,5,111.96,154.36,19.86,19.007484125814415,11,0,6,2,97
+2025-12-22,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Fatou Sall,11:45,13:15,Diamniadio,Pikine,51.67,1:30:00,0:45:00,3,34.45,41.42,9.22,17.85160630563598,20,0,1,0,77
+2025-12-22,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mariama Wade,08:32,09:50,Sébikotane,Mbao,102.67,1:18:00,0:15:00,3,78.98,106.44,30.17,29.390012356991747,23,4,0,0,66
+2025-12-22,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Fatou Sall,17:32,19:42,Sébikotane,Port de Dakar,106.41,2:10:00,1:40:00,4,49.11,67.19,17.28,16.2382370969881,6,0,0,0,86
+2025-12-22,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Aminata Sy,18:43,20:55,Plateau (Dakar),Grand Yoff,136.01,2:12:00,1:00:00,3,61.82,75.98,22.48,16.524703684702086,5,0,0,0,63
+2025-12-22,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Ibrahima Sarr,17:01,19:58,Plateau (Dakar),Pikine,36.8,2:57:00,0:24:00,1,12.47,14.65,3.53,9.586462573660313,22,3,0,3,62
+2025-12-22,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Abdou Gueye,07:04,07:31,Guédiawaye,SOCOCIM Rufisque,80.87,0:27:00,0:46:00,2,179.71,228.5,27.7,34.24901165629668,8,0,0,0,92
+2025-12-22,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Ibrahima Sarr,08:56,10:56,Thiaroye,Almadies,84.71,2:00:00,0:22:00,1,42.35,52.81,28.28,33.38537233381246,28,0,0,6,89
+2025-12-22,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Khadija Kane,15:14,16:45,Guédiawaye,Diamniadio,68.77,1:31:00,0:00:00,0,45.34,56.09,18.07,26.280813721548096,11,0,0,2,95
+2025-12-22,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Mamadou Diop,14:26,16:42,Thiaroye,Almadies,23.54,2:16:00,1:44:00,4,10.39,12.54,8.03,34.12203902975486,27,0,0,0,62
+2025-12-22,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Fatou Sall,10:14,12:13,Yeumbeul,Pikine,48.36,1:59:00,2:00:00,5,24.38,33.46,9.3,19.22459761837731,27,5,0,0,69
+2025-12-22,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Aminata Sy,07:08,08:12,SOCOCIM Rufisque,Bargny,136.49,1:04:00,0:00:00,0,127.96,172.99,23.19,16.988283955638508,20,0,1,0,66
+2025-12-22,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Alioune Seck,09:07,10:26,Port de Dakar,Sébikotane,39.27,1:19:00,0:00:00,0,29.83,33.3,6.88,17.52945049695046,20,0,3,4,67
+2025-12-22,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Astou Diallo,07:44,08:00,Almadies,Guédiawaye,13.85,0:16:00,1:16:00,4,51.94,68.45,4.16,30.0289031849655,6,0,0,0,71
+2025-12-22,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Cheikh Ndiaye,09:43,12:16,Diamniadio,Bargny,104.91,2:33:00,0:00:00,0,41.14,48.65,27.18,25.9110651482419,21,0,0,6,85
+2025-12-22,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mamadou Diop,06:10,07:43,Pikine,Mbao,87.97,1:33:00,2:25:00,5,56.75,63.93,27.62,31.398626035614495,26,0,0,6,81
+2025-12-22,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mamadou Diop,09:22,12:15,Yeumbeul,Diamniadio,44.83,2:53:00,0:18:00,1,15.55,18.35,14.49,32.313194627332074,28,3,0,0,66
+2025-12-23,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Alioune Seck,06:43,06:58,Parcelles Assainies,Yeumbeul,52.63,0:15:00,0:00:00,0,210.52,235.26,10.03,19.061667159315355,8,0,8,4,85
+2025-12-23,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Aminata Sy,10:39,11:26,Mbao,Guédiawaye,103.57,0:47:00,1:40:00,4,132.22,169.74,16.92,16.339714921392,22,0,0,0,86
+2025-12-23,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Moussa Diouf,16:57,19:54,Plateau (Dakar),Keur Massar,44.92,2:57:00,0:00:00,0,15.23,20.68,4.25,9.45442985652027,7,2,0,2,99
+2025-12-23,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ousmane Fall,11:22,13:54,Almadies,Pikine,134.88,2:32:00,2:30:00,5,53.24,68.2,13.6,10.080379442409491,28,0,0,0,61
+2025-12-23,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Mamadou Diop,17:50,19:52,Almadies,Pikine,142.89,2:02:00,0:40:00,2,70.27,97.94,14.49,10.14086365660892,29,0,0,0,91
+2025-12-23,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Cheikh Ndiaye,14:45,15:11,Grand Yoff,Yeumbeul,141.64,0:26:00,0:58:00,2,326.86,442.42,47.16,33.29860124239275,20,0,0,0,95
+2025-12-23,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Cheikh Ndiaye,07:49,09:57,Diamniadio,Yeumbeul,116.95,2:08:00,0:00:00,0,54.82,73.41,39.65,33.905734936759146,24,0,8,2,89
+2025-12-23,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Abdou Gueye,16:31,18:55,Mbao,Almadies,68.54,2:24:00,0:48:00,2,28.56,37.93,21.05,30.70744255801075,7,0,4,4,81
+2025-12-23,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ndèye Mbaye,06:12,08:08,Parcelles Assainies,Plateau (Dakar),99.44,1:56:00,0:12:00,2,51.43,64.21,27.79,27.945089558187977,18,0,2,0,72
+2025-12-23,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Moussa Diouf,13:36,15:07,Sébikotane,Grand Yoff,145.7,1:31:00,0:44:00,4,96.07,131.35,14.47,9.92889162330847,30,0,3,0,67
+2025-12-23,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Cheikh Ndiaye,13:23,15:34,Port de Dakar,Bargny,121.82,2:11:00,0:00:00,0,55.8,70.15,10.73,8.804557947111169,18,0,0,0,73
+2025-12-23,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Fatou Sall,06:00,07:34,Diamniadio,Sébikotane,84.89,1:34:00,0:26:00,1,54.19,64.76,24.28,28.600872768090863,24,0,0,5,72
+2025-12-23,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Babacar Sow,17:47,19:09,Yeumbeul,Almadies,29.71,1:22:00,1:05:00,5,21.74,30.03,9.75,32.804732799510134,18,3,6,0,85
+2025-12-23,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Alioune Seck,06:18,09:16,Bargny,Grand Yoff,134.85,2:58:00,0:16:00,2,45.46,55.61,35.91,26.626422226043484,23,1,0,0,60
+2025-12-23,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Mariama Wade,13:03,13:26,Keur Massar,Guédiawaye,49.45,0:23:00,1:05:00,5,129.0,179.25,15.56,31.475971953164077,29,0,0,0,94
+2025-12-23,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Moussa Diouf,18:46,19:50,Plateau (Dakar),Almadies,55.82,1:04:00,0:45:00,5,52.33,61.61,10.53,18.860880606096266,10,0,0,4,85
+2025-12-23,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Ousmane Fall,09:51,12:26,Port de Dakar,Mbao,34.12,2:35:00,0:00:00,0,13.21,15.96,5.22,15.2941453921331,26,0,0,3,64
+2025-12-23,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mariama Wade,17:34,18:27,Mbao,Thiaroye,104.88,0:53:00,0:58:00,2,118.73,145.14,29.78,28.396559232002257,23,0,2,3,71
+2025-12-23,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mamadou Diop,18:13,19:36,Grand Yoff,Parcelles Assainies,130.68,1:23:00,0:00:00,0,94.47,119.39,34.36,26.2915861699861,15,0,4,2,61
+2025-12-23,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Fatou Sall,13:39,15:15,Almadies,Parcelles Assainies,75.35,1:36:00,1:40:00,5,47.09,53.1,23.89,31.709563129841705,14,0,0,0,96
+2025-12-23,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Aïssatou Ba,11:43,13:26,Grand Yoff,Almadies,83.56,1:43:00,0:00:00,0,48.68,61.94,24.63,29.471645138367528,13,0,3,0,67
+2025-12-23,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Alioune Seck,07:52,09:11,Port de Dakar,Pikine,93.83,1:19:00,1:36:00,4,71.26,90.56,28.5,30.37476924728755,20,0,0,3,84
+2025-12-24,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Moussa Diouf,08:46,10:53,Grand Yoff,Plateau (Dakar),122.64,2:07:00,0:19:00,1,57.94,65.63,19.45,15.85848217075751,9,0,0,0,97
+2025-12-24,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Aïssatou Ba,09:28,10:20,Grand Yoff,Keur Massar,74.98,0:52:00,0:50:00,5,86.52,103.58,12.91,17.22119382551071,28,0,0,0,68
+2025-12-24,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Mamadou Diop,15:51,17:10,Parcelles Assainies,Mbao,91.71,1:19:00,2:10:00,5,69.65,89.06,13.98,15.241977254035913,21,0,7,5,71
+2025-12-24,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Fatou Sall,14:51,17:00,Keur Massar,Guédiawaye,60.57,2:09:00,0:00:00,0,28.17,31.52,11.19,18.46662067164608,9,0,0,0,64
+2025-12-24,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Khadija Kane,18:18,21:07,Almadies,SOCOCIM Rufisque,76.01,2:49:00,1:35:00,5,26.99,34.91,6.52,8.577696164595514,16,0,0,0,72
+2025-12-24,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Cheikh Ndiaye,06:49,07:14,Thiaroye,Diamniadio,99.32,0:25:00,0:36:00,3,238.37,305.63,10.73,10.804001792674658,22,0,0,0,82
+2025-12-24,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Moussa Diouf,06:33,08:21,Port de Dakar,Yeumbeul,43.32,1:48:00,0:16:00,2,24.07,27.42,4.47,10.30732381697262,6,0,0,5,80
+2025-12-24,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Fatou Sall,09:30,10:13,Keur Massar,SOCOCIM Rufisque,84.01,0:43:00,0:06:00,1,117.22,144.78,8.47,10.082074814939,26,0,7,0,66
+2025-12-24,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ousmane Fall,18:54,21:34,Diamniadio,Almadies,88.59,2:40:00,0:14:00,1,33.22,39.02,10.51,11.865113598612009,21,0,0,0,65
+2025-12-24,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Cheikh Ndiaye,15:23,16:29,Almadies,Grand Yoff,143.45,1:06:00,1:00:00,4,130.41,168.47,14.45,10.075972751974884,21,3,0,0,80
+2025-12-24,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Fatou Sall,16:29,17:47,Sébikotane,Almadies,80.34,1:18:00,0:25:00,5,61.8,84.28,9.35,11.633588753407327,28,0,0,0,86
+2025-12-24,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Aïssatou Ba,06:20,06:58,Port de Dakar,Diamniadio,91.71,0:38:00,0:35:00,5,144.81,185.46,7.36,8.020912902431368,5,0,0,0,69
+2025-12-24,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Khadija Kane,08:15,10:39,Pikine,Keur Massar,21.22,2:24:00,0:00:00,0,8.84,10.24,2.16,10.177859925765768,6,0,0,0,94
+2025-12-24,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Mariama Wade,17:48,19:05,Thiaroye,Grand Yoff,87.58,1:17:00,0:00:00,0,68.24,79.82,15.63,17.847897758781237,20,0,6,0,96
+2025-12-24,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Fatou Sall,09:03,11:05,Guédiawaye,Keur Massar,144.61,2:02:00,1:05:00,5,71.12,97.45,22.85,15.80096318691202,19,0,8,0,65
+2025-12-24,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Ndèye Mbaye,15:35,15:56,Bargny,Guédiawaye,102.59,0:21:00,0:00:00,0,293.11,378.35,19.89,19.38299643584087,23,0,0,0,100
+2025-12-24,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Mariama Wade,10:38,12:06,Diamniadio,Sébikotane,16.27,1:28:00,0:38:00,2,11.09,14.15,2.68,16.48349360965104,24,0,6,1,79
+2025-12-24,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Mamadou Diop,18:58,21:06,Mbao,Thiaroye,58.52,2:08:00,0:05:00,1,27.43,34.27,11.14,19.035360632366814,30,0,0,0,65
+2025-12-24,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Mariama Wade,06:06,07:23,Mbao,Almadies,8.88,1:17:00,0:06:00,1,6.92,8.68,1.01,11.395291765238358,20,0,0,6,100
+2025-12-24,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Ndèye Mbaye,07:41,10:27,Yeumbeul,Parcelles Assainies,33.58,2:46:00,0:21:00,1,12.14,15.29,3.82,11.377996450907116,5,0,0,0,70
+2025-12-24,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Ousmane Fall,13:34,15:30,Port de Dakar,Parcelles Assainies,54.24,1:56:00,0:00:00,0,28.06,32.74,18.42,33.95242042026223,11,0,0,4,61
+2025-12-24,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mamadou Diop,18:32,19:58,Plateau (Dakar),Bargny,82.89,1:26:00,0:00:00,0,57.83,73.37,22.07,26.623026686385145,25,2,0,1,85
+2025-12-24,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Fatou Sall,18:55,19:29,Pikine,Thiaroye,61.24,0:34:00,2:10:00,5,108.07,124.72,15.56,25.41337528060184,6,0,6,0,70
+2025-12-24,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mariama Wade,13:59,15:59,Sébikotane,Bargny,146.51,2:00:00,0:14:00,2,73.25,82.71,45.55,31.09275847941854,22,0,0,0,96
+2025-12-24,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mariama Wade,06:39,06:55,Sébikotane,Diamniadio,15.33,0:16:00,0:10:00,2,57.49,72.53,4.89,31.89424200245355,6,0,0,0,71
+2025-12-24,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Astou Diallo,12:51,15:48,Port de Dakar,Parcelles Assainies,66.31,2:57:00,0:00:00,0,22.48,29.17,12.93,19.50565746985371,16,0,0,0,62
+2025-12-24,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Aminata Sy,13:18,15:20,Almadies,Diamniadio,144.81,2:02:00,0:36:00,2,71.22,83.27,24.85,17.157996785117,20,0,6,0,73
+2025-12-24,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Fatou Sall,10:39,12:40,Grand Yoff,Almadies,50.78,2:01:00,0:40:00,4,25.18,28.98,5.1,10.047577608421228,19,3,1,0,65
+2025-12-24,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Ndèye Mbaye,18:48,21:36,Thiaroye,Almadies,23.58,2:48:00,0:19:00,1,8.42,10.04,2.1,8.921901477230412,6,3,4,5,95
+2025-12-24,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Cheikh Ndiaye,08:16,09:27,Grand Yoff,Pikine,16.99,1:11:00,1:04:00,4,14.36,18.54,5.12,30.16334901301429,10,3,5,0,61
+2025-12-24,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Khadija Kane,10:22,12:39,SOCOCIM Rufisque,Mbao,84.55,2:17:00,0:09:00,1,37.03,42.04,21.32,25.215659394167456,5,2,2,0,70
+2025-12-24,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Astou Diallo,06:23,06:52,Port de Dakar,Yeumbeul,52.94,0:29:00,2:10:00,5,109.53,147.72,18.23,34.43559203928242,5,0,0,5,63
+2025-12-24,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Abdou Gueye,17:29,18:37,Plateau (Dakar),Port de Dakar,83.9,1:08:00,0:12:00,2,74.03,88.38,21.36,25.462290245590832,7,0,0,0,97
+2025-12-24,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Khadija Kane,12:38,14:02,Yeumbeul,Bargny,138.44,1:24:00,0:56:00,2,98.89,120.52,21.12,15.257016881656009,19,0,8,4,69
+2025-12-24,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Astou Diallo,08:19,09:59,Almadies,Guédiawaye,68.05,1:40:00,0:36:00,3,40.83,54.21,11.19,16.449318925158472,17,0,0,0,79
+2025-12-24,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Abdou Gueye,06:20,07:17,Sébikotane,Guédiawaye,59.63,0:57:00,0:00:00,0,62.77,80.62,10.09,16.914073440927087,27,0,0,0,91
+2025-12-24,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Cheikh Ndiaye,15:35,18:26,Yeumbeul,Pikine,39.69,2:51:00,1:18:00,3,13.93,17.2,13.4,33.76008482770338,15,0,4,0,92
+2025-12-24,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Moussa Diouf,07:32,09:08,SOCOCIM Rufisque,Grand Yoff,137.68,1:36:00,0:36:00,4,86.05,116.66,47.59,34.56713378143868,11,0,3,0,83
+2025-12-24,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Cheikh Ndiaye,17:46,20:01,Pikine,Bargny,145.67,2:15:00,0:45:00,3,64.74,72.63,46.63,32.01165826042547,27,0,1,3,69
+2025-12-24,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Babacar Sow,11:36,11:59,Parcelles Assainies,Keur Massar,29.73,0:23:00,0:18:00,1,77.56,97.03,8.62,28.98133086712071,6,0,0,0,98
+2025-12-25,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Ndèye Mbaye,07:10,09:18,Parcelles Assainies,Keur Massar,57.64,2:08:00,1:20:00,5,27.02,30.5,9.12,15.83099093540342,22,0,0,0,68
+2025-12-25,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Fatou Sall,12:09,13:29,Thiaroye,Grand Yoff,44.98,1:20:00,0:00:00,0,33.73,45.59,7.11,15.80649418177517,25,0,2,0,87
+2025-12-25,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Mariama Wade,16:21,17:49,Diamniadio,Yeumbeul,11.77,1:28:00,0:28:00,4,8.03,9.78,1.06,9.001461988308048,18,0,7,0,97
+2025-12-25,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Abdou Gueye,08:00,10:39,Plateau (Dakar),Thiaroye,134.47,2:39:00,1:32:00,4,50.74,60.64,13.52,10.052281673833876,24,0,0,2,87
+2025-12-25,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ousmane Fall,07:12,10:08,Almadies,SOCOCIM Rufisque,74.9,2:56:00,0:39:00,3,25.53,33.72,8.32,11.113289706053457,25,0,2,0,61
+2025-12-25,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Mariama Wade,16:54,19:53,Yeumbeul,Thiaroye,11.25,2:59:00,0:24:00,4,3.77,4.83,1.75,15.523341444952223,24,0,0,0,73
+2025-12-25,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Mariama Wade,11:22,12:17,Guédiawaye,Parcelles Assainies,133.13,0:55:00,0:42:00,2,145.23,193.19,20.48,15.386879383046056,8,3,7,0,66
+2025-12-25,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Abdou Gueye,18:37,19:28,Mbao,Thiaroye,24.32,0:51:00,0:39:00,3,28.61,32.87,4.36,17.936075323537622,16,0,0,0,74
+2025-12-25,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Aminata Sy,09:02,09:40,Pikine,Guédiawaye,95.42,0:38:00,1:52:00,4,150.66,173.6,17.52,18.356931794497207,13,0,0,1,73
+2025-12-25,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Babacar Sow,06:57,08:12,Guédiawaye,Bargny,103.29,1:15:00,0:32:00,2,82.63,96.87,35.97,34.828321178839026,9,0,0,6,82
+2025-12-25,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Alioune Seck,08:09,08:47,Mbao,Plateau (Dakar),112.03,0:38:00,0:18:00,1,176.89,222.04,31.54,28.154630287859753,9,0,0,4,70
+2025-12-25,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Aïssatou Ba,12:32,12:55,Bargny,Diamniadio,73.78,0:23:00,1:36:00,4,192.47,225.54,7.33,9.932039334929993,29,0,0,0,76
+2025-12-25,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Alioune Seck,11:14,11:58,Plateau (Dakar),Sébikotane,36.33,0:44:00,0:00:00,0,49.54,62.57,3.86,10.612212510906701,10,0,0,6,75
+2025-12-25,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Mariama Wade,15:11,16:41,Guédiawaye,Pikine,29.63,1:30:00,0:16:00,2,19.75,21.73,2.99,10.096028448071593,25,3,0,0,82
+2025-12-25,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Aminata Sy,06:16,09:09,Plateau (Dakar),Sébikotane,61.28,2:53:00,1:09:00,3,21.25,29.17,5.17,8.43253032041138,22,0,0,4,81
+2025-12-25,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Ibrahima Sarr,07:03,08:12,Bargny,SOCOCIM Rufisque,58.62,1:09:00,0:24:00,1,50.97,60.27,20.11,34.29798725688245,13,0,0,0,73
+2025-12-25,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Cheikh Ndiaye,16:58,17:13,Bargny,Yeumbeul,116.49,0:15:00,0:00:00,0,465.96,591.54,37.89,32.5247329789957,5,0,2,0,71
+2025-12-25,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mariama Wade,14:11,16:02,Mbao,Pikine,27.95,1:51:00,1:20:00,5,15.11,21.03,8.87,31.720789094100894,11,0,0,2,85
+2025-12-25,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Fatou Sall,16:24,18:43,Bargny,Pikine,75.34,2:19:00,1:00:00,2,32.52,40.75,23.86,31.67341354611156,15,0,1,0,90
+2025-12-25,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Ibrahima Sarr,07:40,10:26,Diamniadio,Grand Yoff,146.95,2:46:00,1:00:00,3,53.11,61.21,44.66,30.39267493038194,5,1,2,0,87
+2025-12-25,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Fatou Sall,18:26,18:45,Guédiawaye,Thiaroye,16.38,0:19:00,0:16:00,1,51.73,59.83,2.55,15.57887847412314,18,0,0,0,96
+2025-12-25,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Aïssatou Ba,16:15,16:51,Pikine,Sébikotane,30.32,0:36:00,0:54:00,2,50.53,64.6,6.02,19.867198557383997,23,5,0,0,64
+2025-12-25,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Ousmane Fall,11:37,12:26,Port de Dakar,Keur Massar,10.63,0:49:00,0:57:00,3,13.02,15.87,1.8,16.97573577604151,9,0,3,3,77
+2025-12-25,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Cheikh Ndiaye,17:07,19:36,Pikine,Yeumbeul,124.95,2:29:00,1:00:00,2,50.32,57.34,14.36,11.488728279959211,28,5,0,4,73
+2025-12-25,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Ousmane Fall,12:36,13:04,Guédiawaye,SOCOCIM Rufisque,99.14,0:28:00,0:28:00,1,212.44,264.33,10.74,10.837839019042898,26,5,2,0,91
+2025-12-25,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Mamadou Diop,06:02,07:52,Grand Yoff,SOCOCIM Rufisque,64.11,1:50:00,0:30:00,3,34.97,43.89,19.17,29.893971583419912,27,0,0,6,69
+2025-12-25,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Babacar Sow,16:52,18:27,Yeumbeul,Mbao,125.12,1:35:00,0:30:00,2,79.02,104.49,40.03,31.991844044102198,10,0,0,0,94
+2025-12-25,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Babacar Sow,15:55,17:16,Guédiawaye,SOCOCIM Rufisque,107.55,1:21:00,0:29:00,1,79.67,110.97,31.83,29.59407690149215,28,0,6,0,83
+2025-12-25,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Mamadou Diop,11:12,11:54,Diamniadio,Plateau (Dakar),76.43,0:42:00,1:00:00,3,109.19,149.36,19.67,25.730837161618343,14,0,0,0,86
+2025-12-25,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Ousmane Fall,15:03,15:31,Sébikotane,Mbao,47.62,0:28:00,0:18:00,2,102.04,140.67,14.75,30.97068499543671,28,0,0,0,76
+2025-12-25,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Ibrahima Sarr,08:57,11:30,Grand Yoff,Guédiawaye,41.44,2:33:00,0:00:00,0,16.25,22.59,6.92,16.69276668872171,20,3,2,2,62
+2025-12-25,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Astou Diallo,17:07,18:53,Plateau (Dakar),Keur Massar,129.69,1:46:00,0:00:00,0,73.41,88.68,20.21,15.585332706198095,28,0,2,5,69
+2025-12-25,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Cheikh Ndiaye,10:57,13:49,Guédiawaye,Sébikotane,77.06,2:52:00,0:19:00,1,26.88,29.89,20.08,26.052023749928072,19,0,0,4,76
+2025-12-25,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Fatou Sall,15:22,16:48,Mbao,Thiaroye,55.31,1:26:00,0:10:00,1,38.59,51.59,16.23,29.34339285242259,13,0,0,1,65
+2025-12-25,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mamadou Diop,09:16,11:45,SOCOCIM Rufisque,Thiaroye,38.53,2:29:00,0:24:00,2,15.52,19.81,10.79,28.00162222886446,28,0,3,0,64
+2025-12-25,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mariama Wade,11:53,14:32,Sébikotane,Guédiawaye,89.22,2:39:00,1:36:00,4,33.67,46.78,26.34,29.523609782754843,16,0,0,6,93
+2025-12-26,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Fatou Sall,17:28,18:06,Plateau (Dakar),Bargny,30.6,0:38:00,0:00:00,0,48.32,62.86,5.38,17.59289398149606,23,0,0,5,86
+2025-12-26,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Abdou Gueye,12:21,13:20,Thiaroye,Mbao,88.48,0:59:00,0:55:00,5,89.98,119.7,14.35,16.216802426693018,8,1,0,0,60
+2025-12-26,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Khadija Kane,13:17,15:52,Pikine,Parcelles Assainies,41.41,2:35:00,0:00:00,0,16.03,17.98,7.22,17.429703181129163,30,0,0,0,80
+2025-12-26,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Fatou Sall,17:47,19:12,Grand Yoff,Diamniadio,120.95,1:25:00,2:15:00,5,85.38,103.3,18.64,15.411594426243184,6,5,3,0,63
+2025-12-26,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Astou Diallo,10:11,13:02,SOCOCIM Rufisque,Port de Dakar,115.02,2:51:00,0:46:00,2,40.36,53.74,18.83,16.37326141555609,20,1,2,0,80
+2025-12-26,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ibrahima Sarr,18:19,18:46,Pikine,Diamniadio,129.26,0:27:00,0:32:00,4,287.24,397.57,14.12,10.924082840474941,18,0,4,4,66
+2025-12-26,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Abdou Gueye,08:42,10:21,Parcelles Assainies,Guédiawaye,71.98,1:39:00,2:25:00,5,43.62,55.44,7.44,10.34100233630833,18,0,0,0,62
+2025-12-26,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Aminata Sy,07:41,10:12,Plateau (Dakar),Port de Dakar,34.67,2:31:00,0:50:00,2,13.78,19.06,2.95,8.502594964562583,14,5,1,0,97
+2025-12-26,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Alioune Seck,16:30,16:47,Sébikotane,Port de Dakar,86.55,0:17:00,0:00:00,0,305.47,416.21,7.82,9.035418930025775,7,5,0,0,94
+2025-12-26,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Khadija Kane,10:46,11:29,Guédiawaye,Diamniadio,108.09,0:43:00,0:18:00,1,150.82,177.49,35.77,33.097161814392535,12,0,0,6,88
+2025-12-26,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Mamadou Diop,12:26,13:27,Diamniadio,Pikine,101.89,1:01:00,0:18:00,3,100.22,118.73,28.63,28.097912069116102,28,0,0,5,87
+2025-12-26,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Fatou Sall,10:50,11:57,SOCOCIM Rufisque,Almadies,25.92,1:07:00,2:00:00,4,23.21,31.18,8.94,34.47564318275789,14,3,0,5,79
+2025-12-26,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Astou Diallo,15:35,18:26,Diamniadio,Yeumbeul,82.93,2:51:00,0:18:00,3,29.1,37.56,22.22,26.798597263043643,27,3,2,0,88
+2025-12-26,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Aïssatou Ba,07:39,09:07,Guédiawaye,Port de Dakar,117.63,1:28:00,0:21:00,3,80.2,104.52,13.62,11.580473738230108,13,3,0,5,81
+2025-12-26,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Babacar Sow,12:23,15:00,Grand Yoff,Guédiawaye,48.97,2:37:00,0:50:00,2,18.71,21.34,4.6,9.387847301379415,26,0,2,0,62
+2025-12-26,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Aminata Sy,14:24,15:13,Thiaroye,Plateau (Dakar),47.23,0:49:00,0:00:00,0,57.83,68.47,4.31,9.128782870588493,17,0,0,0,85
+2025-12-26,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Cheikh Ndiaye,15:00,17:59,Almadies,Sébikotane,119.83,2:59:00,0:20:00,1,40.17,55.03,12.57,10.491569451429285,12,0,0,0,71
+2025-12-26,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Aïssatou Ba,12:23,12:53,Pikine,Yeumbeul,117.57,0:30:00,0:15:00,3,235.14,284.55,13.32,11.326448535815375,25,2,0,4,83
+2025-12-26,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Mamadou Diop,15:57,16:51,Sébikotane,Port de Dakar,28.36,0:54:00,1:30:00,5,31.51,34.69,7.56,26.673488335509543,18,0,0,0,82
+2025-12-26,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ousmane Fall,17:35,18:46,Keur Massar,Bargny,99.73,1:11:00,1:12:00,3,84.28,95.86,34.41,34.50255982652123,29,0,0,1,80
+2025-12-26,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ibrahima Sarr,13:50,14:52,Yeumbeul,Guédiawaye,9.75,1:02:00,0:11:00,1,9.44,11.91,3.3,33.89413730235101,10,0,0,0,74
+2025-12-26,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Aïssatou Ba,14:32,16:27,SOCOCIM Rufisque,Bargny,67.7,1:55:00,0:48:00,3,35.32,47.3,23.36,34.5011411582864,7,0,1,0,96
+2025-12-26,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Moussa Diouf,14:22,16:29,Yeumbeul,SOCOCIM Rufisque,65.46,2:07:00,0:00:00,0,30.93,39.5,10.4,15.88988538483299,11,0,1,0,70
+2025-12-26,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Abdou Gueye,17:36,19:17,Mbao,Port de Dakar,71.44,1:41:00,0:21:00,1,42.44,48.82,11.07,15.502495026181766,23,0,0,5,71
+2025-12-26,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Abdou Gueye,07:33,07:50,Guédiawaye,Keur Massar,107.93,0:17:00,2:05:00,5,380.93,473.41,9.83,9.111903718372474,21,0,0,4,89
+2025-12-26,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Alioune Seck,14:38,15:20,Plateau (Dakar),Sébikotane,118.09,0:42:00,1:06:00,3,168.7,223.92,9.72,8.227267506925633,10,0,0,0,99
+2025-12-26,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Cheikh Ndiaye,08:36,10:10,Diamniadio,Sébikotane,78.29,1:34:00,0:00:00,0,49.97,60.25,7.34,9.378048408481302,10,1,5,6,91
+2025-12-26,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Aminata Sy,11:58,12:17,Grand Yoff,Bargny,45.05,0:19:00,0:00:00,0,142.26,164.09,11.54,25.622976590949946,6,3,0,4,75
+2025-12-26,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Aminata Sy,13:29,14:53,SOCOCIM Rufisque,Yeumbeul,120.54,1:24:00,0:40:00,2,86.1,115.8,40.74,33.79760263316896,25,0,7,1,78
+2025-12-26,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Mamadou Diop,17:43,19:50,Almadies,Plateau (Dakar),34.18,2:07:00,0:28:00,1,16.15,20.68,11.87,34.713740111014076,12,0,5,0,66
+2025-12-26,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Moussa Diouf,18:51,20:00,Plateau (Dakar),Guédiawaye,13.33,1:09:00,0:16:00,2,11.59,16.08,4.59,34.46816359929303,15,0,0,3,84
+2025-12-26,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Astou Diallo,08:29,10:22,Port de Dakar,Mbao,19.51,1:53:00,0:56:00,4,10.36,12.7,5.2,26.666888475650122,30,5,0,0,96
+2025-12-26,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mamadou Diop,06:49,07:48,SOCOCIM Rufisque,Diamniadio,21.44,0:59:00,0:30:00,5,21.8,29.93,7.32,34.133699693431566,18,0,0,6,83
+2025-12-26,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mamadou Diop,09:33,10:38,Port de Dakar,Sébikotane,16.1,1:05:00,0:00:00,0,14.86,19.22,5.42,33.67238182785657,27,0,0,0,82
+2025-12-26,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Ibrahima Sarr,17:43,20:19,Port de Dakar,SOCOCIM Rufisque,60.11,2:36:00,0:00:00,0,23.12,31.47,15.72,26.155085537041785,10,5,8,0,81
+2025-12-27,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Ndèye Mbaye,10:17,12:21,Yeumbeul,SOCOCIM Rufisque,32.33,2:04:00,0:40:00,4,15.64,20.88,5.52,17.084911957102157,29,0,7,0,75
+2025-12-27,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Abdou Gueye,07:22,09:32,Mbao,Bargny,23.92,2:10:00,0:15:00,1,11.04,13.97,4.11,17.16292084948453,13,0,0,4,74
+2025-12-27,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Alioune Seck,12:11,13:10,Diamniadio,Port de Dakar,45.75,0:59:00,0:38:00,2,46.53,61.2,7.28,15.901855663255322,18,0,0,0,76
+2025-12-27,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ousmane Fall,07:29,08:13,SOCOCIM Rufisque,Mbao,49.72,0:44:00,1:10:00,5,67.8,80.45,4.24,8.524005499128815,22,2,0,0,98
+2025-12-27,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Mamadou Diop,09:34,12:21,Thiaroye,Mbao,145.19,2:47:00,1:25:00,5,52.16,69.4,16.77,11.547495154560215,14,2,8,0,71
+2025-12-27,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Cheikh Ndiaye,15:05,16:50,Diamniadio,Guédiawaye,97.08,1:45:00,0:55:00,5,55.47,70.9,8.54,8.793654452472717,17,0,0,1,65
+2025-12-27,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Aminata Sy,12:46,14:42,Yeumbeul,Bargny,95.53,1:56:00,0:30:00,1,49.41,59.68,10.52,11.008651476355508,22,0,0,0,68
+2025-12-27,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Astou Diallo,15:21,18:10,Bargny,Port de Dakar,70.93,2:49:00,0:40:00,4,25.18,34.82,23.8,33.557977402114034,6,0,2,6,61
+2025-12-27,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Cheikh Ndiaye,16:13,17:10,Port de Dakar,Bargny,80.4,0:57:00,0:50:00,5,84.63,117.67,21.73,27.02417133592907,12,0,5,0,86
+2025-12-27,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Babacar Sow,17:37,18:17,Thiaroye,Mbao,47.75,0:40:00,0:00:00,0,71.62,80.87,13.67,28.618245005112307,15,0,0,6,67
+2025-12-27,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Babacar Sow,06:21,08:02,Yeumbeul,Sébikotane,13.25,1:41:00,0:14:00,1,7.87,9.36,4.27,32.21296280607005,6,0,0,4,71
+2025-12-27,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Astou Diallo,13:39,15:05,Port de Dakar,Diamniadio,124.14,1:26:00,0:50:00,5,86.61,113.91,32.75,26.37827364869311,8,0,2,2,88
+2025-12-27,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Cheikh Ndiaye,14:18,15:22,Keur Massar,Sébikotane,89.16,1:04:00,0:30:00,3,83.59,115.97,25.69,28.81876882185473,11,5,1,6,91
+2025-12-27,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Mamadou Diop,18:16,20:10,Grand Yoff,Almadies,12.86,1:54:00,0:50:00,2,6.77,8.36,1.31,10.2115802059777,18,3,0,0,100
+2025-12-27,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Moussa Diouf,15:12,17:53,Yeumbeul,Almadies,121.27,2:41:00,0:00:00,0,45.19,62.82,13.74,11.333794119149273,15,5,2,3,72
+2025-12-27,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Mariama Wade,12:59,13:46,Plateau (Dakar),Keur Massar,67.82,0:47:00,0:18:00,2,86.58,106.2,5.86,8.63518801501769,21,0,0,4,86
+2025-12-27,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Moussa Diouf,14:54,16:03,Sébikotane,Port de Dakar,135.04,1:09:00,0:00:00,0,117.43,163.95,11.5,8.513379728494906,29,0,0,2,69
+2025-12-27,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Ndèye Mbaye,07:50,08:34,Mbao,Almadies,138.05,0:44:00,0:26:00,1,188.25,239.29,13.96,10.115046960210679,27,2,1,0,60
+2025-12-27,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Khadija Kane,13:13,14:54,Bargny,Keur Massar,59.08,1:41:00,0:22:00,1,35.1,45.44,10.79,18.2593189189953,19,0,0,0,78
+2025-12-27,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Fatou Sall,11:12,12:10,SOCOCIM Rufisque,Plateau (Dakar),13.22,0:58:00,1:15:00,5,13.68,15.51,2.42,18.289200203376726,18,0,0,5,61
+2025-12-27,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Khadija Kane,18:59,19:30,Pikine,Port de Dakar,78.05,0:31:00,0:30:00,2,151.06,193.98,13.14,16.829033214607122,6,2,0,0,86
+2025-12-27,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Abdou Gueye,06:36,09:11,Grand Yoff,Yeumbeul,53.55,2:35:00,0:00:00,0,20.73,26.1,9.34,17.43976491993658,30,0,0,0,98
+2025-12-27,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Abdou Gueye,09:09,09:24,Diamniadio,Keur Massar,84.01,0:15:00,0:54:00,3,336.04,461.81,24.88,29.61366413958425,14,0,4,0,88
+2025-12-27,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Khadija Kane,08:27,10:27,Sébikotane,Almadies,127.88,2:00:00,1:05:00,5,63.94,82.93,37.9,29.64022611495893,28,0,0,0,75
+2025-12-27,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Abdou Gueye,11:54,12:16,Guédiawaye,Port de Dakar,70.42,0:22:00,0:50:00,2,192.05,236.13,5.76,8.182959668958201,27,0,0,1,75
+2025-12-27,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Aïssatou Ba,11:38,14:25,Keur Massar,Diamniadio,31.13,2:47:00,1:00:00,5,11.18,12.95,3.65,11.709679546572987,16,0,0,0,91
+2025-12-27,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Ndèye Mbaye,12:06,14:36,Grand Yoff,Diamniadio,144.46,2:30:00,0:45:00,5,57.78,73.08,12.09,8.371835510524754,16,0,0,6,84
+2025-12-27,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Cheikh Ndiaye,08:21,08:50,Port de Dakar,Bargny,147.96,0:29:00,1:45:00,5,306.12,345.72,14.13,9.549743951809571,24,4,7,0,100
+2025-12-27,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Abdou Gueye,12:24,13:21,Plateau (Dakar),Thiaroye,47.71,0:57:00,0:09:00,1,50.22,66.89,3.95,8.269485187918537,10,0,0,0,91
+2025-12-27,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Abdou Gueye,09:42,11:39,Almadies,Keur Massar,47.19,1:57:00,1:15:00,5,24.2,28.73,12.49,26.464499573415264,30,2,1,0,64
+2025-12-27,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Alioune Seck,13:20,15:22,Almadies,Plateau (Dakar),95.95,2:02:00,0:28:00,4,47.19,62.37,29.73,30.985976520423165,13,0,0,0,76
+2025-12-27,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Aminata Sy,06:43,07:49,Mbao,SOCOCIM Rufisque,107.42,1:06:00,0:00:00,0,97.65,128.01,21.15,19.68857057900661,26,0,0,0,77
+2025-12-27,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Ibrahima Sarr,06:53,09:46,Yeumbeul,Pikine,148.68,2:53:00,0:54:00,2,51.57,62.39,23.56,15.84325274609561,11,0,3,0,84
+2025-12-27,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Ibrahima Sarr,12:57,13:50,SOCOCIM Rufisque,Parcelles Assainies,68.88,0:53:00,0:18:00,1,77.98,108.23,12.68,18.406837501580696,23,3,0,0,68
+2025-12-27,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Ousmane Fall,12:21,13:12,Diamniadio,Thiaroye,66.12,0:51:00,1:00:00,3,77.79,98.83,20.57,31.1045523294758,8,0,3,0,90
+2025-12-27,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Aminata Sy,07:25,09:13,Port de Dakar,Almadies,114.93,1:48:00,1:30:00,5,63.85,77.28,29.48,25.65201482548579,29,0,0,0,97
+2025-12-27,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Babacar Sow,17:02,19:22,Guédiawaye,Grand Yoff,6.17,2:20:00,0:00:00,0,2.64,3.35,1.65,26.697088794619436,16,0,0,6,99
+2025-12-28,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Astou Diallo,06:33,09:31,Diamniadio,Parcelles Assainies,59.34,2:58:00,0:16:00,2,20.0,22.47,11.0,18.534996473600298,30,0,0,2,69
+2025-12-28,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Moussa Diouf,17:34,18:01,Sébikotane,Port de Dakar,61.85,0:27:00,1:12:00,4,137.44,183.29,6.91,11.174024647621868,20,1,3,6,72
+2025-12-28,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Mariama Wade,08:45,09:39,Sébikotane,Thiaroye,6.7,0:54:00,0:25:00,5,7.44,9.96,0.68,10.1922560661298,7,0,0,0,95
+2025-12-28,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Alioune Seck,14:41,17:07,Almadies,Grand Yoff,47.11,2:26:00,0:25:00,1,19.36,25.42,3.93,8.342618428821892,28,0,0,0,61
+2025-12-28,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Alioune Seck,09:37,10:28,Pikine,SOCOCIM Rufisque,69.26,0:51:00,1:30:00,3,81.48,94.26,22.59,32.61426474639783,8,0,0,0,63
+2025-12-28,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Ousmane Fall,06:22,07:25,Diamniadio,SOCOCIM Rufisque,26.48,1:03:00,0:42:00,3,25.22,29.58,8.13,30.687632806699874,27,0,0,6,83
+2025-12-28,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Moussa Diouf,09:21,10:21,Plateau (Dakar),Guédiawaye,31.43,1:00:00,0:42:00,3,31.43,39.99,8.57,27.258389975946155,7,0,0,5,72
+2025-12-28,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Alioune Seck,10:01,12:48,Almadies,Pikine,5.18,2:47:00,0:26:00,2,1.86,2.25,1.5,28.927307979787695,27,0,3,0,89
+2025-12-28,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Babacar Sow,11:48,12:51,Port de Dakar,Grand Yoff,83.2,1:03:00,1:00:00,5,79.24,88.03,28.86,34.6903526899914,9,0,0,2,83
+2025-12-28,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Mariama Wade,09:56,11:31,SOCOCIM Rufisque,Parcelles Assainies,8.63,1:35:00,1:50:00,5,5.45,7.24,0.95,10.99281812072848,20,0,6,1,87
+2025-12-28,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Khadija Kane,07:38,08:16,Pikine,Keur Massar,106.21,0:38:00,0:51:00,3,167.7,193.71,9.37,8.818350391314418,15,3,0,0,72
+2025-12-28,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Mariama Wade,11:50,13:09,Keur Massar,Thiaroye,12.01,1:19:00,1:52:00,4,9.12,11.36,1.27,10.592366435587513,11,4,0,6,91
+2025-12-28,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Astou Diallo,12:28,12:51,Yeumbeul,Guédiawaye,23.34,0:23:00,2:25:00,5,60.89,77.43,2.64,11.292850442535467,9,2,3,0,72
+2025-12-28,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Abdou Gueye,06:30,08:09,Diamniadio,Thiaroye,47.48,1:39:00,1:20:00,5,28.78,37.96,3.87,8.143095704082823,30,0,0,0,70
+2025-12-28,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Ousmane Fall,18:08,18:48,Pikine,Thiaroye,92.61,0:40:00,0:15:00,3,138.92,181.97,18.16,19.612948151640822,9,0,0,3,86
+2025-12-28,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Fatou Sall,18:41,20:04,Plateau (Dakar),Sébikotane,111.16,1:23:00,0:40:00,2,80.36,93.94,19.67,17.691450911247646,11,1,0,4,60
+2025-12-28,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Khadija Kane,14:03,15:49,Keur Massar,Plateau (Dakar),63.11,1:46:00,0:51:00,3,35.72,44.54,5.2,8.246317562417879,14,2,3,0,68
+2025-12-28,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Fatou Sall,16:05,18:33,Diamniadio,Pikine,21.25,2:28:00,2:10:00,5,8.61,11.44,6.69,31.462219004579232,15,3,0,3,62
+2025-12-28,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Abdou Gueye,07:56,09:18,Keur Massar,Sébikotane,14.42,1:22:00,0:00:00,0,10.55,13.6,4.8,33.29007352221761,15,0,0,0,80
+2025-12-28,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Ibrahima Sarr,06:15,08:34,Grand Yoff,Plateau (Dakar),132.85,2:19:00,1:52:00,4,57.35,75.95,25.79,19.413604426547874,25,4,0,0,100
+2025-12-28,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Ndèye Mbaye,10:46,11:17,Diamniadio,Pikine,49.72,0:31:00,0:00:00,0,96.23,123.7,8.44,16.9780549250973,15,0,5,5,75
+2025-12-28,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Fatou Sall,09:15,11:32,Almadies,Sébikotane,101.55,2:17:00,1:18:00,3,44.47,49.55,12.16,11.979100550735824,15,0,7,6,86
+2025-12-28,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Ibrahima Sarr,14:34,15:16,Almadies,Bargny,99.6,0:42:00,2:15:00,5,142.29,184.34,8.25,8.283359956457138,24,0,0,0,71
+2025-12-28,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Cheikh Ndiaye,17:27,18:12,Diamniadio,Grand Yoff,9.39,0:45:00,0:00:00,0,12.52,15.69,0.96,10.170872480302142,5,0,0,0,83
+2025-12-28,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Mariama Wade,15:46,18:11,Diamniadio,Pikine,28.25,2:25:00,1:30:00,5,11.69,14.78,3.18,11.26452922761143,18,2,5,2,60
+2025-12-28,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Ndèye Mbaye,10:39,11:14,Sébikotane,Pikine,75.95,0:35:00,2:20:00,5,130.2,143.42,6.89,9.071183862539412,30,4,6,0,94
+2025-12-28,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Ibrahima Sarr,08:59,09:53,Plateau (Dakar),Keur Massar,10.31,0:54:00,1:48:00,4,11.46,14.2,3.19,30.93802031051808,28,0,7,0,85
+2025-12-28,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Cheikh Ndiaye,17:01,18:29,Grand Yoff,Parcelles Assainies,26.49,1:28:00,0:00:00,0,18.06,23.24,7.5,28.32164103086839,20,5,0,4,86
+2025-12-28,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Astou Diallo,15:34,17:50,Grand Yoff,Pikine,77.72,2:16:00,0:42:00,2,34.29,45.91,25.7,33.0645088923885,22,0,0,0,85
+2025-12-28,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Mariama Wade,09:40,12:25,Keur Massar,Plateau (Dakar),106.6,2:45:00,0:38:00,2,38.76,45.43,33.2,31.14351502551738,27,0,1,0,97
+2025-12-28,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Cheikh Ndiaye,06:00,07:08,Parcelles Assainies,Bargny,85.78,1:08:00,1:00:00,5,75.69,87.68,25.01,29.153798375203912,5,0,7,0,64
+2025-12-28,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Cheikh Ndiaye,11:48,13:15,Grand Yoff,Almadies,124.18,1:27:00,1:30:00,5,85.64,101.73,35.73,28.77530965696218,15,3,8,3,99
+2025-12-29,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Aïssatou Ba,17:55,18:39,Almadies,Pikine,116.26,0:44:00,0:00:00,0,158.54,175.54,21.62,18.594984711729932,25,1,0,0,60
+2025-12-29,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Mariama Wade,08:50,09:46,Pikine,Almadies,76.2,0:56:00,0:00:00,0,81.64,96.21,11.5,15.08787960602891,13,0,5,0,73
+2025-12-29,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Cheikh Ndiaye,16:48,17:34,Keur Massar,Grand Yoff,43.23,0:46:00,0:20:00,4,56.39,72.27,3.66,8.45501319144601,22,0,0,5,88
+2025-12-29,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ndèye Mbaye,09:22,10:37,SOCOCIM Rufisque,Mbao,129.05,1:15:00,0:55:00,5,103.24,130.28,12.71,9.846704596599361,23,0,0,0,87
+2025-12-29,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Fatou Sall,09:30,10:07,Plateau (Dakar),Guédiawaye,32.58,0:37:00,0:06:00,1,52.83,70.74,3.79,11.628109135932627,28,5,0,0,66
+2025-12-29,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Aminata Sy,09:16,10:04,Sébikotane,Parcelles Assainies,67.69,0:48:00,0:22:00,2,84.61,98.01,6.35,9.3801114113495,8,0,3,2,83
+2025-12-29,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Mariama Wade,13:11,14:50,Grand Yoff,Yeumbeul,42.27,1:39:00,0:50:00,5,25.62,29.69,4.82,11.392435991852773,18,4,0,2,83
+2025-12-29,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Cheikh Ndiaye,14:37,17:07,Plateau (Dakar),Grand Yoff,40.74,2:30:00,1:40:00,5,16.3,21.0,12.86,31.563457287541574,5,2,0,0,97
+2025-12-29,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Mamadou Diop,08:56,09:48,Yeumbeul,Plateau (Dakar),140.48,0:52:00,0:52:00,4,162.09,205.75,44.11,31.39784075975397,26,0,1,0,62
+2025-12-29,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Alioune Seck,06:07,06:42,Thiaroye,Grand Yoff,126.78,0:35:00,0:26:00,2,217.34,289.85,35.47,27.974738489219554,14,0,0,1,98
+2025-12-29,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Babacar Sow,14:54,17:25,Mbao,Guédiawaye,51.78,2:31:00,1:24:00,3,20.57,25.75,15.35,29.637981750825553,12,0,0,5,80
+2025-12-29,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Alioune Seck,18:08,20:25,Almadies,Yeumbeul,89.89,2:17:00,1:24:00,3,39.37,53.04,26.88,29.90770516834231,30,5,0,5,99
+2025-12-29,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Alioune Seck,09:16,10:21,Plateau (Dakar),Thiaroye,148.22,1:05:00,0:00:00,0,136.82,153.32,45.74,30.859886081615578,10,0,0,1,64
+2025-12-29,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Astou Diallo,15:15,17:01,Parcelles Assainies,Pikine,121.1,1:46:00,0:48:00,2,68.55,94.6,30.47,25.164420718773247,26,0,3,0,70
+2025-12-29,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Khadija Kane,06:36,07:37,SOCOCIM Rufisque,Yeumbeul,116.02,1:01:00,0:26:00,2,114.12,137.22,20.58,17.735455734619208,5,5,0,0,100
+2025-12-29,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ndèye Mbaye,07:30,10:10,Pikine,Parcelles Assainies,41.91,2:40:00,0:44:00,2,15.72,21.77,11.0,26.25051472253848,30,0,7,5,69
+2025-12-29,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Cheikh Ndiaye,07:26,09:44,Parcelles Assainies,Grand Yoff,114.92,2:18:00,1:12:00,4,49.97,62.37,33.17,28.860461922555466,19,0,0,0,87
+2025-12-29,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Cheikh Ndiaye,15:37,17:52,Guédiawaye,Mbao,136.21,2:15:00,0:25:00,1,60.54,72.53,36.39,26.715730918498753,9,0,0,4,98
+2025-12-29,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Mamadou Diop,08:28,08:55,Bargny,Port de Dakar,86.12,0:27:00,0:44:00,4,191.38,247.15,24.79,28.78451091335291,14,0,7,0,99
+2025-12-29,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Abdou Gueye,08:57,11:45,Keur Massar,Diamniadio,39.2,2:48:00,0:52:00,2,14.0,16.97,10.29,26.240800679140442,29,0,0,0,94
+2025-12-29,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Khadija Kane,16:13,17:45,Diamniadio,Guédiawaye,136.48,1:32:00,1:35:00,5,89.01,104.61,44.13,32.33511334554966,11,0,0,0,86
+2025-12-29,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Babacar Sow,06:07,09:05,Guédiawaye,Port de Dakar,68.71,2:58:00,0:00:00,0,23.16,32.0,22.08,32.13844119798831,26,2,0,0,82
+2025-12-29,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Astou Diallo,07:32,09:48,Bargny,Plateau (Dakar),21.87,2:16:00,0:48:00,2,9.65,11.82,4.07,18.628621421887594,15,0,2,0,97
+2025-12-29,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Ousmane Fall,08:59,09:44,Keur Massar,Plateau (Dakar),89.83,0:45:00,1:28:00,4,119.77,136.09,17.63,19.623138221316985,27,0,7,0,92
+2025-12-29,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Cheikh Ndiaye,13:31,15:44,Plateau (Dakar),SOCOCIM Rufisque,119.53,2:13:00,0:36:00,2,53.92,72.18,21.94,18.355977635967328,21,0,3,0,90
+2025-12-29,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Fatou Sall,14:22,17:03,Thiaroye,Sébikotane,7.69,2:41:00,0:25:00,1,2.87,3.26,0.92,11.914816781227248,20,0,0,0,92
+2025-12-29,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Abdou Gueye,06:27,07:51,Parcelles Assainies,Yeumbeul,14.96,1:24:00,0:11:00,1,10.69,12.68,1.29,8.613484127299026,19,0,0,0,80
+2025-12-29,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Abdou Gueye,10:46,11:45,Thiaroye,Yeumbeul,17.08,0:59:00,0:07:00,1,17.37,19.76,2.01,11.751490632403266,11,0,0,0,81
+2025-12-29,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Aïssatou Ba,08:34,11:20,Port de Dakar,Guédiawaye,134.45,2:46:00,1:40:00,5,48.6,53.89,15.41,11.45791970506662,26,0,0,0,85
+2025-12-29,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Fatou Sall,12:48,13:53,Thiaroye,Sébikotane,69.47,1:05:00,0:30:00,3,64.13,70.78,7.91,11.390924840789582,23,2,0,0,98
+2025-12-29,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Astou Diallo,13:02,15:44,Sébikotane,Plateau (Dakar),58.79,2:42:00,1:12:00,3,21.77,27.42,20.48,34.83674999935953,30,0,0,2,85
+2025-12-29,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Aminata Sy,07:42,08:51,Bargny,Diamniadio,16.13,1:09:00,0:00:00,0,14.03,18.24,2.51,15.588316996787498,29,0,3,0,83
+2025-12-29,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Babacar Sow,15:23,17:22,Guédiawaye,Sébikotane,111.34,1:59:00,0:30:00,5,56.14,66.25,21.56,19.368426082501436,13,2,7,6,89
+2025-12-29,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Aïssatou Ba,09:48,10:24,Plateau (Dakar),Thiaroye,28.59,0:36:00,1:00:00,5,47.65,60.14,5.46,19.093288416211987,10,0,0,0,98
+2025-12-30,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Moussa Diouf,15:11,17:32,Diamniadio,Guédiawaye,106.93,2:21:00,0:20:00,1,45.5,51.45,18.34,17.1486146769636,29,0,5,0,65
+2025-12-30,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Aïssatou Ba,18:36,20:40,Guédiawaye,SOCOCIM Rufisque,131.89,2:04:00,0:00:00,0,63.82,83.33,23.47,17.79511033957422,9,0,0,0,68
+2025-12-30,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Fatou Sall,14:37,14:59,Port de Dakar,SOCOCIM Rufisque,23.82,0:22:00,0:00:00,0,64.96,90.41,2.52,10.596957370697087,23,0,2,2,71
+2025-12-30,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ousmane Fall,12:41,14:21,Port de Dakar,Plateau (Dakar),108.51,1:40:00,0:48:00,2,65.11,88.56,9.4,8.661784084514407,11,0,0,1,92
+2025-12-30,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Fatou Sall,12:23,13:19,Mbao,Almadies,102.61,0:56:00,0:32:00,4,109.94,131.17,9.57,9.328606441340524,16,5,5,0,88
+2025-12-30,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Moussa Diouf,15:13,15:37,Sébikotane,Mbao,66.74,0:24:00,0:18:00,2,166.85,227.23,7.75,11.612767108436525,17,0,0,0,95
+2025-12-30,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Moussa Diouf,06:33,07:23,Yeumbeul,Almadies,20.57,0:50:00,1:15:00,5,24.68,30.31,6.78,32.97530841722557,7,0,7,0,79
+2025-12-30,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Fatou Sall,12:20,15:17,Plateau (Dakar),Grand Yoff,26.11,2:57:00,0:00:00,0,8.85,10.61,6.68,25.56788398525044,27,0,2,0,78
+2025-12-30,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Abdou Gueye,06:15,08:23,Diamniadio,SOCOCIM Rufisque,84.95,2:08:00,1:00:00,5,39.82,50.72,24.9,29.311745052130185,26,4,2,3,93
+2025-12-30,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Alioune Seck,18:54,20:12,Yeumbeul,Pikine,72.38,1:18:00,1:45:00,5,55.68,67.55,18.69,25.826072239457655,14,0,0,3,73
+2025-12-30,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Mariama Wade,13:19,14:25,Parcelles Assainies,Yeumbeul,34.86,1:06:00,0:20:00,1,31.69,39.53,11.88,34.08867768209715,24,0,0,0,75
+2025-12-30,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Cheikh Ndiaye,07:05,07:37,Mbao,Guédiawaye,141.77,0:32:00,0:17:00,1,265.82,310.64,44.86,31.6405599857655,13,0,0,4,67
+2025-12-30,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Fatou Sall,12:25,13:08,Parcelles Assainies,Bargny,62.45,0:43:00,1:24:00,3,87.14,112.67,15.87,25.41261701717553,7,0,3,0,65
+2025-12-30,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Ndèye Mbaye,16:51,17:16,SOCOCIM Rufisque,Mbao,65.07,0:25:00,0:20:00,1,156.17,193.99,7.29,11.200377159514787,19,0,3,5,80
+2025-12-30,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Fatou Sall,15:23,17:59,Guédiawaye,Port de Dakar,43.61,2:36:00,0:30:00,2,16.77,21.05,6.64,15.231984686001194,17,1,0,2,61
+2025-12-30,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Alioune Seck,10:22,12:39,Yeumbeul,Thiaroye,70.74,2:17:00,0:18:00,2,30.98,34.21,12.33,17.432432758501385,19,0,0,0,69
+2025-12-30,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Alioune Seck,07:18,08:48,Yeumbeul,Parcelles Assainies,124.08,1:30:00,0:50:00,5,82.72,111.58,35.83,28.875804249815317,25,2,0,5,83
+2025-12-30,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ousmane Fall,06:06,06:22,Port de Dakar,Almadies,60.46,0:16:00,1:00:00,2,226.72,315.28,18.86,31.19795435748768,20,0,0,0,81
+2025-12-30,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Mamadou Diop,12:18,12:37,Guédiawaye,Plateau (Dakar),13.33,0:19:00,0:35:00,5,42.09,48.91,4.31,32.333924955731675,22,0,0,0,80
+2025-12-30,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Ousmane Fall,11:34,13:43,Sébikotane,Thiaroye,47.04,2:09:00,0:16:00,1,21.88,25.07,15.96,33.9195315928631,16,2,0,0,88
+2025-12-30,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Mamadou Diop,07:05,08:43,Parcelles Assainies,Guédiawaye,81.73,1:38:00,0:00:00,0,50.04,65.03,8.65,10.5860087525071,5,0,8,2,79
+2025-12-30,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Mamadou Diop,14:05,14:51,Port de Dakar,Yeumbeul,128.5,0:46:00,0:36:00,2,167.61,213.12,14.95,11.634560074244604,17,0,0,2,77
+2025-12-30,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Ndèye Mbaye,12:00,14:34,Yeumbeul,Keur Massar,76.17,2:34:00,1:20:00,5,29.68,32.84,6.71,8.815355185966276,6,0,3,6,82
+2025-12-30,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Ousmane Fall,07:20,09:56,Thiaroye,Parcelles Assainies,18.97,2:36:00,0:25:00,5,7.3,9.39,6.33,33.35342023910905,15,0,0,0,91
+2025-12-30,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Cheikh Ndiaye,10:56,13:54,Keur Massar,Parcelles Assainies,73.4,2:58:00,1:12:00,4,24.74,30.05,20.72,28.229292707256906,21,5,4,0,84
+2025-12-30,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Alioune Seck,16:02,17:34,Guédiawaye,Plateau (Dakar),21.44,1:32:00,1:00:00,4,13.98,16.46,6.7,31.22860808176073,5,5,1,0,95
+2025-12-30,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mariama Wade,17:26,19:19,Parcelles Assainies,Mbao,103.52,1:53:00,0:18:00,3,54.97,61.38,34.87,33.679968614247976,18,0,0,1,60
+2025-12-30,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Babacar Sow,06:25,06:43,Almadies,Sébikotane,18.48,0:18:00,0:10:00,2,61.6,83.89,3.21,17.386847647791246,13,3,0,2,97
+2025-12-30,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Astou Diallo,07:11,09:46,Keur Massar,Sébikotane,140.11,2:35:00,0:13:00,1,54.24,69.64,23.75,16.9480917476024,24,0,7,0,98
+2025-12-30,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Aïssatou Ba,18:50,19:10,Bargny,Plateau (Dakar),135.63,0:20:00,0:00:00,0,406.89,476.25,25.77,19.00328801123012,20,0,0,0,97
+2025-12-30,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Fatou Sall,08:46,09:23,Bargny,Keur Massar,139.07,0:37:00,0:00:00,0,225.52,261.77,14.72,10.58456651544347,10,0,0,5,97
+2025-12-30,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Cheikh Ndiaye,17:35,18:46,Grand Yoff,Guédiawaye,5.7,1:11:00,0:00:00,0,4.82,5.54,0.86,15.014095807336584,16,1,6,0,87
+2025-12-30,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Moussa Diouf,16:33,18:52,SOCOCIM Rufisque,Guédiawaye,123.34,2:19:00,0:19:00,1,53.24,72.03,20.34,16.492547355221436,11,0,0,0,87
+2025-12-30,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Ndèye Mbaye,06:09,07:17,Pikine,Yeumbeul,53.6,1:08:00,1:12:00,3,47.29,62.08,10.12,18.876302227748422,26,4,2,1,66
+2025-12-30,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Ndèye Mbaye,17:53,20:52,Bargny,Plateau (Dakar),128.91,2:59:00,0:44:00,4,43.21,47.93,45.03,34.93291779267658,10,0,7,3,86
+2025-12-30,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Moussa Diouf,17:15,20:12,Pikine,Plateau (Dakar),38.94,2:57:00,1:00:00,4,13.2,16.43,11.53,29.61013238941038,18,0,1,0,99
+2025-12-30,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Fatou Sall,17:06,18:58,Mbao,Bargny,94.88,1:52:00,0:14:00,2,50.83,68.1,30.98,32.65165930526226,9,0,0,0,75
+2025-12-31,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Moussa Diouf,09:45,10:00,Almadies,Yeumbeul,71.38,0:15:00,0:00:00,0,285.52,338.74,13.53,18.954682880833932,10,0,0,0,84
+2025-12-31,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Fatou Sall,18:18,21:06,Plateau (Dakar),Mbao,84.93,2:48:00,0:24:00,3,30.33,41.67,15.81,18.61476908212449,16,3,6,0,70
+2025-12-31,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Aïssatou Ba,06:23,08:18,Thiaroye,SOCOCIM Rufisque,71.07,1:55:00,0:30:00,2,37.08,41.26,12.89,18.13780381936482,12,0,7,2,65
+2025-12-31,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Moussa Diouf,08:33,09:01,Grand Yoff,Thiaroye,9.1,0:28:00,1:48:00,4,19.5,23.04,1.8,19.732551762437613,28,4,0,3,65
+2025-12-31,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Aïssatou Ba,10:11,10:42,Parcelles Assainies,Yeumbeul,74.74,0:31:00,0:54:00,2,144.66,159.36,8.95,11.979120179164745,29,0,0,4,98
+2025-12-31,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Cheikh Ndiaye,07:26,08:09,Diamniadio,Guédiawaye,57.95,0:43:00,1:40:00,4,80.86,111.73,5.38,9.277318592465537,21,5,0,0,83
+2025-12-31,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Aminata Sy,12:39,14:23,Parcelles Assainies,Sébikotane,144.29,1:44:00,0:00:00,0,83.24,115.24,47.3,32.780700180123695,10,0,0,0,91
+2025-12-31,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Moussa Diouf,16:21,17:02,Mbao,Parcelles Assainies,111.99,0:41:00,1:18:00,3,163.89,181.39,32.9,29.381978047867275,8,0,0,0,73
+2025-12-31,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Alioune Seck,06:40,08:36,Mbao,Diamniadio,64.14,1:56:00,0:50:00,5,33.18,45.0,17.86,27.853027518048634,30,0,0,0,68
+2025-12-31,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Aïssatou Ba,14:42,15:36,Mbao,Grand Yoff,6.04,0:54:00,1:56:00,4,6.71,8.96,1.01,16.695501519600676,23,0,0,0,85
+2025-12-31,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Mamadou Diop,16:38,19:14,Mbao,Almadies,34.2,2:36:00,0:00:00,0,13.15,18.03,5.97,17.449706608610292,20,0,2,0,62
+2025-12-31,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Ibrahima Sarr,08:09,08:56,Sébikotane,Thiaroye,27.55,0:47:00,0:10:00,2,35.17,48.56,4.95,17.957984424214402,18,0,0,0,94
+2025-12-31,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Mariama Wade,15:29,17:50,Mbao,Keur Massar,136.37,2:21:00,0:29:00,1,58.03,67.71,24.6,18.042097721196406,6,0,2,0,78
+2025-12-31,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Fatou Sall,07:26,07:41,Bargny,SOCOCIM Rufisque,102.41,0:15:00,0:34:00,2,409.64,535.57,16.95,16.55128448774198,22,0,8,0,61
+2025-12-31,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Alioune Seck,13:34,16:21,Guédiawaye,SOCOCIM Rufisque,105.8,2:47:00,0:45:00,3,38.01,43.33,29.95,28.30937449058804,9,0,7,0,69
+2025-12-31,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Astou Diallo,16:27,18:26,Guédiawaye,Port de Dakar,76.32,1:59:00,0:24:00,1,38.48,44.84,6.63,8.683435997871458,8,0,2,0,93
+2025-12-31,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Mamadou Diop,14:24,16:43,Thiaroye,Sébikotane,148.86,2:19:00,1:30:00,5,64.26,75.72,16.52,11.095919358679609,22,4,0,0,69
+2025-12-31,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Mamadou Diop,18:10,20:43,Yeumbeul,Diamniadio,109.79,2:33:00,1:36:00,4,43.05,50.25,11.03,10.048558813505224,17,0,6,0,93
+2025-12-31,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Ndèye Mbaye,17:56,18:54,Almadies,Thiaroye,43.8,0:58:00,0:32:00,2,45.31,53.47,4.87,11.107610497814768,6,0,5,0,98
+2025-12-31,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Aïssatou Ba,08:22,09:37,Almadies,Sébikotane,61.17,1:15:00,0:42:00,3,48.94,66.37,6.49,10.606499722869504,16,0,0,3,85
+2025-12-31,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Fatou Sall,12:34,14:06,Bargny,Thiaroye,73.79,1:32:00,0:28:00,1,48.12,56.62,25.73,34.87353608590247,20,0,0,0,97
+2025-12-31,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Babacar Sow,11:37,12:16,Grand Yoff,Diamniadio,110.61,0:39:00,0:40:00,4,170.17,216.67,30.78,27.82430152140175,7,0,0,6,91
+2025-12-31,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Mamadou Diop,12:25,12:40,Grand Yoff,Port de Dakar,116.75,0:15:00,1:27:00,3,467.0,561.35,11.56,9.900356358946972,21,0,5,3,88
+2025-12-31,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Mamadou Diop,12:35,14:38,Thiaroye,Mbao,38.15,2:03:00,0:17:00,1,18.61,22.18,3.39,8.891408844269758,22,0,0,0,70
+2025-12-31,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Khadija Kane,17:12,17:50,Yeumbeul,Plateau (Dakar),69.43,0:38:00,0:10:00,2,109.63,124.94,7.62,10.977770867519194,22,0,4,6,84
+2025-12-31,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Fatou Sall,14:27,15:10,Grand Yoff,Guédiawaye,101.22,0:43:00,1:21:00,3,141.24,158.62,9.85,9.73295232340599,13,0,6,0,67
+2025-12-31,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Fatou Sall,16:27,19:16,Diamniadio,Bargny,105.61,2:49:00,0:00:00,0,37.49,51.13,33.17,31.407494150844265,18,0,1,0,64
+2025-12-31,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Moussa Diouf,13:21,14:40,Parcelles Assainies,Port de Dakar,85.31,1:19:00,0:44:00,2,64.79,73.47,29.3,34.34280683988678,9,0,0,0,95
+2025-12-31,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Cheikh Ndiaye,17:04,19:51,Keur Massar,Diamniadio,39.12,2:47:00,0:51:00,3,14.06,18.78,10.63,27.168988669021076,15,1,0,0,79
+2025-12-31,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Aminata Sy,12:56,14:50,Thiaroye,Yeumbeul,84.97,1:54:00,0:30:00,5,44.72,56.85,29.3,34.48752833699361,24,0,0,0,89
+2025-12-31,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Mariama Wade,12:53,14:53,Yeumbeul,Parcelles Assainies,99.6,2:00:00,0:00:00,0,49.8,57.9,32.28,32.40604207459929,8,0,0,0,66
+2025-12-31,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Ndèye Mbaye,08:14,10:47,Port de Dakar,SOCOCIM Rufisque,23.45,2:33:00,0:56:00,4,9.2,11.82,6.8,29.00330450402445,16,0,2,0,97
+2025-12-31,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Aminata Sy,13:26,16:05,Pikine,Almadies,54.97,2:39:00,0:32:00,2,20.74,28.69,15.68,28.518244158308917,6,0,4,0,89
+2025-12-31,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Fatou Sall,07:51,10:34,Mbao,Yeumbeul,65.36,2:43:00,1:45:00,5,24.06,31.55,21.07,32.2402180317622,29,0,0,0,68
+2025-12-31,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Moussa Diouf,07:58,08:45,Plateau (Dakar),Mbao,74.1,0:47:00,0:00:00,0,94.6,104.41,25.05,33.80801922860343,20,0,0,0,74
+2025-12-31,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Ousmane Fall,17:50,18:49,Plateau (Dakar),Diamniadio,128.56,0:59:00,1:25:00,5,130.74,147.89,43.04,33.47674156183037,12,0,0,0,85
+2026-01-01,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Aïssatou Ba,09:39,12:20,Yeumbeul,Thiaroye,72.76,2:41:00,0:22:00,2,27.12,30.49,14.24,19.568229322020503,11,0,0,2,68
+2026-01-01,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Astou Diallo,09:23,09:43,Parcelles Assainies,Bargny,106.55,0:20:00,0:21:00,1,319.65,358.34,19.98,18.7512420867826,30,0,1,0,63
+2026-01-01,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Ndèye Mbaye,13:18,16:14,Bargny,Pikine,22.33,2:56:00,0:00:00,0,7.61,8.81,3.39,15.179350541967986,8,0,0,3,90
+2026-01-01,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Babacar Sow,13:19,14:31,Parcelles Assainies,Mbao,54.83,1:12:00,0:21:00,3,45.69,63.96,10.22,18.635215005297685,23,0,2,0,74
+2026-01-01,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Mariama Wade,15:08,15:42,SOCOCIM Rufisque,Thiaroye,85.18,0:34:00,1:44:00,4,150.32,191.53,8.18,9.603225160316667,24,0,0,0,82
+2026-01-01,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Cheikh Ndiaye,16:57,19:18,Port de Dakar,Thiaroye,106.52,2:21:00,0:32:00,2,45.33,53.54,9.16,8.60354570875214,17,3,0,0,85
+2026-01-01,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Babacar Sow,14:39,16:34,Keur Massar,Bargny,145.04,1:55:00,0:48:00,4,75.67,93.78,14.59,10.056709367020526,5,0,0,0,67
+2026-01-01,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Babacar Sow,09:57,12:23,Guédiawaye,Keur Massar,34.94,2:26:00,0:08:00,1,14.36,17.59,3.09,8.849070227597554,14,0,0,5,94
+2026-01-01,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Mariama Wade,07:56,09:17,Almadies,Grand Yoff,122.94,1:21:00,0:16:00,2,91.07,125.68,13.89,11.296992864833143,7,0,6,0,66
+2026-01-01,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Abdou Gueye,09:03,11:44,Yeumbeul,Mbao,28.03,2:41:00,0:08:00,1,10.45,13.12,9.72,34.68274613971721,21,3,6,0,77
+2026-01-01,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Mamadou Diop,10:20,11:55,Bargny,Keur Massar,101.34,1:35:00,0:40:00,4,64.0,77.74,9.81,9.678533999147842,17,3,4,0,63
+2026-01-01,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Aminata Sy,07:08,09:08,Mbao,Thiaroye,55.71,2:00:00,0:28:00,1,27.86,35.11,5.3,9.515305848387872,12,0,7,0,99
+2026-01-01,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Alioune Seck,06:04,07:50,Guédiawaye,Mbao,140.16,1:46:00,0:21:00,3,79.34,96.25,12.76,9.104168730157504,28,0,0,0,62
+2026-01-01,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Alioune Seck,11:20,13:58,Pikine,Keur Massar,140.65,2:38:00,1:00:00,3,53.41,68.45,27.26,19.382513110846983,12,0,0,0,65
+2026-01-01,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Fatou Sall,17:14,18:02,SOCOCIM Rufisque,Diamniadio,35.29,0:48:00,1:24:00,3,44.11,56.98,3.73,10.568476771935705,8,0,0,0,77
+2026-01-01,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Astou Diallo,18:26,19:51,Pikine,Almadies,21.66,1:25:00,1:00:00,4,15.29,20.82,2.09,9.639981871049793,16,0,4,0,71
+2026-01-01,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Alioune Seck,09:40,10:56,Port de Dakar,Yeumbeul,89.85,1:16:00,0:21:00,1,70.93,91.41,9.2,10.234733287213478,27,0,6,3,88
+2026-01-01,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Astou Diallo,07:31,08:42,Diamniadio,Bargny,101.58,1:11:00,0:32:00,4,85.84,104.7,11.91,11.722472560524661,29,0,3,0,96
+2026-01-01,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Aïssatou Ba,10:52,12:51,Almadies,Parcelles Assainies,90.22,1:59:00,0:45:00,5,45.49,55.72,8.1,8.982116495282153,18,0,5,0,98
+2026-01-01,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Astou Diallo,08:21,11:15,Plateau (Dakar),Keur Massar,35.91,2:54:00,0:36:00,3,12.38,16.34,9.89,27.538506223780885,11,5,0,4,74
+2026-01-01,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Astou Diallo,11:51,14:39,Plateau (Dakar),Bargny,110.04,2:48:00,1:40:00,5,39.3,46.31,35.05,31.84981803561666,17,0,7,1,100
+2026-01-01,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mariama Wade,13:24,14:08,Port de Dakar,Plateau (Dakar),134.86,0:44:00,1:55:00,5,183.9,236.61,46.8,34.700227631559834,25,0,0,0,63
+2026-01-01,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Aïssatou Ba,13:34,14:22,Bargny,Thiaroye,88.96,0:48:00,1:55:00,5,111.2,137.14,16.5,18.546431360313473,22,0,0,1,71
+2026-01-01,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Aïssatou Ba,06:10,06:46,Yeumbeul,Grand Yoff,33.82,0:36:00,1:45:00,5,56.37,75.83,5.58,16.49243369657125,6,2,1,0,69
+2026-01-01,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Abdou Gueye,17:59,19:29,Bargny,Thiaroye,112.0,1:30:00,1:40:00,4,74.67,90.5,9.22,8.227960758352584,9,0,0,0,84
+2026-01-01,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Abdou Gueye,14:06,16:42,Port de Dakar,Sébikotane,67.47,2:36:00,0:14:00,2,25.95,28.71,6.76,10.01980378117429,16,4,0,0,79
+2026-01-01,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Mamadou Diop,15:39,18:28,Parcelles Assainies,Port de Dakar,137.88,2:49:00,1:50:00,5,48.95,54.48,26.69,19.358535122723957,18,5,4,0,97
+2026-01-01,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Abdou Gueye,15:52,17:18,Diamniadio,Yeumbeul,46.99,1:26:00,0:28:00,1,32.78,40.48,8.76,18.643735955832703,16,0,0,0,78
+2026-01-01,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Khadija Kane,15:46,16:44,Almadies,Keur Massar,27.67,0:58:00,0:12:00,2,28.62,32.5,5.05,18.244162563092104,20,0,0,0,61
+2026-01-01,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Ousmane Fall,14:43,16:44,Sébikotane,Yeumbeul,90.54,2:01:00,1:15:00,5,44.9,55.76,25.38,28.02698788377073,18,0,8,5,87
+2026-01-01,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Ibrahima Sarr,16:46,18:36,Grand Yoff,Bargny,116.52,1:50:00,0:00:00,0,63.56,82.39,39.22,33.65668995624477,20,2,6,0,90
+2026-01-01,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Ibrahima Sarr,09:06,09:34,Pikine,Port de Dakar,29.57,0:28:00,0:00:00,0,63.36,84.57,8.81,29.785249527973072,18,0,0,4,71
+2026-01-01,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Ibrahima Sarr,11:45,12:22,Port de Dakar,SOCOCIM Rufisque,86.68,0:37:00,0:15:00,1,140.56,171.41,22.38,25.818988122109946,9,5,0,0,60
+2026-01-01,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Khadija Kane,06:11,08:58,Grand Yoff,Thiaroye,40.57,2:47:00,0:10:00,1,14.58,18.77,12.44,30.65772757893117,18,0,0,0,89
+2026-01-02,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Aminata Sy,18:10,20:56,Guédiawaye,Sébikotane,16.05,2:46:00,0:48:00,2,5.8,7.17,1.65,10.273408649725596,23,0,8,6,78
+2026-01-02,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Cheikh Ndiaye,13:24,14:01,Keur Massar,Grand Yoff,43.51,0:37:00,0:18:00,3,70.56,81.9,4.79,11.00093940184614,6,0,4,5,87
+2026-01-02,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ndèye Mbaye,12:47,14:59,Mbao,Keur Massar,126.52,2:12:00,0:30:00,1,57.51,72.68,12.56,9.925984515550573,25,0,6,0,61
+2026-01-02,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Abdou Gueye,12:07,13:09,Pikine,Plateau (Dakar),49.4,1:02:00,1:06:00,3,47.81,62.25,4.32,8.74174390295398,27,0,0,4,60
+2026-01-02,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Astou Diallo,18:59,20:30,Guédiawaye,Bargny,146.75,1:31:00,0:22:00,1,96.76,120.31,13.63,9.290668203119901,15,0,0,0,73
+2026-01-02,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Astou Diallo,13:50,15:49,Yeumbeul,Almadies,94.7,1:59:00,2:05:00,5,47.75,57.88,10.22,10.790523746406183,16,0,2,0,100
+2026-01-02,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Ousmane Fall,12:07,12:58,Guédiawaye,Bargny,11.21,0:51:00,0:00:00,0,13.19,16.64,1.23,10.993353172831378,17,0,0,0,61
+2026-01-02,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Mariama Wade,13:51,14:32,SOCOCIM Rufisque,Yeumbeul,63.57,0:41:00,0:23:00,1,93.03,118.25,7.14,11.232732966856219,7,5,0,0,69
+2026-01-02,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Abdou Gueye,18:21,21:10,Guédiawaye,Thiaroye,64.15,2:49:00,0:32:00,4,22.78,27.39,11.05,17.220729837223686,14,0,0,0,71
+2026-01-02,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Alioune Seck,06:06,07:21,Thiaroye,Bargny,35.75,1:15:00,0:32:00,4,28.6,38.31,9.35,26.161695300633745,13,0,1,0,74
+2026-01-02,SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,Khadija Kane,06:23,08:04,Sébikotane,Bargny,91.18,1:41:00,2:15:00,5,54.17,67.06,30.57,33.53072361112028,8,0,2,0,97
+2026-01-02,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Babacar Sow,11:14,13:26,Bargny,Thiaroye,144.75,2:12:00,0:42:00,3,65.8,81.71,12.1,8.360205138781962,20,0,1,1,73
+2026-01-02,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Cheikh Ndiaye,13:42,15:32,Plateau (Dakar),Parcelles Assainies,11.71,1:50:00,1:00:00,2,6.39,7.88,1.06,9.041576418867413,16,0,7,0,82
+2026-01-02,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Khadija Kane,10:28,12:41,Yeumbeul,Almadies,35.38,2:13:00,0:16:00,1,15.96,17.59,4.15,11.739106083667929,7,4,0,4,79
+2026-01-02,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Astou Diallo,09:32,10:48,Almadies,Guédiawaye,137.62,1:16:00,1:12:00,3,108.65,151.08,12.1,8.790769195634194,5,0,0,0,78
+2026-01-02,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Fatou Sall,06:30,07:49,Keur Massar,Port de Dakar,22.93,1:19:00,1:36:00,4,17.42,21.08,5.99,26.136089674429538,24,0,0,0,71
+2026-01-02,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Khadija Kane,07:01,07:48,Pikine,Keur Massar,67.15,0:47:00,1:00:00,3,85.72,103.5,22.29,33.196634577694525,17,0,5,0,82
+2026-01-02,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Khadija Kane,14:39,16:45,SOCOCIM Rufisque,Parcelles Assainies,125.17,2:06:00,0:35:00,5,59.6,67.77,33.12,26.459589307938256,25,0,0,0,100
+2026-01-02,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Moussa Diouf,12:58,14:13,Grand Yoff,Parcelles Assainies,144.85,1:15:00,0:42:00,3,115.88,134.21,45.31,31.28078796444857,5,2,8,6,74
+2026-01-02,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Fatou Sall,09:45,10:53,Parcelles Assainies,Sébikotane,75.68,1:08:00,0:30:00,5,66.78,91.07,22.17,29.297352869364104,13,0,0,6,98
+2026-01-02,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Khadija Kane,07:32,08:47,Keur Massar,Bargny,59.29,1:15:00,0:29:00,1,47.43,64.64,9.89,16.680625039739514,9,2,0,0,79
+2026-01-02,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Alioune Seck,18:04,20:10,Thiaroye,Parcelles Assainies,146.31,2:06:00,0:06:00,1,69.67,77.58,24.35,16.6449387375872,12,0,2,0,94
+2026-01-02,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Mariama Wade,08:20,08:51,Mbao,Thiaroye,76.08,0:31:00,0:22:00,1,147.25,168.84,13.3,17.47764714568291,21,0,0,0,93
+2026-01-02,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Moussa Diouf,17:44,20:37,Mbao,Pikine,44.26,2:53:00,0:00:00,0,15.35,21.02,7.4,16.729388014542717,13,0,0,0,67
+2026-01-02,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Fatou Sall,08:47,10:02,Yeumbeul,Plateau (Dakar),73.84,1:15:00,0:24:00,4,59.07,74.87,14.33,19.4057842779712,20,0,8,0,60
+2026-01-02,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Mariama Wade,16:05,17:58,Guédiawaye,Bargny,22.38,1:53:00,0:12:00,2,11.88,15.49,6.87,30.684237335745518,24,0,6,0,94
+2026-01-02,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Abdou Gueye,13:49,15:34,Pikine,Mbao,138.89,1:45:00,1:30:00,3,79.37,89.59,35.05,25.238878029324376,22,0,7,0,60
+2026-01-02,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Fatou Sall,17:51,18:27,SOCOCIM Rufisque,Guédiawaye,86.82,0:36:00,1:25:00,5,144.7,200.16,28.27,32.56432055423426,26,0,2,5,93
+2026-01-02,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Fatou Sall,09:52,12:37,Plateau (Dakar),Keur Massar,12.15,2:45:00,1:08:00,4,4.42,5.46,3.07,25.25220067873242,30,0,1,6,73
+2026-01-02,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Alioune Seck,13:44,15:25,SOCOCIM Rufisque,Pikine,91.52,1:41:00,0:18:00,3,54.37,66.04,26.82,29.307397736968227,13,0,0,4,75
+2026-01-02,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Babacar Sow,15:12,15:34,Grand Yoff,Bargny,107.8,0:22:00,0:48:00,4,294.0,368.04,32.11,29.785215920095624,21,0,0,0,63
+2026-01-03,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Moussa Diouf,07:31,09:56,Grand Yoff,Almadies,93.93,2:25:00,1:00:00,5,38.87,52.56,16.94,18.03444078451316,13,0,0,0,79
+2026-01-03,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Khadija Kane,15:49,18:34,Yeumbeul,Plateau (Dakar),132.75,2:45:00,0:44:00,2,48.27,64.68,23.27,17.526439366468914,13,0,1,2,65
+2026-01-03,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Mariama Wade,12:37,15:09,Grand Yoff,Yeumbeul,22.23,2:32:00,1:40:00,5,8.78,9.98,1.81,8.121002793011742,10,0,3,0,61
+2026-01-03,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Mariama Wade,16:48,18:18,Port de Dakar,Yeumbeul,136.06,1:30:00,0:25:00,1,90.71,121.56,13.35,9.811830041926756,28,0,0,6,100
+2026-01-03,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Aminata Sy,10:11,10:27,SOCOCIM Rufisque,Almadies,70.43,0:16:00,1:20:00,5,264.11,309.24,8.37,11.884148415422976,24,0,3,2,63
+2026-01-03,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Khadija Kane,12:41,15:06,Keur Massar,Port de Dakar,55.63,2:25:00,0:20:00,2,23.02,26.75,19.01,34.17635078469293,11,3,6,4,86
+2026-01-03,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Ibrahima Sarr,18:48,20:26,Keur Massar,Port de Dakar,41.33,1:38:00,1:24:00,4,25.3,30.37,13.24,32.04507138521416,28,0,3,0,75
+2026-01-03,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Ousmane Fall,18:41,19:12,Yeumbeul,Parcelles Assainies,92.16,0:31:00,0:00:00,0,178.37,230.38,27.82,30.18457461533041,19,0,0,0,68
+2026-01-03,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Astou Diallo,13:21,14:02,Plateau (Dakar),Grand Yoff,86.09,0:41:00,1:24:00,3,125.99,175.44,13.35,15.512623599993939,15,4,0,0,96
+2026-01-03,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Aïssatou Ba,17:56,20:29,Port de Dakar,Guédiawaye,98.41,2:33:00,0:00:00,0,38.59,44.08,16.86,17.131804777062737,28,4,0,4,66
+2026-01-03,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Khadija Kane,17:22,18:37,Pikine,Thiaroye,72.48,1:15:00,0:16:00,2,57.98,70.14,11.44,15.781194014754151,20,1,0,0,86
+2026-01-03,SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,Abdou Gueye,12:48,15:21,Yeumbeul,Guédiawaye,77.36,2:33:00,1:20:00,4,30.34,33.63,14.33,18.52991038112151,21,0,4,0,69
+2026-01-03,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Babacar Sow,10:02,10:46,Keur Massar,SOCOCIM Rufisque,24.63,0:44:00,0:27:00,3,33.59,45.9,2.62,10.635040711765216,6,0,0,0,74
+2026-01-03,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Mariama Wade,15:39,18:31,Port de Dakar,Keur Massar,85.57,2:52:00,1:24:00,3,29.85,34.78,23.52,27.48276463261697,14,0,0,5,93
+2026-01-03,SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,Fatou Sall,09:25,10:07,Thiaroye,Plateau (Dakar),136.24,0:42:00,1:12:00,4,194.63,230.64,37.44,27.481842837291108,29,5,8,0,84
+2026-01-03,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Abdou Gueye,10:03,11:01,Mbao,Sébikotane,91.35,0:58:00,0:00:00,0,94.5,119.69,14.29,15.641960267166072,7,0,0,1,61
+2026-01-03,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Abdou Gueye,13:08,15:56,Bargny,Diamniadio,35.23,2:48:00,0:21:00,1,12.58,16.46,5.85,16.60333071620595,16,0,0,0,69
+2026-01-03,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Mariama Wade,13:44,14:45,SOCOCIM Rufisque,Port de Dakar,111.51,1:01:00,0:48:00,2,109.68,138.92,21.5,19.278783050801476,16,3,0,0,84
+2026-01-03,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Ousmane Fall,07:41,08:16,Thiaroye,Guédiawaye,38.4,0:35:00,0:18:00,2,65.83,86.11,7.67,19.98684412411835,25,0,0,1,91
+2026-01-03,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Khadija Kane,14:17,16:50,Almadies,Guédiawaye,81.67,2:33:00,0:32:00,4,32.03,35.75,6.73,8.236213643926792,15,0,0,0,72
+2026-01-03,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Ousmane Fall,18:25,19:27,Sébikotane,Grand Yoff,98.37,1:02:00,0:20:00,2,95.2,115.35,10.45,10.618622652910712,17,1,7,0,82
+2026-01-03,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Babacar Sow,13:10,16:04,Sébikotane,Mbao,108.51,2:54:00,0:00:00,0,37.42,46.19,9.56,8.812751021391358,28,0,0,0,63
+2026-01-03,SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,Mamadou Diop,07:49,09:39,Parcelles Assainies,Port de Dakar,7.33,1:50:00,0:52:00,2,4.0,5.29,0.68,9.248317899995731,9,0,0,1,84
+2026-01-03,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Ibrahima Sarr,16:33,17:02,Bargny,Port de Dakar,79.1,0:29:00,0:07:00,1,163.66,187.3,24.16,30.539058749932934,13,0,3,5,60
+2026-01-03,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Khadija Kane,17:28,19:15,Yeumbeul,Port de Dakar,96.82,1:47:00,0:14:00,1,54.29,74.46,25.52,26.356748360789133,8,0,0,0,76
+2026-01-03,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Fatou Sall,13:25,13:46,SOCOCIM Rufisque,Pikine,25.54,0:21:00,1:35:00,5,72.97,88.37,7.23,28.30276286525685,29,0,0,0,81
+2026-01-03,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Khadija Kane,17:07,18:13,Guédiawaye,Grand Yoff,101.86,1:06:00,0:36:00,3,92.6,116.16,31.33,30.761359401160323,15,0,0,6,65
+2026-01-03,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Alioune Seck,13:22,14:14,Parcelles Assainies,Yeumbeul,66.59,0:52:00,0:24:00,1,76.83,102.46,16.79,25.221164906157966,6,0,5,0,67
+2026-01-03,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Ndèye Mbaye,14:28,17:22,Bargny,Yeumbeul,38.19,2:54:00,0:51:00,3,13.17,15.72,10.82,28.32247941657578,27,0,0,5,84
+2026-01-04,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Mariama Wade,06:45,07:12,Sébikotane,Thiaroye,97.86,0:27:00,1:18:00,3,217.47,297.82,17.15,17.52350145747426,25,0,3,0,73
+2026-01-04,SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,Ousmane Fall,17:27,20:09,Plateau (Dakar),Thiaroye,112.26,2:42:00,1:52:00,4,41.58,50.78,19.9,17.728499262576022,27,2,0,2,84
+2026-01-04,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Abdou Gueye,06:41,09:26,Bargny,Pikine,71.64,2:45:00,0:05:00,1,26.05,33.19,5.79,8.079432451645161,20,0,0,0,96
+2026-01-04,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Aïssatou Ba,06:50,08:24,Parcelles Assainies,Bargny,121.27,1:34:00,0:28:00,2,77.41,104.57,13.31,10.977661306831218,23,0,0,0,89
+2026-01-04,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Fatou Sall,07:35,08:10,Grand Yoff,Parcelles Assainies,92.91,0:35:00,1:06:00,3,159.27,209.12,8.68,9.340426651959469,29,5,0,0,96
+2026-01-04,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Fatou Sall,09:03,11:32,Bargny,Almadies,76.03,2:29:00,0:24:00,1,30.62,36.6,8.29,10.899077818040091,20,3,0,0,96
+2026-01-04,SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,Ndèye Mbaye,17:55,20:34,Yeumbeul,Grand Yoff,56.74,2:39:00,0:44:00,2,21.41,27.67,5.94,10.472249837811898,28,0,0,3,97
+2026-01-04,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Babacar Sow,07:26,09:08,Almadies,Diamniadio,21.41,1:42:00,0:21:00,3,12.59,16.82,6.37,29.74655272354005,28,5,2,0,61
+2026-01-04,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Aminata Sy,07:57,10:05,Parcelles Assainies,Sébikotane,115.28,2:08:00,1:40:00,4,54.04,75.52,32.73,28.39256648256115,29,0,5,0,64
+2026-01-04,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Cheikh Ndiaye,18:53,20:36,Grand Yoff,Bargny,131.54,1:43:00,0:18:00,3,76.63,90.84,38.84,29.52852243734197,12,0,0,0,79
+2026-01-04,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Khadija Kane,17:42,18:43,Port de Dakar,Keur Massar,34.74,1:01:00,0:56:00,2,34.17,46.75,8.95,25.75798234346142,22,0,0,0,87
+2026-01-04,SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,Khadija Kane,12:32,13:50,Bargny,Guédiawaye,47.23,1:18:00,0:39:00,3,36.33,49.66,15.01,31.78659342676867,12,2,0,0,90
+2026-01-04,SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,Aïssatou Ba,15:55,18:52,Port de Dakar,Almadies,146.99,2:57:00,0:18:00,1,49.83,62.75,41.27,28.074057293814683,14,1,3,4,68
+2026-01-04,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Fatou Sall,16:05,17:58,Guédiawaye,SOCOCIM Rufisque,146.36,1:53:00,0:00:00,0,77.71,98.8,13.06,8.924746458492692,5,3,7,6,73
+2026-01-04,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Moussa Diouf,09:41,11:34,Bargny,Pikine,112.28,1:53:00,0:26:00,2,59.62,67.82,10.03,8.928949647555855,16,0,2,0,64
+2026-01-04,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Ousmane Fall,18:17,19:46,Diamniadio,Plateau (Dakar),145.27,1:29:00,0:17:00,1,97.93,130.22,16.98,11.692006152354272,18,0,0,0,63
+2026-01-04,SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,Khadija Kane,12:04,13:51,Sébikotane,SOCOCIM Rufisque,86.45,1:47:00,0:06:00,1,48.48,65.82,7.93,9.167238979993726,26,0,0,0,91
+2026-01-04,SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,Astou Diallo,11:20,13:53,Plateau (Dakar),Keur Massar,108.77,2:33:00,0:54:00,2,42.65,54.49,12.58,11.561308841606861,19,0,5,0,87
+2026-01-04,SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,Ndèye Mbaye,14:29,14:59,Mbao,Thiaroye,149.03,0:30:00,0:30:00,1,298.06,348.22,28.21,18.930194941162483,16,0,7,3,76
+2026-01-04,SOC-012,DK-3068-NW,Camion Benne,Renault Master,Mariama Wade,11:21,12:01,Guédiawaye,Parcelles Assainies,78.7,0:40:00,1:40:00,4,118.05,143.62,23.88,30.346686839047177,25,0,0,0,77
+2026-01-04,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Astou Diallo,15:02,15:54,Plateau (Dakar),Mbao,74.33,0:52:00,0:46:00,2,85.77,113.56,11.36,15.283723933319976,21,0,0,0,80
+2026-01-04,SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,Fatou Sall,10:40,11:48,Mbao,Bargny,45.72,1:08:00,0:00:00,0,40.34,51.98,7.31,15.996702948405424,27,0,0,0,73
+2026-01-04,SOC-014,DK-6710-OT,Camion Benne,Renault Master,Abdou Gueye,16:02,16:38,Bargny,Sébikotane,41.13,0:36:00,1:27:00,3,68.55,75.73,11.59,28.181093476423243,17,0,0,4,80
+2026-01-04,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mariama Wade,07:17,09:42,Pikine,Mbao,143.01,2:25:00,0:51:00,3,59.18,65.74,42.05,29.401285394242983,22,0,0,5,89
+2026-01-04,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Mamadou Diop,13:20,15:56,Yeumbeul,Parcelles Assainies,70.68,2:36:00,1:52:00,4,27.18,31.42,21.17,29.947552510314555,25,0,0,0,80
+2026-01-04,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Abdou Gueye,12:12,14:18,Mbao,Guédiawaye,97.76,2:06:00,1:32:00,4,46.55,54.43,26.31,26.916282325641056,10,0,7,0,85
+2026-01-04,SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,Cheikh Ndiaye,09:51,10:57,Grand Yoff,Yeumbeul,24.01,1:06:00,2:00:00,5,21.83,29.7,6.41,26.685223957364602,27,0,7,3,76

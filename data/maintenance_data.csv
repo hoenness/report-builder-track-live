@@ -1,0 +1,16 @@
+Véhicule,Immatriculation,Type,Km depuis Maint.,Km jusqu'à Maint.,Jours depuis Maint.,Code Erreur,Description,Statut,Prochaine Intervention
+SOC-001,DK-2701-OW,Chariot Élévateur,13112,205,41,Aucun,Catalyseur défaillant,✅ OK,Révision
+SOC-002,DK-4406-ZL,Véhicule Léger,6427,386,69,Aucun,Aucune,✅ OK,Révision
+SOC-003,DK-5264-JU,Camion Ciment,10290,6613,30,P0171,Aucune,🔴 Urgent,Entretien Standard
+SOC-004,DK-7162-IQ,Camion Ciment,7268,9026,48,P0420,Raté allumage cylindre 1,🔴 Urgent,Entretien Standard
+SOC-005,DK-6497-PB,Véhicule Léger,3590,12862,9,Aucun,Aucune,✅ OK,Entretien Standard
+SOC-006,DK-2604-SY,Chariot Élévateur,6504,5950,5,Aucun,Aucune,✅ OK,Entretien Standard
+SOC-007,DK-8504-WU,Camion Ciment,10334,7979,43,Aucun,Aucune,✅ OK,Entretien Standard
+SOC-008,DK-8462-JA,Véhicule Léger,10267,2742,37,Aucun,Aucune,✅ OK,Vidange
+SOC-009,DK-9129-DE,Camion Benne,4487,4416,42,Aucun,Aucune,✅ OK,Vidange
+SOC-010,DK-3338-CE,Chariot Élévateur,6695,-102,22,Aucun,Aucune,✅ OK,Révision
+SOC-011,DK-7433-NO,Véhicule Léger,5262,14406,31,Aucun,Aucune,✅ OK,Entretien Standard
+SOC-012,DK-3068-NW,Camion Benne,11640,-6193,55,Aucun,Aucune,✅ OK,Révision
+SOC-013,DK-8777-SQ,Chariot Élévateur,12023,528,89,Aucun,Aucune,✅ OK,Révision
+SOC-014,DK-6710-OT,Camion Benne,9503,8203,17,Aucun,Aucune,✅ OK,Entretien Standard
+SOC-015,DK-3180-MJ,Camion Benne,13187,2576,59,P0171,Capteur vitesse roue,🔴 Urgent,Vidange

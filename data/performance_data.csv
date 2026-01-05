@@ -1,0 +1,16 @@
+Véhicule,Immatriculation,Type,Modèle,Km Parcourus,Carburant Total (L),Conso Moy (L/100km),Temps Ralenti (h),Vitesse Moy (km/h),Vitesse Max (km/h),Score Conduite,Efficacité (%)
+SOC-001,DK-2701-OW,Chariot Élévateur,Renault Master,5034.33,880.38,17.49,19.58,76.15,520.79,75.0,43.0
+SOC-002,DK-4406-ZL,Véhicule Léger,Hyster H50,7306.64,734.72,10.06,28.47,80.63,585.24,81.0,52.0
+SOC-003,DK-5264-JU,Camion Ciment,Mercedes Actros,5228.42,1560.26,29.84,22.43,56.56,399.1,79.0,32.0
+SOC-004,DK-7162-IQ,Camion Ciment,Renault Master,4113.89,1234.11,30.0,14.92,82.5,779.42,80.0,32.0
+SOC-005,DK-6497-PB,Véhicule Léger,Hyster H50,5368.14,530.87,9.89,19.55,73.62,388.4,79.0,52.0
+SOC-006,DK-2604-SY,Chariot Élévateur,Volvo FH16,3752.42,655.9,17.48,14.97,71.92,535.57,80.0,45.0
+SOC-007,DK-8504-WU,Camion Ciment,Mercedes Actros,4573.69,1385.49,30.29,17.2,75.39,636.35,81.0,32.0
+SOC-008,DK-8462-JA,Véhicule Léger,Renault Master,4480.2,443.81,9.91,14.83,72.41,426.55,82.0,53.0
+SOC-009,DK-9129-DE,Camion Benne,Mercedes Actros,5030.96,1504.31,29.9,19.52,63.16,591.54,81.0,32.0
+SOC-010,DK-3338-CE,Chariot Élévateur,Mercedes Actros,5442.93,945.71,17.38,19.02,74.56,476.25,80.0,45.0
+SOC-011,DK-7433-NO,Véhicule Léger,Volvo FH16,5241.48,525.53,10.03,15.98,87.78,561.35,80.0,52.0
+SOC-012,DK-3068-NW,Camion Benne,Renault Master,5932.71,1790.45,30.18,22.18,77.54,367.84,80.0,32.0
+SOC-013,DK-8777-SQ,Chariot Élévateur,Volvo FH16,4885.0,851.22,17.43,20.63,57.65,292.56,78.0,44.0
+SOC-014,DK-6710-OT,Camion Benne,Renault Master,4029.19,1198.28,29.74,14.83,72.0,585.98,81.0,33.0
+SOC-015,DK-3180-MJ,Camion Benne,Hyster H50,5583.72,1696.97,30.39,22.2,60.03,379.38,79.0,32.0

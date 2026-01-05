@@ -1,0 +1,46 @@
+Date,Heure,Véhicule,Type,Zone,Détails,Statut,Priorité
+2025-12-06,17:21,SOC-002,🚨 Excès de vitesse,Keur Massar,Vitesse max: 120.04 km/h,Résolue,Haute
+2025-12-06,15:19,SOC-005,🚨 Excès de vitesse,Port de Dakar,Vitesse max: 175.22 km/h,Active,Haute
+2025-12-06,09:08,SOC-006,🚨 Excès de vitesse,Plateau (Dakar),Vitesse max: 55.92 km/h,Résolue,Haute
+2025-12-06,14:50,SOC-006,🚨 Excès de vitesse,Sébikotane,Vitesse max: 7.06 km/h,Active,Haute
+2025-12-06,11:00,SOC-008,🚨 Excès de vitesse,SOCOCIM Rufisque,Vitesse max: 29.49 km/h,Résolue,Haute
+2025-12-06,12:10,SOC-008,🚨 Excès de vitesse,Diamniadio,Vitesse max: 19.51 km/h,Résolue,Haute
+2025-12-07,12:47,SOC-002,🚨 Excès de vitesse,Diamniadio,Vitesse max: 585.24 km/h,Active,Haute
+2025-12-07,12:14,SOC-003,🚨 Excès de vitesse,Yeumbeul,Vitesse max: 41.12 km/h,Active,Haute
+2025-12-07,18:32,SOC-003,🚨 Excès de vitesse,Almadies,Vitesse max: 123.97 km/h,Résolue,Haute
+2025-12-07,09:55,SOC-003,🚨 Excès de vitesse,Bargny,Vitesse max: 47.11 km/h,Active,Haute
+2025-12-07,15:28,SOC-005,🚨 Excès de vitesse,Pikine,Vitesse max: 145.34 km/h,Active,Haute
+2025-12-07,11:28,SOC-005,🚨 Excès de vitesse,Parcelles Assainies,Vitesse max: 105.26 km/h,Résolue,Haute
+2025-12-07,16:46,SOC-006,🚨 Excès de vitesse,Yeumbeul,Vitesse max: 154.99 km/h,Résolue,Haute
+2025-12-07,18:29,SOC-007,🚨 Excès de vitesse,Parcelles Assainies,Vitesse max: 41.1 km/h,Active,Haute
+2025-12-07,14:18,SOC-010,🚨 Excès de vitesse,Thiaroye,Vitesse max: 13.14 km/h,Active,Haute
+2025-12-07,12:00,SOC-013,🚨 Excès de vitesse,Mbao,Vitesse max: 35.71 km/h,Active,Haute
+2025-12-07,09:25,SOC-014,🚨 Excès de vitesse,Thiaroye,Vitesse max: 40.59 km/h,Active,Haute
+2025-12-08,10:27,SOC-001,🚨 Excès de vitesse,Mbao,Vitesse max: 6.21 km/h,Résolue,Haute
+2025-12-08,09:03,SOC-002,🚨 Excès de vitesse,Pikine,Vitesse max: 165.82 km/h,Active,Haute
+2025-12-08,08:02,SOC-003,🚨 Excès de vitesse,Parcelles Assainies,Vitesse max: 41.05 km/h,Résolue,Haute
+2025-12-06,17:54,SOC-005,⚠️ Conduite dangereuse,Parcelles Assainies,8 freinages brusques,Active,Moyenne
+2025-12-06,21:23,SOC-006,⚠️ Conduite dangereuse,Grand Yoff,4 freinages brusques,Active,Moyenne
+2025-12-06,12:34,SOC-006,⚠️ Conduite dangereuse,Almadies,5 freinages brusques,Résolue,Moyenne
+2025-12-06,19:51,SOC-008,⚠️ Conduite dangereuse,Parcelles Assainies,8 freinages brusques,Résolue,Moyenne
+2025-12-06,13:41,SOC-008,⚠️ Conduite dangereuse,Mbao,6 freinages brusques,Résolue,Moyenne
+2025-12-06,17:22,SOC-010,⚠️ Conduite dangereuse,Grand Yoff,6 freinages brusques,Active,Moyenne
+2025-12-07,19:19,SOC-002,⚠️ Conduite dangereuse,Keur Massar,5 freinages brusques,Résolue,Moyenne
+2025-12-07,10:47,SOC-003,⚠️ Conduite dangereuse,Parcelles Assainies,6 freinages brusques,Résolue,Moyenne
+2025-12-07,10:09,SOC-005,⚠️ Conduite dangereuse,Parcelles Assainies,8 freinages brusques,Résolue,Moyenne
+2025-12-07,16:41,SOC-005,⚠️ Conduite dangereuse,Plateau (Dakar),5 freinages brusques,Active,Moyenne
+2025-12-07,09:50,SOC-005,⚠️ Conduite dangereuse,Parcelles Assainies,6 freinages brusques,Active,Moyenne
+2025-12-07,10:51,SOC-007,⚠️ Conduite dangereuse,Pikine,5 freinages brusques,Résolue,Moyenne
+2025-12-07,07:28,SOC-007,⚠️ Conduite dangereuse,Keur Massar,6 freinages brusques,Active,Moyenne
+2025-12-07,10:54,SOC-010,⚠️ Conduite dangereuse,Sébikotane,6 freinages brusques,Active,Moyenne
+2025-12-07,15:28,SOC-010,⚠️ Conduite dangereuse,Diamniadio,7 freinages brusques,Résolue,Moyenne
+2025-12-12,16:36,SOC-003,📍 Sortie de zone,Keur Massar,Sortie zone autorisée,Résolue,Faible
+2025-12-08,16:15,SOC-005,📍 Sortie de zone,Keur Massar,Sortie zone autorisée,Résolue,Faible
+2025-12-29,16:02,SOC-002,📍 Sortie de zone,Yeumbeul,Sortie zone autorisée,Résolue,Faible
+2025-12-20,22:23,SOC-006,📍 Sortie de zone,Almadies,Sortie zone autorisée,Résolue,Faible
+2025-12-27,03:02,SOC-010,📍 Sortie de zone,Parcelles Assainies,Sortie zone autorisée,Résolue,Faible
+2025-12-07,18:31,SOC-002,📍 Sortie de zone,Port de Dakar,Sortie zone autorisée,Résolue,Faible
+2025-12-15,19:15,SOC-015,📍 Sortie de zone,Almadies,Sortie zone autorisée,Résolue,Faible
+2025-12-09,04:08,SOC-014,📍 Sortie de zone,Diamniadio,Sortie zone autorisée,Résolue,Faible
+2025-12-30,05:57,SOC-007,📍 Sortie de zone,Bargny,Sortie zone autorisée,Résolue,Faible
+2025-12-11,07:18,SOC-006,📍 Sortie de zone,Sébikotane,Sortie zone autorisée,Résolue,Faible
